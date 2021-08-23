@@ -40,27 +40,24 @@ give me alcohol or else
     </tr>
 </table>
 
-* <i class="fas fa-file fa-lg"></i> You can also download my resume [here](cv.pdf)
+* <i class="fas fa-file fa-lg"></i> You can also download my resume [here](RESUME - Jasmine Qiao.pdf)
 
-### My photo gallery
+### Gallery
 
 [Have a look at my photo gallery](/photo.md)
 
-# Eduction
+# Education
 
-* (1983-Forever) - Student 
+*A.Y. Jackson Secondary School (ew)
 
 ## Technical Skills
-
+better tahn any indian tech support guy you can call
 ### Programming Languages
 
-* Elm
+* english
 
 ### My professional experiences
 
 ```markdown
-1. (2006-2007) Software Developer
-2. (2007-2010) Project Leader
-3. (2010-2015) IT Manager
-4. (2-15- Now) Product Mangager
+no you
 ```
