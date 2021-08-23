@@ -37,6 +37,9 @@ give me alcohol or else
         <td>
             <a href="https://www.instagram.com/jqwq_art/" target="blank"><i class="fab fa-instagram fa-lg"></i> Instagram</a>
         </td>
+        <td>
+            <i class="fab fa-discord fa-lg"></i> Discord: жасминичка💚#5043</a>
+        </td>
     </tr>
 </table>
 
@@ -48,7 +51,7 @@ give me alcohol or else
 
 # Education
 
-*A.Y. Jackson Secondary School (ew)
+*A.Y. Jackson Secondary School 2017-2021 (ew)
 
 ## Technical Skills
 better tahn any indian tech support guy you can call
