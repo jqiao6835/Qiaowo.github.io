@@ -3,7 +3,7 @@
 <script src="https://kit.fontawesome.com/6d173168d3.js" crossorigin="anonymous"></script>
 
 ## Personal Information
-Surname(s) / First name(s): **Write down your full name here**
+Surname(s) / First name(s): **Jam Qiao**
 
 Email(s): [gus46(at)mcmaster(dot)ca](mailto:gus46@mcmaster.ca)
 
@@ -11,20 +11,20 @@ Date of birth: December 17, 2003
 
 ### About Me
 
-I am a first year student studying computer science at McMaster University
-
+hohoho im santa and im 18 and legal
+give me alcohol or else
 
 
 
 ### List of hobbies:
 ```markdown
-* Coding
-  * Elm
-  * Haskell
-    * Stack
-    * ghc
-* Biking
-* Hiking
+* REEEEEEe
+* mmmicrowave
+* ur mom
+* being a boomer
+* Sky lmao
+* HMMMMMMmmMMM
+* ha
 ```
 
 ### Find me here
@@ -32,13 +32,10 @@ I am a first year student studying computer science at McMaster University
 <table>
     <tr>
         <td>
-            <a href="https://github.com/yourname" target="blank"><i class="fab fa-github fa-lg"></i> GitHub</a>
+            <a href="https://www.youtube.com/channel/UCKW-d_GlZ-sblBa18tChqbw" target="blank"><i class="fab fa-youtube fa-lg"></i> Youtube</a>
         </td>
         <td>
-            <a href="https://linkedin.com/youraccount" target="blank"><i class="fab fa-linkedin fa-lg"></i> Linkedin</a>
-        </td>
-        <td>
-            <a href="https://twitter.com/youraccount" target="blank"><i class="fab fa-twitter-square fa-lg"></i> Twitter</a>
+            <a href="https://www.instagram.com/jqwq_art/" target="blank"><i class="fab fa-instagram fa-lg"></i> Instagram</a>
         </td>
     </tr>
 </table>
