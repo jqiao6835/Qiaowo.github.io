@@ -15,9 +15,9 @@ I am a first year student studying computer science at McMaster University
 
 
 
-```markdown
-### List of hobbies:
 
+### List of hobbies:
+```markdown
 * Coding
   * Elm
   * Haskell
