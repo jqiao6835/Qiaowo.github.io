@@ -7,14 +7,16 @@ Surname(s) / First name(s): **Jam Qiao**
 
 Email(s): [jqiao6835(at)gmail(dot)com](mailto:jqiao6835@gmail.com)
 
-Date of birth:2003
+Date of birth: 2003
 
 ### About Me
 
-hohoho im santa and im 18 and legal
-give me alcohol or else
-im infp 
-
+Hello, my name is Jam.
+I'm 18 and attending Sheridan College.
+I am an INFP-T and my favourite colour is green.
+I like animals especially if they are green.
+I am proudly a member of <a href="https://discord.gg/PZaPX5Mt" target="blank"></i> Quarantined Bagels</a>
+       
 
 ### List of hobbies:
 ```markdown
@@ -37,6 +39,7 @@ im infp
         <td>
             <a href="https://www.instagram.com/jqwq_art/" target="blank"><i class="fab fa-instagram fa-lg"></i> Instagram</a>
         </td>
+        
         <td>
             <i class="fab fa-discord fa-lg"></i> Discord: жасминичка💚#5043
         </td>
