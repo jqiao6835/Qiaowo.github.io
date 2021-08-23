@@ -3,13 +3,15 @@
 <script src="https://kit.fontawesome.com/6d173168d3.js" crossorigin="anonymous"></script>
 
 ## Personal Information
-Surname(s) / First name(s): **Jam Qiao**
+**Jam Qiao**
 
 Email(s): [jqiao6835(at)gmail(dot)com](mailto:jqiao6835@gmail.com)
 
 Date of birth: 2003
 
-### About Me
+Location: Toronto, Canada
+
+##### About Me
 
 Hello, my name is Jam.
 I'm 18 and attending Sheridan College.
@@ -29,7 +31,7 @@ I am proudly a member of <a href="https://discord.gg/PZaPX5Mt" target="blank"></
 * ha
 ```
 
-### Find me here
+##### Find me here
 
 <table>
     <tr>
