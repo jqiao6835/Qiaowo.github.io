@@ -5,15 +5,15 @@
 ## Personal Information
 Surname(s) / First name(s): **Jam Qiao**
 
-Email(s): [gus46(at)mcmaster(dot)ca](mailto:gus46@mcmaster.ca)
+Email(s): [jqiao6835(at)gmail(dot)com](mailto:jqiao6835@gmail.com)
 
-Date of birth: December 17, 2003
+Date of birth:2003
 
 ### About Me
 
 hohoho im santa and im 18 and legal
 give me alcohol or else
-
+im infp 
 
 
 ### List of hobbies:
@@ -38,7 +38,7 @@ give me alcohol or else
             <a href="https://www.instagram.com/jqwq_art/" target="blank"><i class="fab fa-instagram fa-lg"></i> Instagram</a>
         </td>
         <td>
-            <i class="fab fa-discord fa-lg"></i> Discord: жасминичка💚#5043</a>
+            <i class="fab fa-discord fa-lg"></i> Discord: жасминичка💚#5043
         </td>
     </tr>
 </table>
