@@ -18,7 +18,7 @@ I like animals especially if they are green.
 I am proudly a member of <a href="https://discord.gg/PZaPX5Mt" target="blank"></i> Quarantined Bagels</a>
        
 
-### List of hobbies:
+##### List of hobbies:
 ```markdown
 * REEEEEEe
 * mmmicrowave
@@ -54,7 +54,7 @@ I am proudly a member of <a href="https://discord.gg/PZaPX5Mt" target="blank"></
 
 # Education
 
-*A.Y. Jackson Secondary School 2017-2021 (ew)
+A.Y. Jackson Secondary School 2017-2021 (ew)
 
 ## Technical Skills
 better tahn any indian tech support guy you can call
