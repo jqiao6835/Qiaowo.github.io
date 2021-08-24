@@ -13,13 +13,13 @@ Location: Toronto, Canada
 
 ## About Me
 
->🌿 Hello, my name is Jam. I am a happy Canadian🍁
+>🌿 Hello, my name is Jam. I am a happy Canadian.🍁
 
 >🌿 I'm 18 and attending Sheridan College.
 
 >🌿 I am an INFP-T and my favourite colour is green.
 
->🌿 I am lethally addicted to Sky Children of the Light😃
+>🌿 I am lethally addicted to Sky Children of the Light.😃
 
 >🌿 I like animals especially if they are green.
 
