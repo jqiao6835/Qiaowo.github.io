@@ -11,7 +11,7 @@ Year of birth: 2003
 
 Location: Toronto, Canada
 
-##### About Me
+#### About Me
 
 * Hello, my name is Jam. I am a happy Canadian🍁
 * I'm 18 and attending Sheridan College.
@@ -22,7 +22,7 @@ Location: Toronto, Canada
 * I speak English, Mandarin and can understand some French and Italian 
 
 
-##### List of hobbies:
+#### List of hobbies:
 * Drawing
 * Cooking
 * Walking/Hiking
