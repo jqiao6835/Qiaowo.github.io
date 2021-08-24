@@ -7,13 +7,13 @@
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">🍀Qiaowo🍀</p></h1>
 
-<p style="color:#00613c;">
+<p style="color:#007045;">
 
-Email(s): jqiao6835@gmail.com [jqiao6835@gmail.com](mailto:jqiao6835@gmail.com)
+- Email(s): jqiao6835@gmail.com 
 
- Year of birth: 2003
+- Year of birth: 2003
 
- Location: Toronto, Canada
+- Location: Toronto, Canada
 </p>
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">About Me</p></h1>
