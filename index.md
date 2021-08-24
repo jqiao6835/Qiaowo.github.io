@@ -88,7 +88,6 @@ no you
 Thanks for helping me with this project! It wouldn't have been possible for me to become addicted to coding this without you guys. :))
 
 
->🔵🐯 Flora Fu (Quarantined Bagels GitHub Owner)
-<a href="https://yfsufate.github.io/Bagels/" target="blank">Quarantined Bagels</a>
+🔵🐯 Flora Fu (<a href="https://yfsufate.github.io/Bagels/" target="blank">Quarantined Bagels</a> GitHub Owner)
 
->🟣💀 Stella Gu
+🟣💀 Stella Gu
