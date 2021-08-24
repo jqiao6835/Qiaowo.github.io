@@ -61,6 +61,7 @@ Location: Toronto, Canada
 
 * A.Y. Jackson Secondary School 2017-2021 (ew)
 * Sheridan College 2021-idk man
+* Some kindergarden....I hope...
 
 ## Technical Skills
 better tahn any indian tech support guy you can call
