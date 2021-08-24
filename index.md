@@ -90,7 +90,7 @@ no you
 
 I like to press buttons on soundboards :))
 
-<h1 style="font-size:20px;"><p style="color:#2E8B57;">Gallery</p></h1>
+<h1 style="font-size:20px;"><p style="color:#2E8B57;">Gallery of Very Sus Photos</p></h1>
 
 [📷Take a look at my photo gallery!📷](/photo.md)
 

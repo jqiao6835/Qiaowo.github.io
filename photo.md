@@ -6,5 +6,6 @@
 ![Me hiding from camera](/githubimages/I_hide.jpg)
 ![Flora ascends](/githubimages/Flora_ascends.jpg)
 ![Mayya dies](/githubimages/mayya_ded.jpg)
+![Sus night photo](/nightphotosus.jpg)
 
 [Back To Home](/index.md)
