@@ -1,5 +1,5 @@
 <p style="border:4px solid DarkSeaGreen;"></p>
-<p style="color:DarkSeaGreen;">Home</p>
+<h1 style="font-size:60px;"><p style="color:DarkSeaGreen;">Home</p></h1>
 
 <script src="https://kit.fontawesome.com/6d173168d3.js" crossorigin="anonymous"></script>
 
