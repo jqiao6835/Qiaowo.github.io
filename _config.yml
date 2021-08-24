@@ -4,3 +4,9 @@ description: <p style="color:DarkGreen;">[💚~Welcome to Qiaowo's GitHub~💚]<
 logo: /images/jam fluffly black cape (2).png
 show_downloads: true
 google_analytics: [UA-175791564-1]
+html {
+height: 100%;
+}
+body {
+background-image: linear-gradient(#FFFFFF, rgb(255, 122, 89));
+}
