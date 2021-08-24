@@ -8,13 +8,14 @@
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">🍀Qiaowo🍀</p></h1>
 
 <p style="color:#007045;">
+```markdown
+<b>Email(s):</b> jqiao6835@gmail.com 
 
-- Email(s): jqiao6835@gmail.com 
+Year of birth: 2003
 
-- Year of birth: 2003
-
-- Location: Toronto, Canada
+Location: Toronto, Canada
 </p>
+```
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">About Me</p></h1>
 
@@ -95,7 +96,7 @@ I like to press buttons on soundboards :))
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">Member of Quarantined Bagels Discord Server</p></h1>
 
-✨🥯 <a href="https://discord.gg/PZaPX5Mt" target="blank">Quarantined Bagels</a>🥯✨
+✨🥯<a href="https://discord.gg/PZaPX5Mt" target="blank">Quarantined Bagels</a>🥯✨
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">Questionable Quotes by Moi🙂</p></h1>
 
