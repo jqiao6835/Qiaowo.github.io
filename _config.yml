@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
-title: <h1 style="border:2px #8FBC8F;">Qiaowo's Sus Page</h1>
-description: <p style="color:MediumSeaGreen;">[💚~Welcome to Qiaowo's GitHub~💚]</p>
+title: <h1 style="border:2px solid DarkSeaGreen;">Qiaowo's Sus Page</h1>
+description: [💚~Welcome to Qiaowo's GitHub~💚]<p style="color:MediumSeaGreen;">[💚~Welcome to Qiaowo's GitHub~💚]</p>
 logo: /images/jam fluffly black cape (2).png
 show_downloads: true
 google_analytics: [UA-175791564-1]
