@@ -2,8 +2,8 @@
 
 <script src="https://kit.fontawesome.com/6d173168d3.js" crossorigin="anonymous"></script>
 
-## <p style="color:DarkGreen;">Personal Information
-**Qiaowo**</p>
+## <h1 style="color:DarkGreen;">Personal Information
+**Qiaowo**</h1>
 
 Email(s): [jqiao6835@gmail.com](mailto:jqiao6835@gmail.com)
 
