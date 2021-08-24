@@ -109,11 +109,11 @@ These are quotes said by me some point in time in the Quarantined Bagels Discord
 
 >"我凹特你" - Jasmine 2020
 
->"Surrealism is just bs of art" -Jasmine 2020
+>"Surrealism is just bs of art" - Jasmine 2020
 
->"I forgot how that song went......<b>SHOW YOURSELF</b>" -jasmine 2020
+>"I forgot how that song went......<b>SHOW YOURSELF</b>" - Jasmine 2020
 
->"ok english pls 再说一次 pls in proper engrish"-Jasmine 2020
+>"ok english pls 再说一次 pls in proper engrish" - Jasmine 2020
 
 >Stella accidentally says to Jasmine: "U CUTE FINCH"   Jasmine: "wow did u just compliment-"  Stella: "WAIT"   Jasmine: *shook* "someone quote her" - 2020
 
