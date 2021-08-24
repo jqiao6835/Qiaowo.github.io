@@ -12,7 +12,7 @@ Year of birth: 2003
 Location: Toronto, Canada
 
 #### About Me
-`
+
 🌿 Hello, my name is Jam. I am a happy 
 Canadian🍁
 
@@ -31,7 +31,7 @@ of the Light😃
 
 🌿 I speak English, Mandarin and 
 can understand some French and Italian 
-`
+
 
 ## List of hobbies:
 * Drawing
