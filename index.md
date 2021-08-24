@@ -12,7 +12,7 @@ Year of birth: 2003
 Location: Toronto, Canada
 
 #### About Me
-
+<pre>
 *🌿 Hello, my name is Jam. I am a happy Canadian🍁
 *🌿 I'm 18 and attending Sheridan College.
 *🌿 I am an INFP-T and my favourite colour is green.
@@ -20,7 +20,7 @@ Location: Toronto, Canada
 *🌿 I like animals especially if they are green.
 *🌿 I am proudly a member of <a href="https://discord.gg/PZaPX5Mt" target="blank">Quarantined Bagels</a>
 *🌿 I speak English, Mandarin and can understand some French and Italian 
-
+</pre>
 
 ## List of hobbies:
 * Drawing
