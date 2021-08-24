@@ -23,7 +23,6 @@ I speak English, Mandarin and can understand some French and Italian
 ```
 
 ##### List of hobbies:
-```markdown
 * Drawing
 * Cooking
 * Walking/Hiking
@@ -31,7 +30,6 @@ I speak English, Mandarin and can understand some French and Italian
 * 
 * HMMMMMMmmMMM
 * ha
-```
 
 ##### Find me here
 
@@ -58,7 +56,8 @@ I speak English, Mandarin and can understand some French and Italian
 
 # Education
 
-A.Y. Jackson Secondary School 2017-2021 (ew)
+* A.Y. Jackson Secondary School 2017-2021 (ew)
+* Sheridan College 2021-idk man
 
 ## Technical Skills
 better tahn any indian tech support guy you can call
