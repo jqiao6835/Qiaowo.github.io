@@ -50,9 +50,6 @@ Location: Toronto, Canada
 
 * <i class="fas fa-file fa-lg"></i> You can also download my resume [here](RESUME - Jasmine Qiao.pdf)
 
-## Gallery
-
-[Have a look at my photo gallery](/photo.md)
 
 ### Education
 
@@ -61,6 +58,7 @@ Location: Toronto, Canada
 
 ## Technical Skills
 better tahn any indian tech support guy you can call
+
 ## Programming Languages
 
 * english
@@ -70,3 +68,6 @@ better tahn any indian tech support guy you can call
 ```markdown
 no you
 ```
+## Gallery
+
+[Have a look at my photo gallery](/photo.md)
