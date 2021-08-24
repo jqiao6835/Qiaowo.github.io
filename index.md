@@ -1,9 +1,9 @@
 <p style="border:4px solid DarkSeaGreen;"></p>
-<h1 style="font-size:60px;"><p style="color:DarkSeaGreen;">Home</p></h1>
+<h1 style="font-size:40px;"><p style="color:DarkSeaGreen;">Home</p></h1>
 
 <script src="https://kit.fontawesome.com/6d173168d3.js" crossorigin="anonymous"></script>
 
-## Personal Information
+<h1 style="font-size:30px;"><p style="color:DarkSeaGreen;">Personal Information</p></h1>
 
 <h1 style="color:SeaGreen;">🍀Qiaowo🍀</h1>
 
@@ -13,7 +13,7 @@ Year of birth: 2003
 
 Location: Toronto, Canada
 
-## About Me
+<h1 style="font-size:30px;"><p style="color:DarkSeaGreen;">About Me</p></h1>
 
 >🌿 Hello, my name is Jam. I am a happy Canadian.🍁
 
