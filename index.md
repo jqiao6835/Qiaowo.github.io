@@ -22,7 +22,7 @@ Email(s): jqiao6835@gmail.com [jqiao6835@gmail.com](mailto:jqiao6835@gmail.com)
 
 >🌿 I'm 18 and am attending Sheridan College.
 
->🌿 I am an INFP-T and my favourite colour is green.
+>🌿 I am an INFP-T and my favourite colour is green (obviously).
 
 >🌿 I am lethally addicted to Sky Children of the Light.😃
 
