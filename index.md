@@ -54,7 +54,7 @@ Location: Toronto, Canada
     </tr>
 </table>
 
-* <i class="fas fa-file fa-lg"></i> You can also download my resume [here](RESUME - Jasmine Qiao.pdf)
+* <i class="fas fa-file fa-lg"></i> If you would like, you can also download my resume [here](RESUME - Jasmine Qiao.pdf)
 
 
 ## Education
