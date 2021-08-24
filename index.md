@@ -36,11 +36,17 @@ Location: Toronto, Canada
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">List of hobbies</p></h1>
 
 >💚 Drawing
+
 >💚 Cooking
+
 >💚 Walking/Hiking
+
 >💚 Playing Sky because I'm addicted
+
 >💚 Making random nonsensical lists
+
 >💚 HMMMMMMmmMMM
+
 >💚 ha
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">My Addy's🙃</p></h1>
