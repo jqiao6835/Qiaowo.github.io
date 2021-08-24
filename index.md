@@ -17,7 +17,7 @@ Location: Toronto, Canada
 
 >🌿 Hello, my name is Jam. I am a happy Canadian.🍁
 
->🌿 I'm 18 and attending Sheridan College.
+>🌿 I'm 18 and am attending Sheridan College.
 
 >🌿 I am an INFP-T and my favourite colour is green.
 
