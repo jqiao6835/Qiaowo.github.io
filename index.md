@@ -1,5 +1,4 @@
-# 
-<p style="color:DarkSeaGreen;">Home</h1></p>
+# <p style="color:DarkSeaGreen;">Home</p>
 
 <script src="https://kit.fontawesome.com/6d173168d3.js" crossorigin="anonymous"></script>
 
