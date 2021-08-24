@@ -13,24 +13,19 @@ Location: Toronto, Canada
 
 #### About Me
 
-🌿 Hello, my name is Jam. I am a happy 
-Canadian🍁
+`🌿 Hello, my name is Jam. I am a happy Canadian🍁`
 
-🌿 I'm 18 and attending Sheridan College.
+`🌿 I'm 18 and attending Sheridan College.`
 
-🌿 I am an INFP-T and my favourite 
-colour is green.
+`🌿 I am an INFP-T and my favourite colour is green.`
 
-🌿 I am lethally addicted to Sky Children 
-of the Light😃
+`🌿 I am lethally addicted to Sky Children of the Light😃`
 
-🌿 I like animals especially if they are green.
+`🌿 I like animals especially if they are green.`
 
-🌿 I am proudly a member of 
-<a href="https://discord.gg/PZaPX5Mt" target="blank">Quarantined Bagels</a>
+`🌿 I am proudly a member of <a href="https://discord.gg/PZaPX5Mt" target="blank">Quarantined Bagels</a>`
 
-🌿 I speak English, Mandarin and 
-can understand some French and Italian 
+>🌿 I speak English, Mandarin and can understand some French and Italian 
 
 
 ## List of hobbies:
