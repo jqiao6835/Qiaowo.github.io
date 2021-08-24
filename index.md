@@ -59,32 +59,35 @@ Location: Toronto, Canada
 * <i class="fas fa-file fa-lg"></i> If you would like, you can also download my resume [here](RESUME - Jasmine Qiao.pdf)
 
 
-<h1 style="font-size:10px;"><p style="color:DarkSeaGreen;">Education</p></h1>
+<h1 style="font-size:20px;"><p style="color:DarkSeaGreen;">Education</p></h1>
 
 * A.Y. Jackson Secondary School 2017-2021 (ew)
 * Sheridan College 2021-idk man
 * Some kindergarden....I hope...
 
-<h1 style="font-size:5px;"><p style="color:DarkSeaGreen;">Education</p></h1>
+<h1 style="font-size:20px;"><p style="color:DarkSeaGreen;">Technical Skills</p></h1>
 better tahn any indian tech support guy you can call
+I can also photoshop pretty cursed images of my friends :)))
 
-## Programming Languages
+<h1 style="font-size:20px;"><p style="color:DarkSeaGreen;">Programming Languages</p></h1>
 
 * Engrish
 
-## My professional experiences
+<h1 style="font-size:20px;"><p style="color:DarkSeaGreen;">Professional Experiences</p></h1>
 
 no you
 
-## Gallery
+I like to press buttons on soundboards :))
+
+<h1 style="font-size:20px;"><p style="color:DarkSeaGreen;">Gallery</p></h1>
 
 [📷Take a look at my photo gallery!📷](/photo.md)
 
-## Member of Quarantined Bagels Discord Server
+<h1 style="font-size:20px;"><p style="color:DarkSeaGreen;">Member of Quarantined Bagels Discord Server</p></h1>
 
 ✨🥯 <a href="https://discord.gg/PZaPX5Mt" target="blank">Quarantined Bagels</a>🥯✨
 
-## Questionable Quotes by Moi🙂
+<h1 style="font-size:20px;"><p style="color:DarkSeaGreen;">Questionable Quotes by Moi🙂</p></h1>
 
 These are quotes said by me some point in time in the Quarantined Bagels Discord Server. I really don't know what to say about these.....they were either quoted when my brain was running on 2 braincells...they have no context..I'm just sus lol.
 
@@ -105,7 +108,7 @@ These are quotes said by me some point in time in the Quarantined Bagels Discord
 >Stella accidentally says to Jasmine: "U CUTE FINCH"   Jasmine: "wow did u just compliment-"  Stella: "WAIT"   Jasmine: *shook* "someone quote her" - 2020
 
 
-## 🙌Special Thanks🙌
+<h1 style="font-size:20px;"><p style="color:DarkSeaGreen;">🙌Special Thanks🙌</p></h1>
 
 Special thanks to my collaborators on helping me with this GitHub project! It wouldn't have been possible for me to become addicted to coding this without you guys. :))
 
