@@ -7,7 +7,7 @@
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">🍀Qiaowo🍀</p></h1>
 
-<p style="color:#2E8B57;">
+<p style="color:#00613c;">
 
 Email(s): jqiao6835@gmail.com [jqiao6835@gmail.com](mailto:jqiao6835@gmail.com)
 
