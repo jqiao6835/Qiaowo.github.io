@@ -3,7 +3,7 @@
 <script src="https://kit.fontawesome.com/6d173168d3.js" crossorigin="anonymous"></script>
 
 ## Personal Information
-**Jam Qiao**
+**Qiaowo**
 
 Email(s): [jqiao6835@gmail.com](mailto:jqiao6835@gmail.com)
 
