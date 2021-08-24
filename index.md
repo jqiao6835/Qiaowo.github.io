@@ -67,7 +67,7 @@ better tahn any indian tech support guy you can call
 
 ## Programming Languages
 
-* english
+* Engrish
 
 ## My professional experiences
 
@@ -77,3 +77,7 @@ no you
 ## Gallery
 
 [Have a look at my photo gallery](/photo.md)
+
+## Member of Quarantined Bagels Discord Server
+
+><a href="https://discord.gg/PZaPX5Mt" target="blank">Quarantined Bagels</a>
