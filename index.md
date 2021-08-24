@@ -3,9 +3,9 @@
 
 <script src="https://kit.fontawesome.com/6d173168d3.js" crossorigin="anonymous"></script>
 
-<h1 style="font-size:30px;"><p style="color:DarkSeaGreen;">Personal Information</p></h1>
+<h1 style="font-size:20px;"><p style="color:DarkSeaGreen;">Personal Information</p></h1>
 
-<h1 style="color:SeaGreen;">🍀Qiaowo🍀</h1>
+<h1 style="font-size:20px;"><p style="color:DarkSeaGreen;">🍀Qiaowo🍀</p></h1>
 
 Email(s): [jqiao6835@gmail.com](mailto:jqiao6835@gmail.com)
 
@@ -13,7 +13,7 @@ Year of birth: 2003
 
 Location: Toronto, Canada
 
-<h1 style="font-size:30px;"><p style="color:DarkSeaGreen;">About Me</p></h1>
+<h1 style="font-size:20px;"><p style="color:DarkSeaGreen;">About Me</p></h1>
 
 >🌿 Hello, my name is Jam. I am a happy Canadian.🍁
 
