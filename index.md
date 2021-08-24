@@ -4,7 +4,7 @@
 
 ## Personal Information
 
-<h1 style="color:MediumAquaMarine;">🍀Qiaowo🍀</h1>
+<h1 style="color:SeaGreen;">🍀Qiaowo🍀</h1>
 
 Email(s): [jqiao6835@gmail.com](mailto:jqiao6835@gmail.com)
 
