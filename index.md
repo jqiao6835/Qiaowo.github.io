@@ -22,7 +22,7 @@ Location: Toronto, Canada
 * I speak English, Mandarin and can understand some French and Italian 
 
 
-#### List of hobbies:
+## List of hobbies:
 * Drawing
 * Cooking
 * Walking/Hiking
@@ -31,7 +31,7 @@ Location: Toronto, Canada
 * HMMMMMMmmMMM
 * ha
 
-##### Find me here
+## Find me here
 
 <table>
     <tr>
@@ -50,22 +50,22 @@ Location: Toronto, Canada
 
 * <i class="fas fa-file fa-lg"></i> You can also download my resume [here](RESUME - Jasmine Qiao.pdf)
 
-### Gallery
+## Gallery
 
 [Have a look at my photo gallery](/photo.md)
 
-# Education
+### Education
 
 * A.Y. Jackson Secondary School 2017-2021 (ew)
 * Sheridan College 2021-idk man
 
 ## Technical Skills
 better tahn any indian tech support guy you can call
-### Programming Languages
+## Programming Languages
 
 * english
 
-### My professional experiences
+## My professional experiences
 
 ```markdown
 no you
