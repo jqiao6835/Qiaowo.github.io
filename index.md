@@ -59,13 +59,13 @@ Location: Toronto, Canada
 * <i class="fas fa-file fa-lg"></i> If you would like, you can also download my resume [here](RESUME - Jasmine Qiao.pdf)
 
 
-## Education
+<h1 style="font-size:10px;"><p style="color:DarkSeaGreen;">Education</p></h1>
 
 * A.Y. Jackson Secondary School 2017-2021 (ew)
 * Sheridan College 2021-idk man
 * Some kindergarden....I hope...
 
-## Technical Skills
+<h1 style="font-size:5px;"><p style="color:DarkSeaGreen;">Education</p></h1>
 better tahn any indian tech support guy you can call
 
 ## Programming Languages
