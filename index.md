@@ -9,7 +9,7 @@
 
 <p style="color:#2E8B57;">
 
-Email(s): jqiao6835@gmail.com [jqiao6835@gmail.com](mailto:jqiao6835@gmail.com)>
+Email(s): jqiao6835@gmail.com [jqiao6835@gmail.com](mailto:jqiao6835@gmail.com)
 
 Year of birth: 2003
 
