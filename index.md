@@ -87,7 +87,10 @@ no you
 
 Thanks for helping me with this project! It wouldn't have been possible for me to become addicted to coding this without you guys. :))
 
+You can find their addy's here below:
 
 🔵🐯 Flora Fu (<a href="https://yfsufate.github.io/Bagels/" target="blank">Quarantined Bagels</a> GitHub Owner)
+<a href="https://www.youtube.com/channel/UCKW-d_GlZ-sblBa18tChqbw" target="blank"><i class="fab fa-youtube fa-lg"></i> Youtube</a>
 
 🟣💀 Stella Gu
+<a href="https://www.youtube.com/channel/UCKW-d_GlZ-sblBa18tChqbw" target="blank"><i class="fab fa-youtube fa-lg"></i> Youtube</a>
