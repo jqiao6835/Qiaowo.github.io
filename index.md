@@ -1,4 +1,4 @@
-<h1 style="border:2px solid DarkSeaGreen;"> <p style="color:DarkSeaGreen;">Home</p></h1>
+<p style="border:6px solid DarkSeaGreen;"> <p style="color:DarkSeaGreen;">Home</p></p>
 
 <script src="https://kit.fontawesome.com/6d173168d3.js" crossorigin="anonymous"></script>
 
