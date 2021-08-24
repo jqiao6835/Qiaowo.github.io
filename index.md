@@ -87,7 +87,7 @@ no you
 
 ## 🙌Special Thanks🙌
 
-<p style="font-family:verdana">Special thanks to my collaborators on helping me with this GitHub project! It wouldn't have been possible for me to become addicted to coding this without you guys. :))</p>
+<p style="font-family:Brush Script MT">Special thanks to my collaborators on helping me with this GitHub project! It wouldn't have been possible for me to become addicted to coding this without you guys. :))</p>
 
 You can find their addy's here below:
 
