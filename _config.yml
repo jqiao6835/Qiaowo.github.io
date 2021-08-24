@@ -6,4 +6,4 @@ show_downloads: true
 google_analytics: [UA-175791564-1]
 body {
 background-image: linear-gradient(#FFFFFF, rgb(255, 122, 89));
-}
+/}
