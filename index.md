@@ -85,9 +85,9 @@ no you
 ## Questionable Quotes by Moi in Quarantined Bagels Server🙂
 
 
->## 🙌Special Thanks to My GitHub Collaborators🙌
+## 🙌Special Thanks🙌
 
-<p style="font-family:verdana">Thanks for helping me with this project! It wouldn't have been possible for me to become addicted to coding this without you guys. :))</p>
+<p style="font-family:verdana">Special thanks to my collaborators on helping me with this GitHub project! It wouldn't have been possible for me to become addicted to coding this without you guys. :))</p>
 
 You can find their addy's here below:
 
