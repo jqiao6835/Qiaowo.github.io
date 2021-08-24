@@ -85,6 +85,7 @@ no you
 ## Questionable Quotes by Moi🙂
 
 These are quotes said by me some point in time in the Quarantined Bagels Discord Server. I really don't know what to say about these.....they were either quoted when my brain was running on 2 braincells...they have no context..I'm just sus lol.
+
 >"I wanna sun burn" - Jasmine 2020
 >"I have teeth now" - Jasmine 2020
 
