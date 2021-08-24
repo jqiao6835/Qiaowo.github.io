@@ -80,4 +80,4 @@ no you
 
 ## Member of Quarantined Bagels Discord Server
 
->🥯<a href="https://discord.gg/PZaPX5Mt" target="blank">Quarantined Bagels</a>
+🥯 <a href="https://discord.gg/PZaPX5Mt" target="blank">Quarantined Bagels</a>
