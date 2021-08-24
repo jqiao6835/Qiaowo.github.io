@@ -83,7 +83,7 @@ no you
 ✨🥯 <a href="https://discord.gg/PZaPX5Mt" target="blank">Quarantined Bagels</a>🥯✨
 
 
-## 🙌🎆Special Thanks to My GitHub Collaborators🎆🙌
+### 🙌🎆Special Thanks to My GitHub Collaborators🎆🙌
 
 Thanks for helping me with this project! It wouldn't have been possible for me to become addicted to coding this without you guys. :))
 
