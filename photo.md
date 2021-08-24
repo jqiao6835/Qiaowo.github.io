@@ -7,5 +7,8 @@
 ![Flora ascends](/githubimages/Flora_ascends.jpg)
 ![Mayya dies](/githubimages/mayya_ded.jpg)
 ![Sus night photo](/nightphotosus.jpg)
+![Mayya terrorizes me](/mayyaterrorizesme.jpg)
+
+
 
 [Back To Home](/index.md)
