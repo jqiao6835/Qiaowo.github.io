@@ -18,7 +18,7 @@ I'm 18 and attending Sheridan College.
 I am an INFP-T and my favourite colour is green.
 I am lethally addicted to Sky Children of the Light😃
 I like animals especially if they are green.
-I am proudly a member of <a href="https://discord.gg/PZaPX5Mt" target="blank"></i> Quarantined Bagels</a>
+I am proudly a member of <a href="https://discord.gg/PZaPX5Mt" target="blank">< Quarantined Bagels</a>
 I speak English, Mandarin and can understand some French and Italian 
 
 ##### List of hobbies:
