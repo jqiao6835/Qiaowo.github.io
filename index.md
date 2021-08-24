@@ -23,7 +23,7 @@ Location: Toronto, Canada
 
 >🌿 I like animals especially if they are green.
 
->🌿 I am proudly a member of <a href="https://discord.gg/PZaPX5Mt" target="blank">Quarantined Bagels</a>
+>🌿 I am proudly a member of <a href="https://yfsufate.github.io/Bagels/" target="blank">Quarantined Bagels</a>
 
 >🌿 I speak English, Mandarin and can understand some French and Italian 
 
@@ -71,9 +71,8 @@ better tahn any indian tech support guy you can call
 
 ## My professional experiences
 
-```markdown
 no you
-```
+
 ## Gallery
 
 [Have a look at my photo gallery](/photo.md)
