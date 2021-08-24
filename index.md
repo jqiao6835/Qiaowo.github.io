@@ -77,7 +77,7 @@ no you
 
 ## Gallery
 
-[📷Take a look at my photo gallery!📷](/images/)
+[📷Take a look at my photo gallery!📷](/photo.md)
 
 ## Member of Quarantined Bagels Discord Server
 
