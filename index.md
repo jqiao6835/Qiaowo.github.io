@@ -26,7 +26,7 @@ I speak English, Mandarin and can understand some French and Italian
 * Drawing
 * Cooking
 * Walking/Hiking
-* Playing Sky because I;m addicted
+* Playing Sky because I'm addicted
 * 
 * HMMMMMMmmMMM
 * ha
