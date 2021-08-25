@@ -8,7 +8,7 @@
 <h1 style="font-size:18px;"><p style="color:#4ca48c;">🍀Qiaowo🍀</p></h1>
 
 <p style="color:#007045;">
-🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
+🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
 <b>Email(s):</b> jqiao6835@gmail.com 
 <br>
 <b>Name:</b> Jasmine Qiao, 喬才真
@@ -24,7 +24,7 @@
 <b>Location:</b> Toronto, Canada
 <br>
 <b>Number of Braincells:</b> -100000000000000000000000
-🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
+🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
 </p>
 
 <h1 style="font-size:20px;"><p style="color:#4ca48c;">My Addy's🙃</p></h1>
