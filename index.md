@@ -19,17 +19,11 @@
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">About Me</p></h1>
 
 >🌿 Hello, my name is Jam. I am a happy Canadian.🍁
-
 >🌿 I'm 18 and am attending Sheridan College.
-
 >🌿 I am an INFP-T and my favourite colour is green (obviously).
-
 >🌿 I am lethally addicted to Sky Children of the Light.😃
-
 >🌿 I like animals especially if they are green.
-
 >🌿 I am proudly a member of <a href="https://yfsufate.github.io/Bagels/" target="blank">Quarantined Bagels</a>
-
 >🌿 I speak English, Mandarin and can understand some French and Italian.
 
 
@@ -37,25 +31,17 @@
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">List of hobbies</p></h1>
 
 >💚 Drawing
-
 >💚 Cooking
-
 >💚 Walking/Hiking
-
 >💚 Playing Sky because I'm addicted
-
 >💚 Spending time with friends
-
 >💚 Spending time with you😊💖
-
 >💚 Making random nonsensical lists
-
 >💚 Listening to music
-
 >💚 Playing Guzheng
-
->💚 HMMMMMMmmMMM
-
+>💚 Playing Badminton
+>💚 Playing Cards
+>💚 HMMMMMMmmMMMicrowave
 >💚 ha
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">My Addy's🙃</p></h1>
