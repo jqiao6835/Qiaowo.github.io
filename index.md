@@ -332,7 +332,7 @@ These are quotes said by Me some point in time in the Quarantined Bagels Discord
 <p style="border: 2px solid #7a00cc;">~~~ It's not okay to be alive💀 - Stella ~~~</p>
 <br>
 
-<p style="border: 2px solid #33bbff;">~~~ It's not okay to be not be tiger🐯 - Flora ~~~</p>
+<p style="border: 2px solid #33bbff;">~~~ It's not okay to not be tiger🐯 - Flora ~~~</p>
 <br>
 
 <p style="border: 2px solid #00855f;">~~~ It's not okay to not be green💚 - Me ~~~
