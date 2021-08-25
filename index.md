@@ -20,6 +20,8 @@
 
 >🌿 Hello, my name is Jam. I am a happy Canadian.🍁
 
+>🌿 My parents are both from Tianjin, China, but I was born in Toronto, Canada.🍁
+
 >🌿 I'm 18 and am attending Sheridan College.
 
 >🌿 I am an INFP-T and my favourite colour is green (obviously).
