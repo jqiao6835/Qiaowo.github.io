@@ -253,5 +253,5 @@ Special thanks to my collaborators on helping me with this GitHub project! It wo
 <p style="border: 2px solid #00855f;">~~~ It's not okay to not be green💚 - Jasmine ~~~
 </p>
 
-<b>Hypothetical Paypal link where you can send me free money :))))))</b>
+***<b>Hypothetical Paypal link where you can send me free money :))))))***</b>
 lol jk i aint no twitch thot
