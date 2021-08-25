@@ -3,9 +3,9 @@
 
 <script src="https://kit.fontawesome.com/6d173168d3.js" crossorigin="anonymous"></script>
 
-<h1 style="font-size:20px;"><p style="color:#2E8B57;">Personal Information</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4ca48c;">Personal Information</p></h1>
 
-<h1 style="font-size:18px;"><p style="color:#2E8B57;">🍀Qiaowo🍀</p></h1>
+<h1 style="font-size:18px;"><p style="color:#4ca48c;">🍀Qiaowo🍀</p></h1>
 
 <p style="color:#007045;">
 <b>Email(s):</b> jqiao6835@gmail.com 
@@ -15,7 +15,7 @@
 <b>Location:</b> Toronto, Canada
 </p>
 
-<h1 style="font-size:20px;"><p style="color:#4ca482;">My Addy's🙃</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4ca48c;">My Addy's🙃</p></h1>
 
 <table>
     <tr>
@@ -34,7 +34,7 @@
     </tr>
 </table>
 
-<h1 style="font-size:20px;"><p style="color:#4ca482;">About Me</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4ca48c;">About Me</p></h1>
 
 >🌿 Hello, my name is Jam. I am a happy Canadian.🍁
 
@@ -54,7 +54,7 @@
 
 
 
-<h1 style="font-size:20px;"><p style="color:#4ca482;">List of hobbies</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4ca48c;">List of hobbies</p></h1>
 
 >🍃 Drawing
 
@@ -89,10 +89,10 @@
 <i class="fas fa-file fa-lg"></i> A list of all the animes I've watched fully [[here]](List of Animes 08.24.2021.pdf)
 
 
-<h1 style="font-size:20px;"><p style="color:#2E8B57;">✨🎶My Current Playlist of songs🎶✨</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4ca48c;">✨🎶My Current Playlist of songs🎶✨</p></h1>
 <iframe width="200" height="113" src="https://www.youtube.com/embed/videoseries?list=PLvVd50Dgei_fXbNVyLba3V1oFb-DyHTTq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-<h1 style="font-size:20px;"><p style="color:#2E8B57;">📚🏫Education🏫📚</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4ca48c;">📚🏫Education🏫📚</p></h1>
 
 * Some kindergarden....I hope...
 * St.Henry Catholic School 2008-2015
@@ -102,11 +102,11 @@
 *The internet (The most important education obviously) :))))
 * <i class="fas fa-file fa-lg"></i> You can also download my resume [here](RESUME - 06.30.2021.pdf)
 
-<h1 style="font-size:20px;"><p style="color:#2E8B57;">Technical Skills</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4ca48c;">Technical Skills</p></h1>
 * better tahn any indian tech support guy you can call
 * I can also photoshop pretty cursed images of my friends :)))
 
-<h1 style="font-size:20px;"><p style="color:#2E8B57;">List of Programs I'm familiar with</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4ca48c;">List of Programs I'm familiar with</p></h1>
 
 >💽 Adobe Photoshop
 
@@ -130,29 +130,29 @@
 
 >💽 Ocenaudio
 
-<h1 style="font-size:20px;"><p style="color:#2E8B57;">Programming Languages</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4ca48c;">Programming Languages</p></h1>
 
 * Engrish
 * jk i no program i just draw lines and colour stuff :^)))
 
-<h1 style="font-size:20px;"><p style="color:#2E8B57;">Professional Experiences</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4ca48c;">Professional Experiences</p></h1>
 
 * you ;)       ....ahahaha idk what that means LOL pretend u didnt read that
 * I like to press buttons on soundboards :))
 * I sometimes make sussy crappy logos for people :DDD
 
-<h1 style="font-size:20px;"><p style="color:#2E8B57;">Gallery of Very Sus Photos</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4ca48c;">Gallery of Very Sus Photos</p></h1>
 
 [📷Cursed images...You have been warned!📷](/photo.md)
 
-<h1 style="font-size:20px;"><p style="color:#2E8B57;">🏰Quebec Photos!🏰</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4ca48c;">🏰Quebec Photos!🏰</p></h1>
 [📷Photos from my Quebec trip!📷](/Quebec.md)
 
-<h1 style="font-size:20px;"><p style="color:#2E8B57;">Member of Quarantined Bagels Discord Server</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4ca48c;">Member of Quarantined Bagels Discord Server</p></h1>
 
 ✨🥯<a href="https://discord.gg/PZaPX5Mt" target="blank">Quarantined Bagels</a>🥯✨
 
-<h1 style="font-size:20px;"><p style="color:#2E8B57;">Questionable Quotes by Moi🙂</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4ca48c;">Questionable Quotes by Moi🙂</p></h1>
 
 These are quotes said by Me some point in time in the Quarantined Bagels Discord Server. I really don't know what to say about these.....they were either said when my brain was running on 2 braincells or it's just Me being wacc...they have no context..I'm just sus lol. 
 
@@ -309,7 +309,7 @@ These are quotes said by Me some point in time in the Quarantined Bagels Discord
 </p>
 
 <p>
-<h1 style="font-size:20px;"><p style="color:#2E8B57;">Bagel Motto's</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4ca48c;">Bagel Motto's</p></h1>
 <p style="border: 2px solid #00ff00;">~~~ It's not okay to be okay😈 - Mayya ~~~</p>
 <br>
 
@@ -365,7 +365,7 @@ Special thanks to my collaborators on helping Me with this GitHub project! It wo
 </p>
 
 
-<h1 style="font-size:20px;"><p style="color:#2E8B57;">💌How you can support Me!💌</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4ca48c;">💌How you can support Me!💌</p></h1>
 
 Just smile and be happy :3 you look amazing when you do and that makes Me happy.😊
 
