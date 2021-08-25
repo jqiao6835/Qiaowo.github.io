@@ -123,11 +123,24 @@ These are quotes said by me some point in time in the Quarantined Bagels Discord
 Special thanks to my collaborators on helping me with this GitHub project! It wouldn't have been possible for me to become addicted to coding this without you guys. :))
 
 You can find their addy's here below:
-
 🔵🐯 Flora Fu (<a href="https://yfsufate.github.io/Bagels/" target="blank">Quarantined Bagels</a> GitHub Owner)
 
-<a href="https://www.youtube.com/channel/UCVTp-rIWyMLWFYJ6vrX54LA" target="blank"><i class="fab fa-youtube fa-lg"></i> Youtube</a>
+<table>
+    <tr>
+        <td>
+            <a href="https://www.youtube.com/channel/UCVTp-rIWyMLWFYJ6vrX54LA" target="blank"><i class="fab fa-youtube fa-lg"></i> Youtube</a>
+        </td>
+        <td>
+            <a href="https://www.instagram.com/jqwq_art/" target="blank"><i class="fab fa-instagram fa-lg"></i> Instagram</a>
+        </td>
+
 
 🟣💀 Stella Gu
-
-<a href="https://www.youtube.com/channel/UC6NqBvwkPs07OJ7uaZHf0XA" target="blank"><i class="fab fa-youtube fa-lg"></i> Youtube</a>
+<table>
+    <tr>
+        <td>
+            <a href="https://www.youtube.com/channel/UC6NqBvwkPs07OJ7uaZHf0XA" target="blank"><i class="fab fa-youtube fa-lg"></i> Youtube</a>
+        </td>
+        <td>
+            <a href="https://www.instagram.com/jqwq_art/" target="blank"><i class="fab fa-instagram fa-lg"></i> Instagram</a>
+        </td>
