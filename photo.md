@@ -3,7 +3,7 @@
 [Back To Home](/index.md)
 
 ![Jam](https://jqiao6835.github.io/Qiaowo.github.io/images/jam%20fluffly%20black%20cape%20(2).png)
->My GitHub logo :)
+>My GitHub logo :) (not cursed or sus but I'm too lazy to move it anywhere else)
 
 ![Me hiding from camera](/githubimages/I_hide.jpg)
 >Idk who was taking the photo but I no like camera so I hide
