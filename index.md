@@ -15,7 +15,7 @@
 <b>Location:</b> Toronto, Canada
 </p>
 
-<p>
+
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">About Me</p></h1>
 
 >🌿 Hello, my name is Jam. I am a happy Canadian.🍁 
@@ -31,7 +31,7 @@
 >🌿 I am proudly a member of <a href="https://yfsufate.github.io/Bagels/" target="blank">Quarantined Bagels</a>
 
 >🌿 I speak English, Mandarin and can understand some French and Italian 
-</p>
+
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">List of hobbies</p></h1>
 
