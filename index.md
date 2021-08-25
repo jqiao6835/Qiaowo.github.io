@@ -78,8 +78,8 @@
 * Some kindergarden....I hope...
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">Technical Skills</p></h1>
-better tahn any indian tech support guy you can call
-I can also photoshop pretty cursed images of my friends :)))
+* better tahn any indian tech support guy you can call
+* I can also photoshop pretty cursed images of my friends :)))
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">Programming Languages</p></h1>
 
