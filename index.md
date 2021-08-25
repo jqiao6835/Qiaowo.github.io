@@ -91,7 +91,7 @@ I like to press buttons on soundboards :))
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">Gallery of Very Sus Photos</p></h1>
 
-[📷Take a look at my photo gallery!📷](/photo.md)
+[📷Cursed images! You have been warned!📷](/photo.md)
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">Member of Quarantined Bagels Discord Server</p></h1>
 
