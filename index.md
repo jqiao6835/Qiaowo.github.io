@@ -36,7 +36,7 @@
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">List of hobbies</p></h1>
 
-<p style="color:#f291c2;">
+<p style="color:DarkSeaGreen;">
 
 💚 Drawing
 <br>
@@ -62,7 +62,7 @@
 💚 HMMMMMMmmMMM
 <br>
 
->💚 ha
+💚 ha
 </p>
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">My Addy's🙃</p></h1>
