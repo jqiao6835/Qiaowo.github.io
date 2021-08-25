@@ -117,6 +117,10 @@ These are quotes said by me some point in time in the Quarantined Bagels Discord
 
 >Stella accidentally says to Jasmine: "U CUTE FINCH"   Jasmine: "wow did u just compliment-"  Stella: "WAIT"   Jasmine: *shook* "someone quote her" - 2020
 
+>"You're not a pinapple, how would you know?" - Jasmine 2020
+
+>"I NEED A BODY" - Jasmine
+
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">🙌Special Thanks🙌</p></h1>
 
@@ -134,8 +138,7 @@ You can find their addy's here below:
         <td>
             <a href="https://www.instagram.com/fottweiler.547/" target="blank"><i class="fab fa-instagram fa-lg"></i> fottweiler.547</a>
         </td>
-
-<br>
+</table>
 
 🟣💀 Stella Gu
 
@@ -150,3 +153,4 @@ You can find their addy's here below:
         <td>
             <a href="https://www.instagram.com/xd_stella.exe/" target="blank"><i class="fab fa-instagram fa-lg"></i>xd_stella.exe</a>
         </td>
+</table>
