@@ -184,7 +184,7 @@ Special thanks to my collaborators on helping me with this GitHub project! It wo
             <a href="https://yfsufate.github.io/Bagels/" target="blank"><i class="fab fa-github fa-lg"></i>Flora Fu's GitHub</a>
         </td>
         <td>
-            <a href="https://www.instagram.com/fottweiler.547/" target="blank"><i class="fab fa-instagram fa-lg"></i> fottweiler.547</a>
+            <a href="https://www.instagram.com/fottweiler.547/" target="blank"><i class="fab fa-instagram fa-lg"></i> @fottweiler.547</a>
         </td>
     </tr>
 </table>
@@ -198,7 +198,7 @@ Special thanks to my collaborators on helping me with this GitHub project! It wo
             <a href="https://stella-gu.github.io/" target="blank"><i class="fab fa-github fa-lg"></i>Stella Gu's GitHub</a>
         </td>
         <td>
-            <a href="https://www.instagram.com/xd_stella.exe/" target="blank"><i class="fab fa-instagram fa-lg"></i>xd_stella.exe</a>
+            <a href="https://www.instagram.com/xd_stella.exe/" target="blank"><i class="fab fa-instagram fa-lg"></i>@xd_stella.exe</a>
         </td>
      </tr>
 </table>
