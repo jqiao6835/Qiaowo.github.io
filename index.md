@@ -5,7 +5,7 @@
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">Personal Information</p></h1>
 
-<h1 style="font-size:15px;"><p style="color:#2E8B57;">🍀Qiaowo🍀</p></h1>
+<h1 style="font-size:18px;"><p style="color:#2E8B57;">🍀Qiaowo🍀</p></h1>
 
 <p style="color:#007045;">
 <b>Email(s):</b> jqiao6835@gmail.com 
