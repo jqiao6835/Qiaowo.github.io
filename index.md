@@ -64,6 +64,8 @@
 
 >🍃 ha
 
+>🍃 Watch Anime (rarely watch as of recently)
+
 <i class="fas fa-file fa-lg"></i> A list of all the animes I've watched fully [here](List of Animes 08.24.2021.pdf)
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">My Addy's🙃</p></h1>
