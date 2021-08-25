@@ -126,9 +126,9 @@ These are quotes said by me some point in time in the Quarantined Bagels Discord
 
 Special thanks to my collaborators on helping me with this GitHub project! It wouldn't have been possible for me to become addicted to coding this without you guys. :))
 
-You can find their addy's here below:
+**You can find their addy's here below:**
 
-🔵🐯 Flora Fu (<a href="https://yfsufate.github.io/Bagels/" target="blank">Quarantined Bagels</a> GitHub Owner)
+🔵🐯**Flora Fu** (<a href="https://yfsufate.github.io/Bagels/" target="blank">Quarantined Bagels</a> GitHub Owner)
 <table>
     <tr>
         <td>
@@ -137,6 +137,7 @@ You can find their addy's here below:
         <td>
             <a href="https://www.instagram.com/fottweiler.547/" target="blank"><i class="fab fa-instagram fa-lg"></i> fottweiler.547</a>
         </td>
+    </tr>
 </table>
 🟣💀 Stella Gu
 <table>
@@ -150,6 +151,7 @@ You can find their addy's here below:
         <td>
             <a href="https://www.instagram.com/xd_stella.exe/" target="blank"><i class="fab fa-instagram fa-lg"></i>xd_stella.exe</a>
         </td>
+     </tr>
 </table>
 
 
