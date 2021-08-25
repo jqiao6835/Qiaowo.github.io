@@ -8,7 +8,7 @@
 ![Landscape](/quebecphotos/Landscape.jpg)
 >Landscape in front of the Waterfall (water looks kinda sus cuz I think theyre doind construction right underneath the waterfall)
 
-![Valley] (/quebecphotos/Montmorency Valley.jpg)
+![Valley](/quebecphotos/Montmorency Valley.jpg)
 >Montmorency Valley
 
 ![2waterfall](/quebecphotos/Waterfall2.jpg)
