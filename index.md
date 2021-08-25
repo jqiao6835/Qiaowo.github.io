@@ -153,7 +153,8 @@ You can find their addy's here below:
 </table>
 
 
-<p><h1 style="font-size:20px;"><p style="color:#2E8B57;">Bagel Motto's</p></h1>
+<p>
+<h1 style="font-size:20px;"><p style="color:#2E8B57;">Bagel Motto's</p></h1>
 It's not okay to be ok - Mayya
 It's not okay to be awake - Amanda
 It's not okay to be alive - Stella
