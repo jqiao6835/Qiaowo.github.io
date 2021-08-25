@@ -191,6 +191,8 @@ These are quotes said by me some point in time in the Quarantined Bagels Discord
 Flora: "Stella write that down"
 Stella: "yes yes yes"
 Jasmine: "Wait- no-"
+<br>
+<br>
 
 🌺"ur acc going to sleep right? ur not sitting there for someone to say something yellow" - Jasmine 2020
 <br>
