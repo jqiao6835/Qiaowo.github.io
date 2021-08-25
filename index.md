@@ -18,6 +18,8 @@
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">About Me</p></h1>
 
+<body style="color:DarkSeaGreen;">
+
 >🌿 Hello, my name is Jam. I am a happy Canadian.🍁
 
 >🌿 I'm 18 and am attending Sheridan College.
@@ -31,7 +33,7 @@
 >🌿 I am proudly a member of <a href="https://yfsufate.github.io/Bagels/" target="blank">Quarantined Bagels</a>
 
 >🌿 I speak English, Mandarin and can understand some French and Italian 
-
+</body>
 
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">List of hobbies</p></h1>
