@@ -100,43 +100,43 @@ These are quotes said by me some point in time in the Quarantined Bagels Discord
 
 <p style="color:#e45882;">
 
-🌷"I wanna sun burn" - Jasmine 2020
+🌺"I wanna sun burn" - Jasmine 2020
 <br>
 <br>
 
-🌷"I have teeth now" - Jasmine 2020
+🌺"I have teeth now" - Jasmine 2020
 <br>
 <br>
 
-🌷"Look at the top of my head" - Jasmine 2020
+🌺"Look at the top of my head" - Jasmine 2020
 <br>
 <br>
 
-🌷"我凹特你" - Jasmine 2020
+🌺"我凹特你" - Jasmine 2020
 <br>
 <br>
 
-🌷"Surrealism is just bs of art" - Jasmine 2020
+🌺"Surrealism is just bs of art" - Jasmine 2020
 <br>
 <br>
 
-🌷"I forgot how that song went......<b>SHOW YOURSELF</b>" - Jasmine 2020
+🌺"I forgot how that song went......<b>SHOW YOURSELF</b>" - Jasmine 2020
 <br>
 <br>
 
-🌷"ok english pls 再说一次 pls in proper engrish" - Jasmine 2020
+🌺"ok english pls 再说一次 pls in proper engrish" - Jasmine 2020
 <br>
 <br>
 
-🌷"ur acc going to sleep right? ur not sitting there for someone to say something yellow" - Jasmine 2020
+🌺"ur acc going to sleep right? ur not sitting there for someone to say something yellow" - Jasmine 2020
 <br>
 <br>
 
-🌷"You're not a pinapple, how would you know?" - Jasmine 2020
+🌺"You're not a pinapple, how would you know?" - Jasmine 2020
 <br>
 <br>
 
-🌷"I NEED A BODY" - Jasmine
+🌺"I NEED A BODY" - Jasmine
 </p>
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">🙌Special Thanks🙌</p></h1>
