@@ -129,7 +129,6 @@ Special thanks to my collaborators on helping me with this GitHub project! It wo
 You can find their addy's here below:
 
 🔵🐯 Flora Fu (<a href="https://yfsufate.github.io/Bagels/" target="blank">Quarantined Bagels</a> GitHub Owner)
-
 <table>
     <tr>
         <td>
