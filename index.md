@@ -219,9 +219,9 @@ These are quotes said by me some point in time in the Quarantined Bagels Discord
 
 Special thanks to my collaborators on helping me with this GitHub project! It wouldn't have been possible for me to become addicted to coding this without you guys. Thanks for making this possible! :))
 
-**You can find their addy's here below:**
+<b>You can find their addy's here below:</b>
 
-🔵🐯**Flora Fu** (<a href="https://yfsufate.github.io/Bagels/" target="blank">Quarantined Bagels GitHub</a> Owner)
+🔵🐯<b>Flora Fu</b> (<a href="https://yfsufate.github.io/Bagels/" target="blank">Quarantined Bagels GitHub</a> Owner)
 <table>
     <tr>
         <td>
@@ -236,7 +236,7 @@ Special thanks to my collaborators on helping me with this GitHub project! It wo
     </tr>
 </table>
 
-🟣💀**Stella Gu**
+🟣💀<b>Stella Gu</b>
 <table>
     <tr>
         <td>
