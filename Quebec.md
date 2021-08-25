@@ -2,34 +2,58 @@
 
 [Back To Home](/index.md)
 
-![Quebecsigns](/quebecphotos/Quebecsigns.jpg)
 >Driving to Quebec and suddenly all the road signs turn into baguette signs👀🥖
+![Quebecsigns](/quebecphotos/Quebecsigns.jpg)
 
-![M](/quebecphotos/Montmorencywaterfall.jpg)
 >Montmorency Waterfall with rainbow!!🌈:D
+![M](/quebecphotos/Montmorencywaterfall.jpg)
 
-![Landscape](/quebecphotos/Landscape1.jpg)
 >Landscape in front of the Waterfall (water looks kinda sus cuz I think theyre doind construction right underneath the waterfall)
+![Landscape](/quebecphotos/Landscape1.jpg)
 
-![Valley](/quebecphotos/Montmorency_Valley.jpg)
 >Montmorency Valley
+![Valley](/quebecphotos/Montmorency_Valley.jpg)
 
-![2waterfall](/quebecphotos/Waterfall2.jpg)
 >Another angle of view of the Waterfall
+![2waterfall](/quebecphotos/Waterfall2.jpg)
 
-![Bridge](/quebecphotos/Bridgeee.jpg)
 >A bridge above the waterfall that you can walk across
+![Bridge](/quebecphotos/Bridgeee.jpg)
 
-![onthebridge](/quebecphotos/onthebridge.jpg)
 >Photo taken from the bridge above the waterfall
+![onthebridge](/quebecphotos/onthebridge.jpg)
 
-![Quebec city port](/quebecphotos/quebeccityport.jpg)
+>Entering into Quebec City's downtown area
+![enteringquebecitycenter](/quebecphotos/enteringquebecitycenter.jpg)
+
+>Walking through Petit Champlain streets in downtown Quebec City near the St.Lawrence River💕
+![petitchamplain1](/quebecphotos/petitchamplain1.jpg)
+
+![petitchamplain2](/quebecphotos/petitchamplain2.jpg)
+
+![petitchamplain3](/quebecphotos/petitchamplain3.jpg)
+
+![petitchamplain4](/quebecphotos/petitchamplain4.jpg)
+
+>Came across a wetland under a crossing bridge near Quebec City's Dowtown area. It really looked like something you'd see in LOTR...but the pictures don't do it justice, it looked so much more beautiful irl💖
+![quebecmarshlands1](/quebecphotos/quebecmarshlands1.jpg)
+
+![quebecmarshlands2](/quebecphotos/quebecmarshlands2.jpg)
+
+![quebecmarshlands3](/quebecphotos/quebecmarshlands3.jpg)
+
 >St.Lawrence river view from the Saint-Louis Forts and Châteaux National wall
+![Quebec city port](/quebecphotos/quebeccityport.jpg)
 
-![Saint-LouisForts](/quebecphotos/Saint-LouisForts.jpg)
 >Saint-Louis Forts and Châteaux National Historic Site
+![Saint-LouisForts](/quebecphotos/Saint-LouisForts.jpg)
 
-![Saint-LouisFortsviewfromwall](/quebecphotos/Saint-LouisFortsviewfromwall.jpg)
 >View of Saint-Louis Forts and Châteaux wall
+![Saint-LouisFortsviewfromwall](/quebecphotos/Saint-LouisFortsviewfromwall.jpg)
+
+
+
+
+
 
 [Back To Home](/index.md)
