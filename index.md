@@ -76,7 +76,9 @@
         <td>
             <a href="https://www.instagram.com/jqwq_art/" target="blank"><i class="fab fa-instagram fa-lg"></i> Instagram</a>
         </td>
-        
+        <td>
+            <a href="https://www.reddit.com/user/jqiao14" target="blank"><i class="fab fa-reddit fa-lg"></i> Reddit</a>
+        </td>
         <td>
             <i class="fab fa-discord fa-lg"></i> Discord: жасминичка💚#5043
         </td>
