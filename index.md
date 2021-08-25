@@ -53,7 +53,6 @@
 >💚 HMMMMMMmmMMM
 
 >💚 ha
-</p>
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">My Addy's🙃</p></h1>
 
