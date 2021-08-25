@@ -29,7 +29,7 @@
             <a href="https://www.reddit.com/user/jqiao14" target="blank"><i class="fab fa-reddit fa-lg"></i> Reddit</a>
         </td>
         <td>
-            <i class="fab fa-discord fa-lg"></i> Discord: жасминичка💚#5043
+            <i class="fab fa-discord fa-lg"></i> Discord:жасминичка💚#5043
         </td>
     </tr>
 </table>
