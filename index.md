@@ -50,6 +50,10 @@
 
 >💚 Making random nonsensical lists
 
+>💚 Listening to music
+
+>💚 Playing Guzheng
+
 >💚 HMMMMMMmmMMM
 
 >💚 ha
@@ -74,7 +78,7 @@
 * <i class="fas fa-file fa-lg"></i> If you would like, you can also download my resume [here](RESUME - Jasmine Qiao.pdf)
 
 
-<h1 style="font-size:20px;"><p style="color:#2E8B57;">Education</p></h1>
+<h1 style="font-size:20px;"><p style="color:#2E8B57;">📚🏫Education🏫📚</p></h1>
 
 * A.Y. Jackson Secondary School 2017-2021 (ew)
 * Sheridan College 2021-idk man
