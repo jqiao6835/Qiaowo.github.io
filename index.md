@@ -18,8 +18,6 @@
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">About Me</p></h1>
 
-<h1 style="color:DarkSeaGreen;">
-
 >🌿 Hello, my name is Jam. I am a happy Canadian.🍁
 
 >🌿 I'm 18 and am attending Sheridan College.
@@ -33,46 +31,28 @@
 >🌿 I am proudly a member of <a href="https://yfsufate.github.io/Bagels/" target="blank">Quarantined Bagels</a>
 
 >🌿 I speak English, Mandarin and can understand some French and Italian.
-</h1>
+
 
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">List of hobbies</p></h1>
 
-<p style="color:DarkSeaGreen;">
+>💚 Drawing
 
-💚 Drawing
-<br>
-<br>
+>💚 Cooking
 
-💚 Cooking
-<br>
-<br>
+>💚 Walking/Hiking
 
-💚 Walking/Hiking
-<br>
-<br>
+>💚 Playing Sky because I'm addicted
 
-💚 Playing Sky because I'm addicted
-<br>
-<br>
+>💚 Spending time with friends
 
-💚 Spending time with friends
-<br>
-<br>
+>💚 Spending time with you😊💖
 
-💚 Spending time with you😊💖
-<br>
-<br>
+>💚 Making random nonsensical lists
 
-💚 Making random nonsensical lists
-<br>
-<br>
+>💚 HMMMMMMmmMMM
 
-💚 HMMMMMMmmMMM
-<br>
-<br>
-
-💚 ha
+>💚 ha
 </p>
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">My Addy's🙃</p></h1>
