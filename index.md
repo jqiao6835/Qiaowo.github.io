@@ -26,7 +26,7 @@ body {background-color: coral;}
 <b>Location:</b> Toronto, Canada
 <br>
 <b>Number of Braincells:</b> -100000000000000000000000
-</b>🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸
+<b>🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸
 </p>
 
 <h1 style="font-size:20px;"><p style="color:#4ca48c;">My Addy's🙃</p></h1>
