@@ -2,11 +2,11 @@
 
 [Back To Home](/index.md)
 
-![Jam](https://jqiao6835.github.io/Qiaowo.github.io/images/jam%20fluffly%20black%20cape%20(2).png)
->My GitHub logo :)
+![M](/quebecphotos/Montmorencywaterfall.jpg)
+>Montmorency Waterfall :D
 
-![Me hiding from camera](/githubimages/I_hide.jpg)
->Idk who was taking the photo but I no like camera so I hide
+![Landscape](/quebecphotos/Landscape.jpg)
+>Landscape in front of the Waterfall (water looks kinda sus cuz I think theyre doind construction right underneath the waterfall)
 
 ![Flora ascends](/githubimages/Flora_ascends.jpg)
 >Flora ascends into the 10th Dimension
