@@ -114,7 +114,7 @@
 
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">✨🎶My Current Playlist of songs🎶✨</p></h1>
-<iframe width="200" height="115" src="https://www.youtube.com/embed/videoseries?list=PLvVd50Dgei_fXbNVyLba3V1oFb-DyHTTq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="200" height="113" src="https://www.youtube.com/embed/videoseries?list=PLvVd50Dgei_fXbNVyLba3V1oFb-DyHTTq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">📚🏫Education🏫📚</p></h1>
 
