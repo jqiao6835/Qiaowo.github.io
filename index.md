@@ -44,6 +44,10 @@
 
 >💚 Playing Sky because I'm addicted
 
+>💚 Spending time with friends
+
+>💚 Spending time with you😊💖
+
 >💚 Making random nonsensical lists
 
 >💚 HMMMMMMmmMMM
