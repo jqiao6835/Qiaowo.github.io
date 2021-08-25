@@ -1,4 +1,4 @@
-# Photo Gallery
+<h1 style="font-size:30px;"><p style="color:#6666ff;">Sus Photo Gallery</p></h1>
 
 [Back To Home](/index.md)
 
