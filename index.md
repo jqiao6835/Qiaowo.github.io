@@ -103,6 +103,7 @@ I like to press buttons on soundboards :))
 These are quotes said by me some point in time in the Quarantined Bagels Discord Server. I really don't know what to say about these.....they were either quoted when my brain was running on 2 braincells...they have no context..I'm just sus lol. 
 </p>
 
+<p style="color:#f291c2;">
 >"I wanna sun burn" - Jasmine 2020
 
 >"I have teeth now" - Jasmine 2020
@@ -122,7 +123,7 @@ These are quotes said by me some point in time in the Quarantined Bagels Discord
 >"You're not a pinapple, how would you know?" - Jasmine 2020
 
 >"I NEED A BODY" - Jasmine
-
+</p>
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">🙌Special Thanks🙌</p></h1>
 
