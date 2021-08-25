@@ -38,31 +38,31 @@
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">List of hobbies</p></h1>
 
->💚 Drawing
+>🍃 Drawing
 
->💚 Cooking
+>🍃 Cooking
 
->💚 Walking/Hiking
+>🍃 Walking/Hiking
 
->💚 Playing Sky because I'm addicted
+>🍃 Playing Sky because I'm addicted
 
->💚 Spending time with friends
+>🍃 Spending time with friends
 
->💚 Spending time with you😊💖
+>🍃 Spending time with you😊💖
 
->💚 Making random nonsensical lists
+>🍃 Making random nonsensical lists
 
->💚 Listening to music
+>🍃 Listening to music
 
->💚 Playing Guzheng
+>🍃 Playing Guzheng
 
->💚 Playing Badminton
+>🍃 Playing Badminton
 
->💚 Playing Cards
+>🍃 Playing Cards
 
->💚 HMMMMMMmmMMMicrowave
+>🍃 HMMMMMMmmMMMicrowave
 
->💚 ha
+>🍃 ha
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">My Addy's🙃</p></h1>
 
