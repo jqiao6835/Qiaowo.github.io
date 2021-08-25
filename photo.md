@@ -6,7 +6,7 @@
  My prof pic :)
 
 ![Me hiding from camera](/githubimages/I_hide.jpg)
- Idk who was taking the photo but I no like camera so I hide 
+<p>Idk who was taking the photo but I no like camera so I hide</p>
 
 ![Flora ascends](/githubimages/Flora_ascends.jpg)
  Flora ascends into the 10th Dimension
