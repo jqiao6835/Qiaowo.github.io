@@ -83,6 +83,8 @@
 
 >🍃 Listening to music
 
+>🍃 Listening to podcasts
+
 >🍃 Playing Guzheng
 
 >🍃 Playing Badminton
