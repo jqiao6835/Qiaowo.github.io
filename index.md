@@ -105,6 +105,7 @@ These are quotes said by me some point in time in the Quarantined Bagels Discord
 </p>
 
 <p style="color:#f291c2;">
+
 >"I wanna sun burn" - Jasmine 2020
 
 >"I have teeth now" - Jasmine 2020
