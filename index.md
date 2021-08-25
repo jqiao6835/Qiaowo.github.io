@@ -48,7 +48,7 @@
 
 >🍃 Spending time with friends
 
->🍃 Spending time with you😊💖 (you know who you are ;) 
+>🍃 Spending time with you😊💖 (you know who you are uwu) 
 
 >🍃 Making random nonsensical lists
 
