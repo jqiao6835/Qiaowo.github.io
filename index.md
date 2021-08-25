@@ -102,7 +102,7 @@
 <i class="fas fa-file fa-lg"></i> A list of all the animes I've watched fully [[here]](List of Animes 08.24.2021.pdf)
 
 
-<h1 style="font-size:20px;"><p style="color:#4ca48c;">✨🎶My Current Playlist of songs🎶✨</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4ca48c;">✨🎶My Current Song Playlist🎶✨</p></h1>
 <iframe width="200" height="113" src="https://www.youtube.com/embed/videoseries?list=PLvVd50Dgei_fXbNVyLba3V1oFb-DyHTTq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <h1 style="font-size:20px;"><p style="color:#4ca48c;">📚🏫Education🏫📚</p></h1>
