@@ -71,7 +71,13 @@
 >On my second day in Montreal, I went to a small Italian cafe called Cafe Milano and got a latte which I found was really cute :33 it also tasted really really good👌👌👌
 ![latte](/quebecphotos/latte.jpg)
 
+>Went to the Montreal Biodome!! Haven't been here since I was 8 it was so nostalgic😊 and the animals were amazing and so cuteeeeeeeeaaaaaaaahhh
+![biodomefront](/quebecphotos/biodomefront.jpg)
 
+![biodomesideview](/quebecphotos/biodomesideview.jpg)
 
+![penguins](/quebecphotos/penguins.jpg)
+
+![penguins](/quebecphotos/penguins.jpg)
 
 [Back To Home](/index.md)
