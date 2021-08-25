@@ -108,7 +108,7 @@
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">Professional Experiences</p></h1>
 
-* you ;) ahahaha idk what that means LOL
+* you ;)       ....ahahaha idk what that means LOL pretend u didnt read that
 * I like to press buttons on soundboards :))
 * I sometimes make sussy crappy logos for people :DDD
 
