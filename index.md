@@ -147,13 +147,13 @@ Special thanks to my collaborators on helping me with this GitHub project! It wo
 
 <p>
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">Bagel Motto's</p></h1>
-It's not okay to be ok - Mayya
+It's not okay to be ok😈 - Mayya
 <br>
-It's not okay to be awake - Amanda
+It's not okay to be awake😴 - Amanda
 <br>
-It's not okay to be alive - Stella
+It's not okay to be alive💀 - Stella
 <br>
-It's not okay to be not blue - Flora
+It's not okay to be not be tiger🐯- Flora
 <br>
-It's not okay to not be green - Jasmine
+It's not okay to not be green💚 - Jasmine
 </p>
