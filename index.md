@@ -40,28 +40,20 @@
 
 💚 Drawing
 <br>
-
 💚 Cooking
 <br>
-
 💚 Walking/Hiking
 <br>
-
 💚 Playing Sky because I'm addicted
 <br>
-
 💚 Spending time with friends
 <br>
-
 💚 Spending time with you😊💖
 <br>
-
 💚 Making random nonsensical lists
 <br>
-
 💚 HMMMMMMmmMMM
 <br>
-
 💚 ha
 </p>
 
