@@ -126,28 +126,28 @@ These are quotes said by me some point in time in the Quarantined Bagels Discord
 <br>
 <i>"I have teeth now"</i> - Jasmine 2020
 <br>
-
+<br>
 <i>"Look at the top of my head"</i> - Jasmine 2020
 <br>
-
+<br>
 <i>"我凹特你"</i> - Jasmine 2020
 <br>
-
+<br>
 <i>"Surrealism is just bs of art"</i> - Jasmine 2020
 <br>
-
+<br>
 <i>"I forgot how that song went......<b>SHOW YOURSELF</b>"</i> - Jasmine 2020
 <br>
-
+<br>
 <i>"ok english pls 再说一次 pls in proper engrish"</i> - Jasmine 2020
 <br>
-
+<br>
 <i>"ur acc going to sleep right? ur not sitting there for someone to say something yellow"</i> - Jasmine 2020
 <br>
-
+<br>
 <i>"You're not a pinapple, how would you know?"</i> - Jasmine 2020
 <br>
-
+<br>
 <i>"I NEED A BODY"</i> - Jasmine
 </p>
 
