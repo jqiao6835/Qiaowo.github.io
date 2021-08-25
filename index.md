@@ -111,22 +111,31 @@ These are quotes said by me some point in time in the Quarantined Bagels Discord
 <p style="color:#f291c2;">
 
 >"I wanna sun burn" - Jasmine 2020
+<br>
 
 >"I have teeth now" - Jasmine 2020
+<br>
 
 >"Look at the top of my head" - Jasmine 2020
+<br>
 
 >"我凹特你" - Jasmine 2020
+<br>
 
 >"Surrealism is just bs of art" - Jasmine 2020
+<br>
 
 >"I forgot how that song went......<b>SHOW YOURSELF</b>" - Jasmine 2020
+<br>
 
 >"ok english pls 再说一次 pls in proper engrish" - Jasmine 2020
+<br>
 
 >Stella accidentally says to Jasmine: "U CUTE FINCH"   Jasmine: "wow did u just compliment-"  Stella: "WAIT"   Jasmine: *shook* "someone quote her" - 2020
+<br>
 
 >"You're not a pinapple, how would you know?" - Jasmine 2020
+<br>
 
 >"I NEED A BODY" - Jasmine
 </p>
