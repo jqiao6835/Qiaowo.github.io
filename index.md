@@ -81,14 +81,12 @@
     </tr>
 </table>
 
-* <i class="fas fa-file fa-lg"></i> If you would like, you can also download my resume [here](RESUME - Jasmine Qiao.pdf)
-
-
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">📚🏫Education🏫📚</p></h1>
 
 * A.Y. Jackson Secondary School 2017-2021 (ew)
 * Sheridan College 2021-idk man
 * Some kindergarden....I hope...
+*<i class="fas fa-file fa-lg"></i> You can also download my resume [here](RESUME - Jasmine Qiao.pdf)
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">Technical Skills</p></h1>
 * better tahn any indian tech support guy you can call
@@ -158,6 +156,10 @@ These are quotes said by me some point in time in the Quarantined Bagels Discord
 
 🌺"I NEED A BODY" - Jasmine
 </p>
+
+
+
+
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">🙌Special Thanks🙌</p></h1>
 
