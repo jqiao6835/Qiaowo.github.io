@@ -18,10 +18,12 @@
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">About Me</p></h1>
 
->🌿 Hello, my name is Jam. I am a happy Canadian.🍁>
+>🌿 Hello, my name is Jam. I am a happy Canadian.🍁
+
 >🌿 My parents are both from Tianjin, China, but I was born in Toronto, Canada.🍁
 
 >🌿 I'm 18 and am attending Sheridan College.
+
 >🌿 I am an INFP-T and my favourite colour is green (obviously).
 
 >🌿 I am lethally addicted to Sky Children of the Light.😃
