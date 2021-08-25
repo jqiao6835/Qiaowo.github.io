@@ -104,6 +104,7 @@
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">Programming Languages</p></h1>
 
 * Engrish
+* jk i no program i just draw lines and colour stuff :^)))
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">Professional Experiences</p></h1>
 
