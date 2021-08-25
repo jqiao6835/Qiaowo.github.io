@@ -15,6 +15,24 @@
 <b>Location:</b> Toronto, Canada
 </p>
 
+<h1 style="font-size:20px;"><p style="color:#2E8B57;">My Addy's🙃</p></h1>
+
+<table>
+    <tr>
+        <td>
+            <a href="https://www.youtube.com/channel/UCKW-d_GlZ-sblBa18tChqbw" target="blank"><i class="fab fa-youtube fa-lg"></i> Youtube</a>
+        </td>
+        <td>
+            <a href="https://www.instagram.com/jqwq_art/" target="blank"><i class="fab fa-instagram fa-lg"></i> Instagram</a>
+        </td>
+        <td>
+            <a href="https://www.reddit.com/user/jqiao14" target="blank"><i class="fab fa-reddit fa-lg"></i> Reddit</a>
+        </td>
+        <td>
+            <i class="fab fa-discord fa-lg"></i> Discord: жасминичка💚#5043
+        </td>
+    </tr>
+</table>
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">About Me</p></h1>
 
@@ -94,25 +112,6 @@
 
 >💽 Ocenaudio
 
-
-<h1 style="font-size:20px;"><p style="color:#2E8B57;">My Addy's🙃</p></h1>
-
-<table>
-    <tr>
-        <td>
-            <a href="https://www.youtube.com/channel/UCKW-d_GlZ-sblBa18tChqbw" target="blank"><i class="fab fa-youtube fa-lg"></i> Youtube</a>
-        </td>
-        <td>
-            <a href="https://www.instagram.com/jqwq_art/" target="blank"><i class="fab fa-instagram fa-lg"></i> Instagram</a>
-        </td>
-        <td>
-            <a href="https://www.reddit.com/user/jqiao14" target="blank"><i class="fab fa-reddit fa-lg"></i> Reddit</a>
-        </td>
-        <td>
-            <i class="fab fa-discord fa-lg"></i> Discord: жасминичка💚#5043
-        </td>
-    </tr>
-</table>
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">✨🎶My Current Playlist of songs🎶✨</p></h1>
 <iframe width="420" height="315"
