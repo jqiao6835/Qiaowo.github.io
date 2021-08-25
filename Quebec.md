@@ -8,16 +8,13 @@
 ![Landscape](/quebecphotos/Landscape.jpg)
 >Landscape in front of the Waterfall (water looks kinda sus cuz I think theyre doind construction right underneath the waterfall)
 
-![Flora ascends](/githubimages/Flora_ascends.jpg)
->Flora ascends into the 10th Dimension
+![Valley] (/quebecphotos/Montmorency Valley.jpg)
+>Montmorency Valley
 
-![Mayya dies](/githubimages/mayya_ded.jpg)
->Mayya dies 2021 colourized
+![2waterfall](/quebecphotos/Waterfall2.jpg)
+>Another angle of view of the Waterfall
 
-![Sus night photo](/githubimages/nightphotosus.jpg)
->This photo is way too dark lol, it is also very sus
-
-![Mayya terrorizes me](/githubimages/mayyaterrorizesme.jpg)
->Mayya terrorizes me ;-;
+![Bridge](/quebecphotos/Bridgeontopofwaterfall.jpg)
+>A bridge above the waterfall that you can walk across
 
 [Back To Home](/index.md)
