@@ -88,6 +88,24 @@
 
 <i class="fas fa-file fa-lg"></i> A list of all the animes I've watched fully [[here]](List of Animes 08.24.2021.pdf)
 
+
+<h1 style="font-size:20px;"><p style="color:#2E8B57;">✨🎶My Current Playlist of songs🎶✨</p></h1>
+<iframe width="200" height="113" src="https://www.youtube.com/embed/videoseries?list=PLvVd50Dgei_fXbNVyLba3V1oFb-DyHTTq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<h1 style="font-size:20px;"><p style="color:#2E8B57;">📚🏫Education🏫📚</p></h1>
+
+* Some kindergarden....I hope...
+* St.Henry Catholic School 2008-2015
+* Zion Heights Middle School 2015-2017
+* A.Y. Jackson Secondary School 2017-2021 (ew)
+* Sheridan College 2021-idk man hopefully asap😃
+*The internet (The most important education obviously) :))))
+* <i class="fas fa-file fa-lg"></i> You can also download my resume [here](RESUME - 06.30.2021.pdf)
+
+<h1 style="font-size:20px;"><p style="color:#2E8B57;">Technical Skills</p></h1>
+* better tahn any indian tech support guy you can call
+* I can also photoshop pretty cursed images of my friends :)))
+
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">List of Programs I'm familiar with</p></h1>
 
 >💽 Adobe Photoshop
@@ -111,24 +129,6 @@
 >💽 Kdenlive
 
 >💽 Ocenaudio
-
-
-<h1 style="font-size:20px;"><p style="color:#2E8B57;">✨🎶My Current Playlist of songs🎶✨</p></h1>
-<iframe width="200" height="113" src="https://www.youtube.com/embed/videoseries?list=PLvVd50Dgei_fXbNVyLba3V1oFb-DyHTTq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
-<h1 style="font-size:20px;"><p style="color:#2E8B57;">📚🏫Education🏫📚</p></h1>
-
-* Some kindergarden....I hope...
-* St.Henry Catholic School 2008-2015
-* Zion Heights Middle School 2015-2017
-* A.Y. Jackson Secondary School 2017-2021 (ew)
-* Sheridan College 2021-idk man hopefully asap😃
-*The internet (The most important education obviously) :))))
-* <i class="fas fa-file fa-lg"></i> You can also download my resume [here](RESUME - 06.30.2021.pdf)
-
-<h1 style="font-size:20px;"><p style="color:#2E8B57;">Technical Skills</p></h1>
-* better tahn any indian tech support guy you can call
-* I can also photoshop pretty cursed images of my friends :)))
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">Programming Languages</p></h1>
 
