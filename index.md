@@ -114,6 +114,9 @@
     </tr>
 </table>
 
+<h1 style="font-size:20px;"><p style="color:#2E8B57;">✨🎶My Current Playlist of songs🎶✨</p></h1>
+
+
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">📚🏫Education🏫📚</p></h1>
 
 * Some kindergarden....I hope...
