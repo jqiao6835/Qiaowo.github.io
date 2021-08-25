@@ -8,11 +8,13 @@
 <h1 style="font-size:15px;"><p style="color:#2E8B57;">🍀Qiaowo🍀</p></h1>
 
 <p style="color:#007045;">
-* <b>Email(s):</b> jqiao6835@gmail.com 
+<b>Email(s):</b> jqiao6835@gmail.com 
 
-* <b>Year of birth:</b> 2003
 
-* <b>Location:</b> Toronto, Canada
+<b>Year of birth:</b> 2003
+
+
+<b>Location:</b> Toronto, Canada
 </p>
 
 
