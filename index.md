@@ -38,31 +38,39 @@
 
 <p style="color:DarkSeaGreen;">
 
->💚 Drawing
+💚 Drawing
+<br>
 <br>
 
->💚 Cooking
+💚 Cooking
+<br>
 <br>
 
->💚 Walking/Hiking
+💚 Walking/Hiking
+<br>
 <br>
 
->💚 Playing Sky because I'm addicted
+💚 Playing Sky because I'm addicted
+<br>
 <br>
 
->💚 Spending time with friends
+💚 Spending time with friends
+<br>
 <br>
 
->💚 Spending time with you😊💖
+💚 Spending time with you😊💖
+<br>
 <br>
 
->💚 Making random nonsensical lists
+💚 Making random nonsensical lists
+<br>
 <br>
 
->💚 HMMMMMMmmMMM
+💚 HMMMMMMmmMMM
+<br>
 <br>
 
->💚 ha
+💚 ha
 </p>
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">My Addy's🙃</p></h1>
