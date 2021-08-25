@@ -212,9 +212,8 @@ These are quotes said by me some point in time in the Quarantined Bagels Discord
 
 <p style="border: 2px solid #00855f;">~~~ It's not okay to not be green💚 - Jasmine ~~~
 </p>
-
-
-
+<br>
+<br>
 <p><h1 style="font-size:20px;"><p style="color:#f8ad0d;">🙌✭Special Thanks✭🙌</p></h1>
 
 Special thanks to my collaborators on helping me with this GitHub project! It wouldn't have been possible for me to become addicted to coding this without you guys. Thanks for making this possible! :))
