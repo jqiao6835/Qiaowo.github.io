@@ -123,7 +123,7 @@ These are quotes said by me some point in time in the Quarantined Bagels Discord
 
 <i>"I wanna sun burn"</i> - Jasmine 2020
 <br>
-
+<br>
 <i>"I have teeth now"</i> - Jasmine 2020
 <br>
 
