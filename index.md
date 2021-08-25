@@ -154,3 +154,15 @@ You can find their addy's here below:
             <a href="https://www.instagram.com/xd_stella.exe/" target="blank"><i class="fab fa-instagram fa-lg"></i>xd_stella.exe</a>
         </td>
 </table>
+
+<h1 style="font-size:20px;"><p style="color:#2E8B57;">Bagel Motto's</p></h1>
+
+It's not okay to be ok - Mayya
+<br>
+It's not okay to be awake - Amanda
+<br>
+It's not okay to be alive - Stella
+<br>
+It's not okay to be not blue - Flora
+<br>
+It's not okay to not be green - Jasmine
