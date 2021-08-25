@@ -35,6 +35,17 @@
 
 ![petitchamplain4](/quebecphotos/petitchamplain4.jpg)
 
+>Different country flags beside the St.Lawrence River :DDD
+![flagsbesidest.lawrenceriver](/quebecphotos/flagsbesidest.lawrenceriver.jpg)
+
+>This is how Quebecois introverts walk around. Greenscreen = no one sees you😌
+![greenman1](/quebecphotos/greenman1.jpg)
+
+![greenman2](/quebecphotos/greenman2.jpg)
+
+>Street performers!🎶🎻
+![streetperformers](/quebecphotos/streetperformers.jpg)
+
 >Came across a wetland under a crossing bridge near Quebec City's Dowtown area. It really looked like something you'd see in LOTR...but the pictures don't do it justice, it looked so much more beautiful irl💖
 ![quebecmarshlands1](/quebecphotos/quebecmarshlands1.jpg)
 
@@ -50,7 +61,6 @@
 
 >View of Saint-Louis Forts and Châteaux wall
 ![Saint-LouisFortsviewfromwall](/quebecphotos/Saint-LouisFortsviewfromwall.jpg)
-
 
 
 
