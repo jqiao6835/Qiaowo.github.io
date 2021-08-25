@@ -299,7 +299,8 @@ These are quotes said by Me some point in time in the Quarantined Bagels Discord
 <br>
 <br>
 
-🌺 Flora: "What are you eating- Me: "Oatmeal and tea"
+🌺 Flora: "What are you eating?" 
+<br>Me: "Oatmeal and tea"
 <br>Flora: "Oh? Oatmeal and tea?- 
 <br>Me: "AHAHAHA what no I said oatmeal and tea not oatmeal aunty" (I misheard her say oatmeal aunty)
 <br>Flora: "啊啊所以你是麦片阿姨, Oatmeal aunty yes yes ahahahaha"
