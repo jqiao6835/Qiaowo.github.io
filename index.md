@@ -36,23 +36,26 @@
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">List of hobbies</p></h1>
 
->💚 Drawing
+<p style="color:#f291c2;">
 
->💚 Cooking
-
->💚 Walking/Hiking
-
->💚 Playing Sky because I'm addicted
-
->💚 Spending time with friends
-
->💚 Spending time with you😊💖
-
->💚 Making random nonsensical lists
-
->💚 HMMMMMMmmMMM
+💚 Drawing
+<br>
+💚 Cooking
+<br>
+💚 Walking/Hiking
+<br>
+💚 Playing Sky because I'm addicted
+<br>
+💚 Spending time with friends
+<br>
+💚 Spending time with you😊💖
+<br>
+💚 Making random nonsensical lists
+<br>
+💚 HMMMMMMmmMMM
 
 >💚 ha
+</p>
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">My Addy's🙃</p></h1>
 
