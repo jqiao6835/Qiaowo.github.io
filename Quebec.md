@@ -1,4 +1,4 @@
-<h1 style="font-size:30px;"><p style="color:#191970;">Quebec Photo Gallery</p></h1>
+<h1 style="font-size:30px;"><p style="color:#0e00d1;">Quebec Photo Gallery</p></h1>
 
 [Back To Home](/index.md)
 
