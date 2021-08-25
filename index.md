@@ -135,8 +135,10 @@ You can find their addy's here below:
             <a href="https://www.instagram.com/fottweiler.547/" target="blank"><i class="fab fa-instagram fa-lg"></i> fottweiler.547</a>
         </td>
 
+<br>
 
 🟣💀 Stella Gu
+
 <table>
     <tr>
         <td>
