@@ -15,7 +15,7 @@
 <b>Location:</b> Toronto, Canada
 </p>
 
-<h1 style="font-size:20px;"><p style="color:#2E8B57;">My Addy's🙃</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4ca482;">My Addy's🙃</p></h1>
 
 <table>
     <tr>
@@ -34,7 +34,7 @@
     </tr>
 </table>
 
-<h1 style="font-size:20px;"><p style="color:#2E8B57;">About Me</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4ca482;">About Me</p></h1>
 
 >🌿 Hello, my name is Jam. I am a happy Canadian.🍁
 
@@ -54,7 +54,7 @@
 
 
 
-<h1 style="font-size:20px;"><p style="color:#2E8B57;">List of hobbies</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4ca482;">List of hobbies</p></h1>
 
 >🍃 Drawing
 
