@@ -218,10 +218,10 @@ These are quotes said by Me some point in time in the Quarantined Bagels Discord
 <br>
 
 🌺 Mayya: "It's ok we're all very accepting, u can come out to us- 
-Me: "Accept that i wanna stay home"
-Flora: "No you are not"
-Mayya: "We're not that accepting"
-(Mayya and Flora bribing Me to go out and hang with them)
+<br>Me: "Accept that i wanna stay home"
+<br>Flora: "No you are not"
+<br>Mayya: "We're not that accepting"
+<br>(Mayya and Flora bribing Me to go out and hang with them)
 <br>
 <br>
 
@@ -229,22 +229,22 @@ Mayya: "We're not that accepting"
 <br>
 <br>
 
-🌺Mayya: "extroverts are  suns shining on everybody- 
-Me: "that sounds like extroverts are aggressively pointing flashlights at others"
+🌺 Mayya: "extroverts are  suns shining on everybody- 
+<br>Me: "that sounds like extroverts are aggressively pointing flashlights at others"
 <br>
 <br>
 
 🌺"I can't get the sock in my hair!" *in distress* 
-"Why is my hair so straight😢"
-"Want some hair excitement"
-"I wish I had three hands...." - Me 2021
-(I was trying to curl my hair through a sock-hair curling tutorial I found on Youtube)
+<br>"Why is my hair so straight😢"
+<br>"Want some hair excitement"
+<br>"I wish I had three hands...." - Me 2021
+<br>(I was trying to curl my hair through a sock-hair curling tutorial I found on Youtube)
 <br>
 <br>
 
 🌺"Tim Horton's coffee's pretty good if ur on the run.
-.....Wait- I meant *on the go*
-.....Well I mean...if ur on the run then it'll the best coffee for the rest of your life" - Me 2021
+<br>.....Wait- I meant *on the go*
+<br>.....Well I mean...if ur on the run then it'll the best coffee for the rest of your life" - Me 2021
 <br>
 <br>
 
@@ -257,8 +257,8 @@ Me: "that sounds like extroverts are aggressively pointing flashlights at others
 <br>
 
 🌺"If i was a guy, I am a guy"
-"If I was a guy, I wouldn't be a girl"
-"If I was a guy, I would be a computer" - Me 2021
+<br>"If I was a guy, I wouldn't be a girl"
+<br>"If I was a guy, I would be a computer" - Me 2021
 <br>
 <br>
 
@@ -271,7 +271,7 @@ Me: "that sounds like extroverts are aggressively pointing flashlights at others
 <br>
 
 🌺"Is tiger a type of tree?" "It could be... We could interbreed them." - Me 2021
-(Yeah honestly...idek what I said here...I think I wasn't thinking straight and I just blurted out random words)
+<br>(Yeah honestly...idek what I said here...I think I wasn't thinking straight and I just blurted out random words)
 <br>
 <br>
 
@@ -287,10 +287,11 @@ Me: "that sounds like extroverts are aggressively pointing flashlights at others
 <br>
 <br>
 
-🌺 Flora: "What is 鸳鸯 called in English?- Me: "Mandarin duck"
-Flora: "Can they speak Mandarin?- 
-Me: "I don't know you can ask them" 
-*in a strong northern chinese accent* "哈喽，你会说中文吗"
+🌺 Flora: "What is 鸳鸯 called in English?- 
+<br>Me: "Mandarin duck"
+<br>Flora: "Can they speak Mandarin?- 
+<br>Me: "I don't know you can ask them" 
+<br>"哈喽，你会说中文吗" *said in a strong northern chinese accent*
 <br>
 <br>
 
@@ -299,10 +300,10 @@ Me: "I don't know you can ask them"
 <br>
 
 🌺 Flora: "What are you eating- Me: "Oatmeal and tea"
-Flora: "Oh? Oatmeal and tea?- 
-Me: "AHAHAHA what no I said oatmeal and tea not oatmeal aunty" (I misheard her say oatmeal aunty)
-Flora: "啊啊所以你是麦片阿姨, Oatmeal aunty yes yes ahahahaha"
-Stella: *changes my server name to "Oatmeal Aunty - 麦片阿姨"- Me: I-....ok well ig that's gonna be my server name🙂
+<br>Flora: "Oh? Oatmeal and tea?- 
+<br>Me: "AHAHAHA what no I said oatmeal and tea not oatmeal aunty" (I misheard her say oatmeal aunty)
+<br>Flora: "啊啊所以你是麦片阿姨, Oatmeal aunty yes yes ahahahaha"
+<br>Stella: *changes my server name to "Oatmeal Aunty - 麦片阿姨"- Me: I-....ok well ig that's gonna be my server name🙂
 </p>
 
 <p>
