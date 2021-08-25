@@ -110,6 +110,7 @@
 
 * you ;) ahahaha idk what that means LOL
 * I like to press buttons on soundboards :))
+* I sometimes make sussy crappy logos for people :DDD
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">Gallery of Very Sus Photos</p></h1>
 
