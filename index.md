@@ -203,7 +203,7 @@ Special thanks to my collaborators on helping me with this GitHub project! It wo
 It's not okay to be okay😈 - Mayya
 <br>
 
-It's not okay to be awake😴 - Amanda
+<p style="background-color:Tomato;">It's not okay to be awake😴 - Amanda</p>
 <br>
 
 It's not okay to be alive💀 - Stella
