@@ -83,10 +83,12 @@
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">📚🏫Education🏫📚</p></h1>
 
+* Some kindergarden....I hope...
+* St.Henry Catholic School 2008-2015
+* Zion Heights Middle School 2015-2017
 * A.Y. Jackson Secondary School 2017-2021 (ew)
 * Sheridan College 2021-idk man hopefully asap😃
-* Some kindergarden....I hope...
-*The internet :))))
+*The internet (The most important education obviously) :))))
 
 * <i class="fas fa-file fa-lg"></i> You can also download my resume [here](RESUME - Jasmine Qiao.pdf)
 
