@@ -178,6 +178,9 @@ Special thanks to my collaborators on helping me with this GitHub project! It wo
             <a href="https://www.youtube.com/channel/UCVTp-rIWyMLWFYJ6vrX54LA" target="blank"><i class="fab fa-youtube fa-lg"></i>Fottweiler</a>
         </td>
         <td>
+            <a href="https://yfsufate.github.io/Bagels/" target="blank"><i class="fab fa-github fa-lg"></i>Flora Fu's GitHub</a>
+        </td>
+        <td>
             <a href="https://www.instagram.com/fottweiler.547/" target="blank"><i class="fab fa-instagram fa-lg"></i> fottweiler.547</a>
         </td>
     </tr>
