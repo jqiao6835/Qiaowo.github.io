@@ -4,7 +4,7 @@ div {
     background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%)
 }
 </style>
-<body>
+
 <p style="border:4px solid DarkSeaGreen;"></p>
 <h1 style="font-size:40px;"><p style="color:DarkSeaGreen;">Home</p></h1>
 
