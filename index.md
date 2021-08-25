@@ -112,7 +112,7 @@ I like to press buttons on soundboards :))
 [📷Cursed images...You have been warned!📷](/photo.md)
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">🏰Quebec Photos!🏰</p></h1>
-[📷Photos from my Quebec trip!📷](/photo.md)
+[📷Photos from my Quebec trip!📷](/Quebec.md)
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">Member of Quarantined Bagels Discord Server</p></h1>
 
