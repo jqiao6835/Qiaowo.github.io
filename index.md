@@ -196,7 +196,22 @@ These are quotes said by me some point in time in the Quarantined Bagels Discord
 🌺"I NEED A BODY" - Jasmine
 </p>
 
+<p>
+<h1 style="font-size:20px;"><p style="color:#2E8B57;">Bagel Motto's</p></h1>
+<p style="border: 2px solid #00ff00;">~~~ It's not okay to be okay😈 - Mayya ~~~</p>
+<br>
 
+<p style="border: 2px solid #e0004f;">~~~ It's not okay to be awake😴 - Amanda ~~~</p>
+<br>
+
+<p style="border: 2px solid #7a00cc;">~~~ It's not okay to be alive💀 - Stella ~~~</p>
+<br>
+
+<p style="border: 2px solid #33bbff;">~~~ It's not okay to be not be tiger🐯 - Flora ~~~</p>
+<br>
+
+<p style="border: 2px solid #00855f;">~~~ It's not okay to not be green💚 - Jasmine ~~~
+</p>
 
 
 
@@ -236,22 +251,8 @@ Special thanks to my collaborators on helping me with this GitHub project! It wo
 </table>
 
 
-<p>
-<h1 style="font-size:20px;"><p style="color:#2E8B57;">Bagel Motto's</p></h1>
-<p style="border: 2px solid #00ff00;">~~~ It's not okay to be okay😈 - Mayya ~~~</p>
-<br>
 
-<p style="border: 2px solid #e0004f;">~~~ It's not okay to be awake😴 - Amanda ~~~</p>
-<br>
+<h1 style="font-size:20px;"><p style="color:#2E8B57;">💌How you can support me!💌</p></h1>
 
-<p style="border: 2px solid #7a00cc;">~~~ It's not okay to be alive💀 - Stella ~~~</p>
-<br>
+>💌 Just smile and be happy :3 you look amazing when you do and that makes me happy.😊
 
-<p style="border: 2px solid #33bbff;">~~~ It's not okay to be not be tiger🐯 - Flora ~~~</p>
-<br>
-
-<p style="border: 2px solid #00855f;">~~~ It's not okay to not be green💚 - Jasmine ~~~
-</p>
-
-***<b>Hypothetical Paypal link where you can send me free money :))))))***</b>
-lol jk i aint no twitch thot
