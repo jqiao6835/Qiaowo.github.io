@@ -100,7 +100,8 @@ I like to press buttons on soundboards :))
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">Questionable Quotes by Moi🙂</p></h1>
 
 <p style="color:#007045;">
-These are quotes said by me some point in time in the Quarantined Bagels Discord Server. I really don't know what to say about these.....they were either quoted when my brain was running on 2 braincells...they have no context..I'm just sus lol. </p>
+These are quotes said by me some point in time in the Quarantined Bagels Discord Server. I really don't know what to say about these.....they were either quoted when my brain was running on 2 braincells...they have no context..I'm just sus lol. 
+</p>
 
 >"I wanna sun burn" - Jasmine 2020
 
