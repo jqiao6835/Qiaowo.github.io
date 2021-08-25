@@ -46,6 +46,12 @@
 >Street performers!🎶🎻
 ![streetperformers](/quebecphotos/streetperformers.jpg)
 
+>Lobster rolls with a side of salad and housemade potato chips which I gave to my dad since he really liked it (also why do I suck at taking photos LOL)
+![lobsterrollwithsalad](/quebecphotos/lobsterrollwithsalad.jpg)
+
+>My first time trying Crème Brûlée :DD it was soooo good and it was Earl Grey flavoured so extra points because it's tea😌👌👌👌
+![cremebrulee](/quebecphotos/cremebrulee.jpg)
+
 >Came across a wetland under a crossing bridge near Quebec City's Dowtown area. It really looked like something you'd see in LOTR...but the pictures don't do it justice, it looked so much more beautiful irl💖
 ![quebecmarshlands1](/quebecphotos/quebecmarshlands1.jpg)
 
@@ -62,6 +68,8 @@
 >View of Saint-Louis Forts and Châteaux wall
 ![Saint-LouisFortsviewfromwall](/quebecphotos/Saint-LouisFortsviewfromwall.jpg)
 
+>On my second day in Montreal, I went to a small Italian cafe called Cafe Milano and got a latte which I found was really cute :33 it also tasted really really good👌👌👌
+![latte](/quebecphotos/latte.jpg)
 
 
 
