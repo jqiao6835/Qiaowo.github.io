@@ -124,7 +124,7 @@
 * A.Y. Jackson Secondary School 2017-2021 (ew)
 * Sheridan College 2021-idk man hopefully asap😃
 *The internet (The most important education obviously) :))))
-* <i class="fas fa-file fa-lg"></i> You can also download my super outdated resume [here](RESUME - Jasmine Qiao.pdf)
+* <i class="fas fa-file fa-lg"></i> You can also download my super outdated resume [here](RESUME2021 - Jasmine Qiao.pdf)
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">Technical Skills</p></h1>
 * better tahn any indian tech support guy you can call
