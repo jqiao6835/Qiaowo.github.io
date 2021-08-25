@@ -24,6 +24,9 @@
 >Photo taken from the bridge above the waterfall
 
 ![Quebec city port](/quebecphotos/quebeccityport.jpg)
->St.Lawrence river view from Place Royale
+>St.Lawrence river view from the Saint-Louis Forts and Châteaux National wall
+
+![Saint-LouisForts](/quebecphotos/Saint-LouisForts.jpg)
+>Saint-Louis Forts and Châteaux National Historic Site
 
 [Back To Home](/index.md)
