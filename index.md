@@ -9,11 +9,9 @@
 
 <p style="color:#007045;">
 <b>Email(s):</b> jqiao6835@gmail.com 
-
-
+<br>
 <b>Year of birth:</b> 2003
-
-
+<br>
 <b>Location:</b> Toronto, Canada
 </p>
 
@@ -125,15 +123,16 @@ These are quotes said by me some point in time in the Quarantined Bagels Discord
 Special thanks to my collaborators on helping me with this GitHub project! It wouldn't have been possible for me to become addicted to coding this without you guys. :))
 
 You can find their addy's here below:
+
 🔵🐯 Flora Fu (<a href="https://yfsufate.github.io/Bagels/" target="blank">Quarantined Bagels</a> GitHub Owner)
 
 <table>
     <tr>
         <td>
-            <a href="https://www.youtube.com/channel/UCVTp-rIWyMLWFYJ6vrX54LA" target="blank"><i class="fab fa-youtube fa-lg"></i> Youtube</a>
+            <a href="https://www.youtube.com/channel/UCVTp-rIWyMLWFYJ6vrX54LA" target="blank"><i class="fab fa-youtube fa-lg"></i>Fottweiler</a>
         </td>
         <td>
-            <a href="https://www.instagram.com/jqwq_art/" target="blank"><i class="fab fa-instagram fa-lg"></i> Instagram</a>
+            <a href="https://www.instagram.com/fottweiler.547/" target="blank"><i class="fab fa-instagram fa-lg"></i> fottweiler.547</a>
         </td>
 
 
@@ -141,8 +140,11 @@ You can find their addy's here below:
 <table>
     <tr>
         <td>
-            <a href="https://www.youtube.com/channel/UC6NqBvwkPs07OJ7uaZHf0XA" target="blank"><i class="fab fa-youtube fa-lg"></i> Youtube</a>
+            <a href="https://www.youtube.com/channel/UC6NqBvwkPs07OJ7uaZHf0XA" target="blank"><i class="fab fa-youtube fa-lg"></i>Kirina Kei</a>
         </td>
         <td>
-            <a href="https://www.instagram.com/jqwq_art/" target="blank"><i class="fab fa-instagram fa-lg"></i> Instagram</a>
+            <a href="https://stella-gu.github.io/" target="blank"><i class="fab fa-github fa-lg"></i>Stella Gu's GitHub</a>
+        </td>
+        <td>
+            <a href="https://www.instagram.com/xd_stella.exe/" target="blank"><i class="fab fa-instagram fa-lg"></i>xd_stella.exe</a>
         </td>
