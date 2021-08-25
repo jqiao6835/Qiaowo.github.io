@@ -2,6 +2,9 @@
 
 [Back To Home](/index.md)
 
+![Quebecsigns](/quebecphotos/Quebecsigns.jpg)
+>Driving to Quebec and suddenly all the road signs turn into baguette signs👀🥖
+
 ![M](/quebecphotos/Montmorencywaterfall.jpg)
 >Montmorency Waterfall with rainbow!!🌈:D
 
@@ -16,5 +19,11 @@
 
 ![Bridge](/quebecphotos/Bridgeee.jpg)
 >A bridge above the waterfall that you can walk across
+
+![onthebridge](/quebecphotos/onthebridge.jpg)
+>Photo taken from the bridge above the waterfall
+
+![Quebec city port](/quebecphotos/quebeccityport.jpg)
+>St.Lawrence river view from Place Royale
 
 [Back To Home](/index.md)
