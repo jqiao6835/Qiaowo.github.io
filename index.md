@@ -188,8 +188,8 @@ These are quotes said by Me some point in time in the Quarantined Bagels Discord
 <br>
 
 🌺 Me: "I'm rly sensitive to tropical fruits idk y, [I got a fever after eating a few]"
-Flora: "Stella write that down"
-Stella: "yes yes yes- Me: "Wait- no-"
+<br>Flora: "Stella write that down"
+<br>Stella: "yes yes yes- Me: "Wait- no-"
 <br>
 <br>
 
