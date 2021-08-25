@@ -187,6 +187,11 @@ These are quotes said by me some point in time in the Quarantined Bagels Discord
 <br>
 <br>
 
+🌺Jasmine: "I'm rly sensitive to tropical fruits idk y, [I got a fever after eating a few]"
+Flora: "Stella write that down"
+Stella: "yes yes yes"
+Jasmine: "Wait- no-"
+
 🌺"ur acc going to sleep right? ur not sitting there for someone to say something yellow" - Jasmine 2020
 <br>
 <br>
@@ -195,7 +200,112 @@ These are quotes said by me some point in time in the Quarantined Bagels Discord
 <br>
 <br>
 
-🌺"I NEED A BODY" - Jasmine
+🌺"I NEED A BODY" - Jasmine 2020
+<br>
+<br>
+
+🌺"if u talk i cant see" - Jasmine 2020
+<br>
+<br>
+
+🌺"Dude I always get swallowed up by my toilet"" - Jasmine 2020
+<br>
+<br>
+
+🌺"cooked water" - Jasmine 2020
+<br>
+<br>
+
+🌺Mayya: "It's ok we're all very accepting, u can come out to us"
+Jasmine: "Accept that i wanna stay home"
+Flora: "No you are not"
+Mayya: "We're not that accepting"
+(Mayya and Flora bribing me to go out and hang with them)
+<br>
+<br>
+
+🌺"solution solved" "create problems solve solutions" - Jasmine 2021
+<br>
+<br>
+
+🌺Mayya: "extroverts are  suns shining on everybody"
+Jasmine: "that sounds like extroverts are aggressively pointing flashlights at others"
+<br>
+<br>
+
+🌺"I can't get the sock in my hair!" *in distress* 
+"Why is my hair so straight😢"
+"Want some hair excitement"
+"I wish I had three hands...." - Jasmine 2021
+(I was trying to curl my hair through a sock-hair curling tutorial I found on Youtube)
+<br>
+<br>
+
+🌺"Tim Horton's coffee's pretty good if ur on the run.
+.....Wait- I meant *on the go*
+.....Well I mean...if ur on the run then it'll the best coffee for the rest of your life" 
+- Jasmine 2021
+<br>
+<br>
+
+🌺"From the side of my screen Flora looks compressed like a tuna can" - Jasmine 2021
+<br>
+<br>
+
+🌺"I didn't have my eardrums on" - Jasmine 2021
+<br>
+<br>
+
+🌺"If i was a guy, I am a guy"
+"If I was a guy, I wouldn't be a girl"
+"If I was a guy, I would be a computer" - Jasmine 2021
+<br>
+<br>
+
+🌺"constraining order" - Jasmine 2021
+<br>
+<br>
+
+🌺"Both Maya's are impossible to work with: one doesn't function and the other is a terrible animation program" - Jasmine 2021
+<br>
+<br>
+
+🌺"Is tiger a type of tree?" "It could be... We could interbreed them." - Jasmine 2021
+(Yeah honestly...idek what I said here...I think I wasn't thinking straight and I just blurted out random words)
+<br>
+<br>
+
+🌺"Mosquitoes suck. i dont wanna drink blood." - Jasmine 2021
+<br>
+<br>
+
+🌺"Anything that is sweet, is hot" - Jasmine 2021
+<br>
+<br>
+
+🌺"Stella is sheep AAHAHAHHAHA "ba"" - Jasmine 2021
+<br>
+<br>
+
+🌺Flora: "What is 鸳鸯 called in English?"
+Jasmine: "Mandarin duck"
+Flora: "Can they speak Mandarin?"
+Jasmine: "I don't know you can ask them" 
+*in a strong northern accent* "哈喽，你会说中文吗" - Jasmine 2021
+<br>
+<br>
+
+🌺"interbreed is not in my vocabulary!" - Jasmine 2021
+<br>
+<br>
+
+🌺Flora: "What are you eating"
+Jasmine: "Oatmeal and tea"
+Flora: "Oh? Oatmeal and tea?"
+Jasmine: "AHAHAHA what no I said oatmeal and tea not oatmeal aunty" (I misheard her say oatmeal aunty)
+Flora: "啊啊所以你是麦片阿姨, Oatmeal aunty yes yes ahahahaha"
+Stella: *changes my server name to "Oatmeal Aunty - 麦片阿姨"*
+Jasmine: I-....ok well ig that's gonna be my server name🙂
 </p>
 
 <p>
