@@ -10,9 +10,20 @@
 <p style="color:#007045;">
 <b>Email(s):</b> jqiao6835@gmail.com 
 <br>
+<b>Name:</b> Jasmine Qiao, 喬才真
+<br>
+<b>Nicknames:</b> Jas, Jam, Jazzy, Tree, Jamsine, 喬才不假，喬才不真
+<br>
+<b>Age:</b> 18
+<br>
 <b>Year of birth:</b> 2003
 <br>
+<b>MBTI Type:</b> INFP-T
+<br>
 <b>Location:</b> Toronto, Canada
+<br>
+<b>Number of Braincells:</b> -100000000000000000000000
+<br>
 </p>
 
 <h1 style="font-size:20px;"><p style="color:#4ca48c;">My Addy's🙃</p></h1>
