@@ -1,4 +1,4 @@
-body {background-color: coral;}
+<body> {background-color: coral;}</body>
 <p style="border:4px solid DarkSeaGreen;"></p>
 <h1 style="font-size:40px;"><p style="color:DarkSeaGreen;">Home</p></h1>
 
