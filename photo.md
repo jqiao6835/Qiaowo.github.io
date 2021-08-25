@@ -11,7 +11,7 @@
 ![Flora ascends](/githubimages/Flora_ascends.jpg)
 >Flora ascends into the 10th Dimension
 
-![Mayya dies](/githubimages/mayya_ded.jpg)
+![Mayya dies](/githubimages/mayyas_ded.jpg)
 >Mayya dies 2021 colourized
 
 ![Sus night photo](/githubimages/nightphotosus.jpg)
