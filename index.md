@@ -86,6 +86,7 @@
 * A.Y. Jackson Secondary School 2017-2021 (ew)
 * Sheridan College 2021-idk man hopefully asap😃
 * Some kindergarden....I hope...
+*The internet :))))
 
 * <i class="fas fa-file fa-lg"></i> You can also download my resume [here](RESUME - Jasmine Qiao.pdf)
 
