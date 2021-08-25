@@ -138,9 +138,7 @@ You can find their addy's here below:
             <a href="https://www.instagram.com/fottweiler.547/" target="blank"><i class="fab fa-instagram fa-lg"></i> fottweiler.547</a>
         </td>
 </table>
-
 🟣💀 Stella Gu
-
 <table>
     <tr>
         <td>
@@ -153,6 +151,7 @@ You can find their addy's here below:
             <a href="https://www.instagram.com/xd_stella.exe/" target="blank"><i class="fab fa-instagram fa-lg"></i>xd_stella.exe</a>
         </td>
 </table>
+
 
 <p><h1 style="font-size:20px;"><p style="color:#2E8B57;">Bagel Motto's</p></h1>
 It's not okay to be ok - Mayya
