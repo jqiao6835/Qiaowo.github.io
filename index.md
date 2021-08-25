@@ -215,11 +215,12 @@ These are quotes said by me some point in time in the Quarantined Bagels Discord
 
 
 
-<h1 style="font-size:20px;"><p style="color:#f8ad0d;">🙌✭Special Thanks✭🙌</p></h1>
+<p><h1 style="font-size:20px;"><p style="color:#f8ad0d;">🙌✭Special Thanks✭🙌</p></h1>
 
 Special thanks to my collaborators on helping me with this GitHub project! It wouldn't have been possible for me to become addicted to coding this without you guys. Thanks for making this possible! :))
-
+<br>
 <b>You can find their addy's here below:</b>
+<br>
 
 🔵🐯<b>Flora Fu</b> (<a href="https://yfsufate.github.io/Bagels/" target="blank">Quarantined Bagels GitHub</a> Owner)
 <table>
@@ -250,7 +251,7 @@ Special thanks to my collaborators on helping me with this GitHub project! It wo
         </td>
      </tr>
 </table>
-
+</p>
 
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">💌How you can support me!💌</p></h1>
