@@ -154,160 +154,155 @@
 
 <h1 style="font-size:20px;"><p style="color:#2E8B57;">Questionable Quotes by Moi🙂</p></h1>
 
-These are quotes said by me some point in time in the Quarantined Bagels Discord Server. I really don't know what to say about these.....they were either said when my brain was running on 2 braincells or it's just me being wacc...they have no context..I'm just sus lol. 
+These are quotes said by Me some point in time in the Quarantined Bagels Discord Server. I really don't know what to say about these.....they were either said when my brain was running on 2 braincells or it's just Me being wacc...they have no context..I'm just sus lol. 
 
 
 <p style="color:#e45882;">
 
-🌺"I wanna sun burn" - Jasmine 2020
+🌺"I wanna sun burn" - Me 2020
 <br>
 <br>
 
-🌺"I have teeth now" - Jasmine 2020
+🌺"I have teeth now" - Me 2020
 <br>
 <br>
 
-🌺"Look at the top of my head" - Jasmine 2020
+🌺"Look at the top of my head" - Me 2020
 <br>
 <br>
 
-🌺"我凹特你" - Jasmine 2020
+🌺"我凹特你" - Me 2020
 <br>
 <br>
 
-🌺"Surrealism is just bs of art" - Jasmine 2020
+🌺"Surrealism is just bs of art" - Me 2020
 <br>
 <br>
 
-🌺"I forgot how that song went......<b>SHOW YOURSELF</b>" - Jasmine 2020
+🌺"I forgot how that song went......<b>SHOW YOURSELF</b>" - Me 2020
 <br>
 <br>
 
-🌺"ok english pls 再说一次 pls in proper engrish" - Jasmine 2020
+🌺"ok english pls 再说一次 pls in proper engrish" - Me 2020
 <br>
 <br>
 
-🌺Jasmine: "I'm rly sensitive to tropical fruits idk y, [I got a fever after eating a few]"
+🌺 Me: "I'm rly sensitive to tropical fruits idk y, [I got a fever after eating a few]"
 Flora: "Stella write that down"
-Stella: "yes yes yes"
-Jasmine: "Wait- no-"
+Stella: "yes yes yes- Me: "Wait- no-"
 <br>
 <br>
 
-🌺"ur acc going to sleep right? ur not sitting there for someone to say something yellow" - Jasmine 2020
+🌺"ur acc going to sleep right? ur not sitting there for someone to say something yellow" - Me 2020
 <br>
 <br>
 
-🌺"You're not a pinapple, how would you know?" - Jasmine 2020
+🌺"You're not a pinapple, how would you know?" - Me 2020
 <br>
 <br>
 
-🌺"I NEED A BODY" - Jasmine 2020
+🌺"I NEED A BODY" - Me 2020
 <br>
 <br>
 
-🌺"if u talk i cant see" - Jasmine 2020
+🌺"if u talk i cant see" - Me 2020
 <br>
 <br>
 
-🌺"Dude I always get swallowed up by my toilet"" - Jasmine 2020
+🌺"Dude I always get swallowed up by my toilet"" - Me 2020
 <br>
 <br>
 
-🌺"cooked water" - Jasmine 2020
+🌺"cooked water" - Me 2020
 <br>
 <br>
 
-🌺Mayya: "It's ok we're all very accepting, u can come out to us"
-Jasmine: "Accept that i wanna stay home"
+🌺 Mayya: "It's ok we're all very accepting, u can come out to us- 
+Me: "Accept that i wanna stay home"
 Flora: "No you are not"
 Mayya: "We're not that accepting"
-(Mayya and Flora bribing me to go out and hang with them)
+(Mayya and Flora bribing Me to go out and hang with them)
 <br>
 <br>
 
-🌺"solution solved" "create problems solve solutions" - Jasmine 2021
+🌺"solution solved" "create problems solve solutions" - Me 2021
 <br>
 <br>
 
-🌺Mayya: "extroverts are  suns shining on everybody"
-Jasmine: "that sounds like extroverts are aggressively pointing flashlights at others"
+🌺Mayya: "extroverts are  suns shining on everybody- 
+Me: "that sounds like extroverts are aggressively pointing flashlights at others"
 <br>
 <br>
 
 🌺"I can't get the sock in my hair!" *in distress* 
 "Why is my hair so straight😢"
 "Want some hair excitement"
-"I wish I had three hands...." - Jasmine 2021
+"I wish I had three hands...." - Me 2021
 (I was trying to curl my hair through a sock-hair curling tutorial I found on Youtube)
 <br>
 <br>
 
 🌺"Tim Horton's coffee's pretty good if ur on the run.
 .....Wait- I meant *on the go*
-.....Well I mean...if ur on the run then it'll the best coffee for the rest of your life" 
-- Jasmine 2021
+.....Well I mean...if ur on the run then it'll the best coffee for the rest of your life" - Me 2021
 <br>
 <br>
 
-🌺"From the side of my screen Flora looks compressed like a tuna can" - Jasmine 2021
+🌺"From the side of my screen Flora looks compressed like a tuna can" - Me 2021
 <br>
 <br>
 
-🌺"I didn't have my eardrums on" - Jasmine 2021
+🌺"I didn't have my eardrums on" - Me 2021
 <br>
 <br>
 
 🌺"If i was a guy, I am a guy"
 "If I was a guy, I wouldn't be a girl"
-"If I was a guy, I would be a computer" - Jasmine 2021
+"If I was a guy, I would be a computer" - Me 2021
 <br>
 <br>
 
-🌺"constraining order" - Jasmine 2021
+🌺"constraining order" - Me 2021
 <br>
 <br>
 
-🌺"Both Maya's are impossible to work with: one doesn't function and the other is a terrible animation program" - Jasmine 2021
+🌺"Both Maya's are impossible to work with: one doesn't function and the other is a terrible animation program" - Me 2021
 <br>
 <br>
 
-🌺"Is tiger a type of tree?" "It could be... We could interbreed them." - Jasmine 2021
+🌺"Is tiger a type of tree?" "It could be... We could interbreed them." - Me 2021
 (Yeah honestly...idek what I said here...I think I wasn't thinking straight and I just blurted out random words)
 <br>
 <br>
 
-🌺"Mosquitoes suck. i dont wanna drink blood." - Jasmine 2021
+🌺"Mosquitoes suck. i dont wanna drink blood." - Me 2021
 <br>
 <br>
 
-🌺"Anything that is sweet, is hot" - Jasmine 2021
+🌺"Anything that is sweet, is hot" - Me 2021
 <br>
 <br>
 
-🌺"Stella is sheep AAHAHAHHAHA "ba"" - Jasmine 2021
+🌺"Stella is sheep AAHAHAHHAHA "ba"" - Me 2021
 <br>
 <br>
 
-🌺Flora: "What is 鸳鸯 called in English?"
-Jasmine: "Mandarin duck"
-Flora: "Can they speak Mandarin?"
-Jasmine: "I don't know you can ask them" 
-*in a strong northern accent* "哈喽，你会说中文吗" - Jasmine 2021
+🌺 Flora: "What is 鸳鸯 called in English?- Me: "Mandarin duck"
+Flora: "Can they speak Mandarin?- 
+Me: "I don't know you can ask them" 
+*in a strong northern chinese accent* "哈喽，你会说中文吗"
 <br>
 <br>
 
-🌺"interbreed is not in my vocabulary!" - Jasmine 2021
+🌺"Interbreed is not in my vocabulary!" - Me 2021
 <br>
 <br>
 
-🌺Flora: "What are you eating"
-Jasmine: "Oatmeal and tea"
-Flora: "Oh? Oatmeal and tea?"
-Jasmine: "AHAHAHA what no I said oatmeal and tea not oatmeal aunty" (I misheard her say oatmeal aunty)
+🌺 Flora: "What are you eating- Me: "Oatmeal and tea"
+Flora: "Oh? Oatmeal and tea?- 
+Me: "AHAHAHA what no I said oatmeal and tea not oatmeal aunty" (I misheard her say oatmeal aunty)
 Flora: "啊啊所以你是麦片阿姨, Oatmeal aunty yes yes ahahahaha"
-Stella: *changes my server name to "Oatmeal Aunty - 麦片阿姨"*
-Jasmine: I-....ok well ig that's gonna be my server name🙂
+Stella: *changes my server name to "Oatmeal Aunty - 麦片阿姨"- Me: I-....ok well ig that's gonna be my server name🙂
 </p>
 
 <p>
@@ -324,12 +319,12 @@ Jasmine: I-....ok well ig that's gonna be my server name🙂
 <p style="border: 2px solid #33bbff;">~~~ It's not okay to be not be tiger🐯 - Flora ~~~</p>
 <br>
 
-<p style="border: 2px solid #00855f;">~~~ It's not okay to not be green💚 - Jasmine ~~~
+<p style="border: 2px solid #00855f;">~~~ It's not okay to not be green💚 - Me ~~~
 </p>
 <br>
 <p><h1 style="font-size:20px;"><p style="color:#f8ad0d;">🙌✭Special Thanks✭🙌</p></h1>
 
-Special thanks to my collaborators on helping me with this GitHub project! It wouldn't have been possible for me to become addicted to coding this without you guys. Thanks for making this possible! :))
+Special thanks to my collaborators on helping Me with this GitHub project! It wouldn't have been possible for Me to become addicted to coding this without you guys. Thanks for making this possible! :))
 <br>
 <br>
 <b>You can find their addy's here:</b>
@@ -367,7 +362,7 @@ Special thanks to my collaborators on helping me with this GitHub project! It wo
 </p>
 
 
-<h1 style="font-size:20px;"><p style="color:#2E8B57;">💌How you can support me!💌</p></h1>
+<h1 style="font-size:20px;"><p style="color:#2E8B57;">💌How you can support Me!💌</p></h1>
 
-Just smile and be happy :3 you look amazing when you do and that makes me happy.😊
+Just smile and be happy :3 you look amazing when you do and that makes Me happy.😊
 
