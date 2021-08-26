@@ -2,14 +2,14 @@
 <style>
 body {
     height: 400px;
-    background: linear-gradient(to bottom, #ffe5ec 0%, #8ff0bf 100%)
+    background: linear-gradient(to bottom, #fbe9ee 0%, #8ff0bf 100%)
 }
 </style>
 </head>
 
 
-<p style="border:4px solid #80d080;"></p>
-<h1 style="font-size:40px;"><p style="color:#80d080;">Home</p></h1>
+<p style="border:4px solid #a2db9e;"></p>
+<h1 style="font-size:40px;"><p style="color:#a2db9e;">Home</p></h1>
 
 <script src="https://kit.fontawesome.com/6d173168d3.js" crossorigin="anonymous"></script>
 
