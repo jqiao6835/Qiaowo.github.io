@@ -10,7 +10,7 @@ body {
  
  <h1 style="font-size:30px;"><p style="color:#1627a7;">Quebec Photo Gallery</p></h1>
 
-<body><style>
+<style>
 a:link {
   color: green;
   background-color: transparent;
@@ -24,14 +24,14 @@ a:visited {
 a:hover {
   color: green;
   background-color: transparent;
-  text-decoration: underline;
+  text-decoration: none;
 }
 a:active {
   color: yellow;
   background-color: transparent;
-  text-decoration: underline;
+  text-decoration: none;
 }
-</style></body>
+</style>
 
 [Back To Home](/index.md)
 <br>
