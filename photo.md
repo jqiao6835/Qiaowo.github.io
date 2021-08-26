@@ -17,6 +17,9 @@
 >This photo is way too dark lol, it is also very sus
 ![Sus night photo](/githubimages/nightphotosus.jpg)
 
+>This photo is also way too dark isk what we are doing lmao
+![darkafpic](/githubimages/darkafpic.jpg)
+
 >Mayya terrorizes me ;-;
 ![Mayya terrorizes me](/githubimages/mayyaterrorizesme.jpg)
 
@@ -31,5 +34,19 @@
 ![kidnappingstella2](/githubimages/kidnappingstella2.jpg)
 
 ![kidnappingstella3](/githubimages/kidnappingstella3.jpg)
+
+![kidnappingstella4](/githubimages/kidnappingstella4.jpg)
+
+>Sponsored by Pepsi-Cocacola :))))
+![sponsoredbypepsicocacola](/githubimages/sponsoredbypepsicocacola.jpg)
+
+>Why does she look so sus.....
+![susflora](/githubimages/susflora.jpg)
+
+>MAYYA PLS STOP MOVING U CRAZY RUSSIAN
+![mayyaplsstopmoving](/githubimages/mayyaplsstopmoving.jpg)
+
+>Amanda yayyy
+![amandayay](/githubimages/amandayay.jpg)
 
 [Back To Home](/index.md)
