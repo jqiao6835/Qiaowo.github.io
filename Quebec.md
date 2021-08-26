@@ -10,7 +10,7 @@ body {
  
  <h1 style="font-size:30px;"><p style="color:#1627a7;">Quebec Photo Gallery</p></h1>
 
- [Back To Home](/index.md)
+ <p style="color:#1627a7;">[Back To Home](/index.md)</p>
 <br>
 
 ><p style="color:#1627a7;">Driving to Quebec and suddenly all the road signs turn into baguette signs👀🥖</p>
@@ -83,4 +83,4 @@ body {
 ![penguins](/quebecphotos/penguins.jpg)
 ![penguins](/quebecphotos/penguins.jpg)
 
-[Back To Home](/index.md)
+<p style="color:#bbddf7;">[Back To Home](/index.md)</p>
