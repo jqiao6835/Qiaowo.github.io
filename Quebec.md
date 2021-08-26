@@ -34,10 +34,9 @@ a:active {
 </style></body>
 
 <body>
-<a href="https://jqiao6835.github.io/Qiaowo.github.io/Quebec.html" target="_blank">HOME</a> 
-</body>
 
 [Back To Home](/index.md)
+</body>
 <br>
 
 ><p style="color:#1627a7;">Driving to Quebec and suddenly all the road signs turn into baguette signs👀🥖</p>
