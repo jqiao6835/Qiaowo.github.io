@@ -23,7 +23,7 @@
 >Mayya terrorizes me ;-;
 ![Mayya terrorizes me](/githubimages/mayyaterrorizesme.jpg)
 
->Mayya attempts to teach Flora guitar while Stella watches in confusion (we are in a park sitting on a wooden playground structure thingy)
+>Mayya attempts to teach Flora guitar while Stella watches in confusion and Amanda takes pictures of the stars (we are in a park sitting on a wooden playground structure thingy)
 ![mayyateachingguitar](/githubimages/mayyateachingguitar.jpg)
 
 ![mayyateachingguitar2](/githubimages/mayyateachingguitar2.jpg)
