@@ -39,11 +39,8 @@ body {
 
 ><p style="color:#1627a7;">Walking through Petit Champlain streets in downtown Quebec City near the St.Lawrence River💕</p>
 ![petitchamplain1](/quebecphotos/petitchamplain1.jpg)
-
 ![petitchamplain2](/quebecphotos/petitchamplain2.jpg)
-
 ![petitchamplain3](/quebecphotos/petitchamplain3.jpg)
-
 ![petitchamplain4](/quebecphotos/petitchamplain4.jpg)
 
 ><p style="color:#1627a7;">Different country flags beside the St.Lawrence River :DDD</p>
