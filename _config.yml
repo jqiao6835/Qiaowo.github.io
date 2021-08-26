@@ -1,7 +1,5 @@
 theme: jekyll-theme-minimal
-<p style="border:4px solid#4ca46e;"></p>
-<p style="color:#4ca46e;"></p>
-title: Qiaowo's Sus Page
+title: <p style="border:4px solid#4ca46e;"</p><p style="color:#4ca46e;">Qiaowo's Sus Page</p>
 description: <p style="color:#008055;"><b>💚~Welcome to Qiaowo's GitHub~💚</b></p>
 logo: /images/jam fluffly black cape (2).png
 show_downloads: true
