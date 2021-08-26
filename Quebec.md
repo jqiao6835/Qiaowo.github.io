@@ -69,10 +69,10 @@ a:active {
 ><p style="color:#1627a7;">Different country flags beside the St.Lawrence River :DDD</p>
 ![flagsbesidest.lawrenceriver](/quebecphotos/flagsbesidest.lawrenceriver.jpg)
 
-><p style="color:#1627a7;">This is how Quebecois introverts walk around. #1627a7screen = no one sees you😌</p>
-![#1627a7man1](/quebecphotos/#1627a7man1.jpg)
+><p style="color:#1627a7;">This is how Quebecois introverts walk around green screen = no one sees you😌</p>
+![greenman1](/quebecphotos/#1627a7man1.jpg)
 
-![#1627a7man2](/quebecphotos/#1627a7man2.jpg)
+![greenman2](/quebecphotos/#1627a7man2.jpg)
 
 ><p style="color:#1627a7;">Street performers!🎶🎻</p>
 ![streetperformers](/quebecphotos/streetperformers.jpg)
