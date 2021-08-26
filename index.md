@@ -350,7 +350,7 @@ These are quotes said by Me some point in time in the Quarantined Bagels Discord
 <p style="border: 2px solid #00855f;">~~~ It's not okay to not be green💚 - Me ~~~
 </p>
 <br>
-<p><h1 style="font-size:20px;"><p style="color:#eda507;">🙌✭Special Thanks✭🙌</p></h1>
+<p><h1 style="font-size:20px;"><p style="color:#f09800;">🙌✭Special Thanks✭🙌</p></h1>
 
 Special thanks to my collaborators on helping Me with this GitHub project! It wouldn't have been possible for Me to become addicted to coding this without you guys. Thanks for making this possible! :))
 <br>
