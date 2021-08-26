@@ -335,7 +335,7 @@ These are quotes said by Me some point in time in the Quarantined Bagels Discord
 
 <p>
 <h1 style="font-size:20px;"><p style="color:#4ca46e;">Bagel Motto's</p></h1>
-<p style="border: 2px solid #00ff00;">~~~ It's not okay to be okay😈 - Mayya ~~~</p>
+<p style="border: 2px solid #00e600;">~~~ It's not okay to be okay😈 - Mayya ~~~</p>
 <br>
 
 <p style="border: 2px solid #e0004f;">~~~ It's not okay to be awake😴 - Amanda ~~~</p>
