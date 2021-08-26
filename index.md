@@ -59,7 +59,7 @@ body {
     </tr>
 </table>
 
-<h1 style="font-size:20px;"><p style="color:#4eb174;">About Me</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4eb174;">About Me :pinched_fingers: :relieved: :pinched_fingers: :sparkling_heart: </p></h1>
 
 >🌿 Hello, my name is Jam. I am a happy Canadian.🍁
 
