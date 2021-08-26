@@ -43,10 +43,49 @@
 >Why does she look so sus.....
 ![susflora](/githubimages/susflora.jpg)
 
+>An attempt was made at taking a normal looking photo....
+![mayyaisatitagain](/githubimages/mayyaisatitagain.jpg)
+
 >MAYYA PLS STOP MOVING U CRAZY RUSSIAN
 ![mayyaplsstopmoving](/githubimages/mayyaplsstopmoving.jpg)
 
 >Amanda yayyy
 ![amandayay](/githubimages/amandayay.jpg)
+
+>Mayya oh my geez
+![mayyasusface](/githubimages/mayyasusface.jpg)
+
+>We tried taking a panoramic photo of Mayya...but uh🙂
+![mayyapanorama](/githubimages/mayyapanorama.jpg)
+
+>Mayya catching a frisbee is surprisingly very funny to look at
+![mayyacatch](/githubimages/mayyacatch.jpg)
+
+>Flora and Mayya arm wrestling (Mayya's face becomes a tomato)
+![floramayyaarmwrestle](/githubimages/floramayyaarmwrestle.jpg)
+
+>Mayya being Mayya and climbing a fence for no reason but to spite whoever was taking the photo
+![mayyaclimbingfence](/githubimages/mayyaclimbingfence.jpg)
+
+>Mayya and Amanda take a proper photo but Mayya is Mayya
+![mayyaandamanda](/githubimages/mayyaandamanda.jpg)
+
+>Mayya catching a frisbee is surprisingly very funny to look at
+![Amandachasesme](/githubimages/Amandachasesme.jpg)
+
+>Mayya tries tackles a tree while it begs for mercy
+![mayyahangsfromtree](/githubimages/mayyahangsfromtree.jpg)
+
+>Mayya on a playground spinny chair thingy
+![mayyaspinnychair](/githubimages/mayyaspinnychair.jpg)
+
+>Mayya and Flora are wrestling?? Idk what's happening tbh
+![mayyaandflorawrestling](/githubimages/mayyaandflorawrestling.jpg)
+
+>Mayya looking relatively normal
+![mayyanormalkinda](/githubimages/mayyanormalkinda.jpg)
+
+>Photo of Amanda, Flora and me (Stella is the cameraman)
+![squadphoto](/githubimages/squadphoto.jpg)
 
 [Back To Home](/index.md)
