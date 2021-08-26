@@ -37,7 +37,7 @@
 
 ![kidnappingstella4](/githubimages/kidnappingstella4.jpg)
 
->Sponsored by Pepsi-Cocacola :))))
+>Sponsored by Pepsi-Cocacola :)))) *cries in lack of Sprite sponsorship*
 ![sponsoredbypepsicocacola](/githubimages/sponsoredbypepsicocacola.jpg)
 
 >Why does she look so sus.....
