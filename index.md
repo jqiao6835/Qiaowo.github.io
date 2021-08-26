@@ -8,14 +8,14 @@ body {
 </head>
 
 
-<p style="border:4px solid #008055;"></p>
-<h1 style="font-size:40px;"><p style="color:#44ab55;">Home</p></h1>
+<p style="border:4px solid #4eb174;"></p>
+<h1 style="font-size:40px;"><p style="color:#4eb174;">Home</p></h1>
 
 <script src="https://kit.fontawesome.com/6d173168d3.js" crossorigin="anonymous"></script>
 
-<h1 style="font-size:20px;"><p style="color:#44ab55;">Personal Information</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4eb174;">Personal Information</p></h1>
 
-<h1 style="font-size:18px;"><p style="color:#44ab55;">🍀Qiaowo🍀</p></h1>
+<h1 style="font-size:18px;"><p style="color:#4eb174;">🍀Qiaowo🍀</p></h1>
 
 <p style="color:#008055;">
 🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸
@@ -38,7 +38,7 @@ body {
 <br>🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸
 </p>
 
-<h1 style="font-size:20px;"><p style="color:#44ab55;">My Addy's🙃</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4eb174;">My Addy's🙃</p></h1>
 
 <table>
     <tr>
@@ -57,7 +57,7 @@ body {
     </tr>
 </table>
 
-<h1 style="font-size:20px;"><p style="color:#44ab55;">About Me</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4eb174;">About Me</p></h1>
 
 >🌿 Hello, my name is Jam. I am a happy Canadian.🍁
 
@@ -77,7 +77,7 @@ body {
 
 
 
-<h1 style="font-size:20px;"><p style="color:#44ab55;">List of hobbies</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4eb174;">List of hobbies</p></h1>
 
 >🍃 Drawing
 
@@ -114,10 +114,10 @@ body {
 <i class="fas fa-file fa-lg"></i> A list of all the animes I've watched fully [[here]](List of Animes 08.24.2021.pdf)
 
 
-<h1 style="font-size:20px;"><p style="color:#44ab55;">✨🎶My Current Song Playlist🎶✨</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4eb174;">✨🎶My Current Song Playlist🎶✨</p></h1>
 <iframe width="200" height="113" src="https://www.youtube.com/embed/videoseries?list=PLvVd50Dgei_fXbNVyLba3V1oFb-DyHTTq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-<h1 style="font-size:20px;"><p style="color:#44ab55;">📚🏫Education🏫📚</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4eb174;">📚🏫Education🏫📚</p></h1>
 
 * Some kindergarden....I hope...
 * St.Henry Catholic School 2008-2015
@@ -127,11 +127,11 @@ body {
 *The internet (The most important education obviously) :))))
 * <i class="fas fa-file fa-lg"></i> You can also download my resume [here](RESUME - 06.30.2021.pdf)
 
-<h1 style="font-size:20px;"><p style="color:#44ab55;">Technical Skills</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4eb174;">Technical Skills</p></h1>
 * better tahn any indian tech support guy you can call
 * I can also photoshop pretty cursed images of my friends :)))
 
-<h1 style="font-size:20px;"><p style="color:#44ab55;">List of Programs I'm familiar with</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4eb174;">List of Programs I'm familiar with</p></h1>
 
 >💽 Adobe Photoshop
 
@@ -155,29 +155,29 @@ body {
 
 >💽 Ocenaudio
 
-<h1 style="font-size:20px;"><p style="color:#44ab55;">Programming Languages</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4eb174;">Programming Languages</p></h1>
 
 * Engrish
 * jk i no program i just draw lines and colour stuff :^)))
 
-<h1 style="font-size:20px;"><p style="color:#44ab55;">Professional Experiences</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4eb174;">Professional Experiences</p></h1>
 
 * you ;)       ....ahahaha idk what that means LOL pretend u didnt read that
 * I like to press buttons on soundboards :))
 * I sometimes make sussy crappy logos for people :DDD
 
-<h1 style="font-size:20px;"><p style="color:#44ab55;">Gallery of Very Sus Photos</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4eb174;">Gallery of Very Sus Photos</p></h1>
 
 [📷Cursed images...You have been warned!📷](/photo.md)
 
-<h1 style="font-size:20px;"><p style="color:#44ab55;">🏰Quebec Photos!🏰</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4eb174;">🏰Quebec Photos!🏰</p></h1>
 [📷Photos from my Quebec trip!📷](/Quebec.md)
 
-<h1 style="font-size:20px;"><p style="color:#44ab55;">Member of Quarantined Bagels Discord Server</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4eb174;">Member of Quarantined Bagels Discord Server</p></h1>
 
 ✨🥯<a href="https://discord.gg/PZaPX5Mt" target="blank">Quarantined Bagels</a>🥯✨
 
-<h1 style="font-size:20px;"><p style="color:#44ab55;">Questionable Quotes by Moi🙂</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4eb174;">Questionable Quotes by Moi🙂</p></h1>
 
 These are quotes said by Me some point in time in the Quarantined Bagels Discord Server. I really don't know what to say about these.....they were either said when my brain was running on 2 braincells or it's just Me being wacc...they have no context..I'm just sus lol. 
 
@@ -334,7 +334,7 @@ These are quotes said by Me some point in time in the Quarantined Bagels Discord
 </p>
 
 <p>
-<h1 style="font-size:20px;"><p style="color:#44ab55;">Bagel Motto's</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4eb174;">Bagel Motto's</p></h1>
 <p style="border: 2px solid #00e600;">~~~ It's not okay to be okay😈 - Mayya ~~~</p>
 <br>
 
@@ -390,7 +390,7 @@ Special thanks to my collaborators on helping Me with this GitHub project! It wo
 </p>
 
 
-<h1 style="font-size:20px;"><p style="color:#44ab55;">💌How you can support Me!💌</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4eb174;">💌How you can support Me!💌</p></h1>
 
 Just smile and be happy :3 you look amazing when you do and that makes Me happy.😊
 
