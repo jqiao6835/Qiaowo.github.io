@@ -20,9 +20,16 @@
 >Mayya terrorizes me ;-;
 ![Mayya terrorizes me](/githubimages/mayyaterrorizesme.jpg)
 
->Mayya attempts to teach flora guitar while Stella watches in confusion (we are in a park sitting on a wooden playground structure thingy)
+>Mayya attempts to teach Flora guitar while Stella watches in confusion (we are in a park sitting on a wooden playground structure thingy)
 ![mayyateachingguitar](/githubimages/mayyateachingguitar.jpg)
 
 ![mayyateachingguitar2](/githubimages/mayyateachingguitar2.jpg)
+
+>Flora and Mayya kidnap stella and try to yeet her down the slide - *2021 Colourize*
+![kidnappingstella1](/githubimages/kidnappingstella1.jpg)
+
+![kidnappingstella2](/githubimages/kidnappingstella2.jpg)
+
+![kidnappingstella3](/githubimages/kidnappingstella3.jpg)
 
 [Back To Home](/index.md)
