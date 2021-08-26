@@ -8,7 +8,7 @@ body {
 </head>
  
  
- <h1 style="font-size:30px;"><p style="color:#1627a7;">Quebec Photo Gallery</p></h1>
+ <h1 style="font-size:30px;"><p style="color:#1627a7;">⚜️Quebec Photo Gallery⚜️</p></h1>
 
 <style>
 a:link {
