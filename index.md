@@ -347,7 +347,7 @@ These are quotes said by Me some point in time in the Quarantined Bagels Discord
 <p style="border: 2px solid #00aaff;">~~~ It's not okay to not be tiger🐯 - Flora ~~~</p>
 <br>
 
-<p style="border: 2px solid #00855f;">~~~ It's not okay to not be green💚 - Me ~~~
+<p style="border: 2px solid #008055;">~~~ It's not okay to not be green💚 - Me ~~~
 </p>
 <br>
 <p><h1 style="font-size:20px;"><p style="color:#f09800;">🙌✭Special Thanks✭🙌</p></h1>
