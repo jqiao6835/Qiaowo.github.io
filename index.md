@@ -187,155 +187,155 @@ These are quotes said by Me some point in time in the Quarantined Bagels Discord
 
 <p style="color:#ec5f70;">
 
-🌺<b>"I wanna sun burn" - Me 2020</b>
+🌺"I wanna sun burn" - Me 2020
 <br>
 <br>
 
-🌺<b>"I have teeth now" - Me 2020</b>
+🌺"I have teeth now" - Me 2020
 <br>
 <br>
 
-🌺<b>"Look at the top of my head" - Me 2020</b>
+🌺"Look at the top of my head" - Me 2020
 <br>
 <br>
 
-🌺<b>"我凹特你" - Me 2020</b>
+🌺"我凹特你" - Me 2020
 <br>
 <br>
 
-🌺<b>"Surrealism is just bs of art" - Me 2020</b>
+🌺"Surrealism is just bs of art" - Me 2020
 <br>
 <br>
 
-🌺<b>"I forgot how that song went......***S H O W Y O U R S E L F***" - Me 2020</b>
+🌺"I forgot how that song went......<b>S H O W Y O U R S E L F"</b> - Me 2020
 <br>
 <br>
 
-🌺<b>"ok english pls 再说一次 pls in proper engrish" - Me 2020</b>
+🌺"ok english pls 再说一次 pls in proper engrish" - Me 2020
 <br>
 <br>
 
-🌺<b> Me: "I'm rly sensitive to tropical fruits idk y, [I got a fever after eating a few]"
+🌺 Me: "I'm rly sensitive to tropical fruits idk y, [I got a fever after eating a few]"
 <br>Flora: "Stella write that down"
 <br>Stella: "yes yes yes
-<br>Me: "Wait- no-"</b>
+<br>Me: "Wait- no-"
 <br>
 <br>
 
-🌺<b>"ur acc going to sleep right? ur not sitting there for someone to say something yellow" - Me 2020</b>
+🌺"ur acc going to sleep right? ur not sitting there for someone to say something yellow" - Me 2020
 <br>
 <br>
 
-🌺<b>"You're not a pinapple, how would you know?" - Me 2020</b>
+🌺"You're not a pinapple, how would you know?" - Me 2020
 <br>
 <br>
 
-🌺<b>"I NEED A BODY" - Me 2020</b>
+🌺"I NEED A BODY" - Me 2020
 <br>
 <br>
 
-🌺<b>"if u talk i cant see" - Me 2020</b>
+🌺"if u talk i cant see" - Me 2020
 <br>
 <br>
 
-🌺<b>"Dude I always get swallowed up by my toilet"" - Me 2020</b>
+🌺"Dude I always get swallowed up by my toilet"" - Me 2020
 <br>
 <br>
 
-🌺<b>"cooked water" - Me 2020</b>
+🌺<b>"cooked water" - Me 2020
 <br>
 <br>
 
-🌺<b> Mayya: "It's ok we're all very accepting, u can come out to us- 
+🌺 Mayya: "It's ok we're all very accepting, u can come out to us- 
 <br>Me: "Accept that i wanna stay home"
 <br>Flora: "No you are not"
 <br>Mayya: "We're not that accepting"
-<br>(Mayya and Flora bribing Me to go out and hang with them)</b>
+<br>(Mayya and Flora bribing Me to go out and hang with them)
 <br>
 <br>
 
-🌺<b>"solution solved" "create problems solve solutions" - Me 2021</b>
+🌺"solution solved" "create problems solve solutions" - Me 2021
 <br>
 <br>
 
-🌺<b> Mayya: "extroverts are  suns shining on everybody- 
-<br>Me: "that sounds like extroverts are aggressively pointing flashlights at others"</b>
+🌺 Mayya: "extroverts are  suns shining on everybody- 
+<br>Me: "that sounds like extroverts are aggressively pointing flashlights at others"
 <br>
 <br>
 
-🌺<b>"I can't get the sock in my hair!" *in distress* 
+🌺"I can't get the sock in my hair!" *in distress* 
 <br>"Why is my hair so straight😢"
 <br>"Want some hair excitement"
-<br>"I wish I had three hands...." - Me 2021</b>
+<br>"I wish I had three hands...." - Me 2021
 <br>(I was trying to curl my hair through a sock-hair curling tutorial I found on Youtube)
 <br>
 <br>
 
-🌺<b>"Tim Horton's coffee's pretty good if ur on the run.
+🌺"Tim Horton's coffee's pretty good if ur on the run.
 <br>.....Wait- I meant *on the go*
-<br>.....Well I mean...if ur on the run then it'll the best coffee for the rest of your life" - Me 2021</b>
+<br>.....Well I mean...if ur on the run then it'll the best coffee for the rest of your life" - Me 2021
 <br>
 <br>
 
-🌺<b>"From the side of my screen Flora looks compressed like a tuna can" - Me 2021</b>
+🌺"From the side of my screen Flora looks compressed like a tuna can" - Me 2021
 <br>
 <br>
 
-🌺<b>"I didn't have my eardrums on" - Me 2021</b>
+🌺"I didn't have my eardrums on" - Me 2021
 <br>
 <br>
 
-🌺<b>"If i was a guy, I am a guy"
+🌺"If i was a guy, I am a guy"
 <br>"If I was a guy, I wouldn't be a girl"
-<br>"If I was a guy, I would be a computer" - Me 2021</b>
+<br>"If I was a guy, I would be a computer" - Me 2021
 <br>
 <br>
 
-🌺<b>"constraining order" - Me 2021</b>
+🌺"constraining order" - Me 2021
 <br>
 <br>
 
-🌺<b>"Both Maya's are impossible to work with: one doesn't function and the other is a terrible animation program" - Me 2021</b>
+🌺"Both Maya's are impossible to work with: one doesn't function and the other is a terrible animation program" - Me 2021
 <br>
 <br>
 
-🌺<b>"Is tiger a type of tree?" "It could be... We could interbreed them." - Me 2021</b>
+🌺"Is tiger a type of tree?" "It could be... We could interbreed them." - Me 2021
 <br>(Yeah honestly...idek what I said here...I think I wasn't thinking straight and I just blurted out random words)
 <br>
 <br>
 
-🌺<b>"Mosquitoes suck. i dont wanna drink blood." - Me 2021</b>
+🌺"Mosquitoes suck. i dont wanna drink blood." - Me 2021
 <br>
 <br>
 
-🌺<b>"Anything that is sweet, is hot" - Me 2021</b>
+🌺"Anything that is sweet, is hot" - Me 2021
 <br>
 <br>
 
-🌺<b>"Stella is sheep AAHAHAHHAHA "ba"" - Me 2021</b>
+🌺"Stella is sheep AAHAHAHHAHA "ba"" - Me 2021
 <br>
 <br>
 
-🌺<b> Flora: "What is 鸳鸯 called in English?- 
+🌺 Flora: "What is 鸳鸯 called in English?- 
 <br>Me: "Mandarin duck"
 <br>Flora: "Can they speak Mandarin?- 
 <br>Me: "I don't know you can ask them" 
-<br>"哈喽，你会说中文吗" *said in a strong northern chinese accent*</b>
+<br>"哈喽，你会说中文吗" *said in a strong northern chinese accent*
 <br>
 <br>
 
-🌺<b>"Interbreed is not in my vocabulary!" - Me 2021</b>
+🌺"Interbreed is not in my vocabulary!" - Me 2021
 <br>
 <br>
 
-🌺<b> Flora: "What are you eating?" 
+🌺 Flora: "What are you eating?" 
 <br>Me: "Oatmeal and tea"
 <br>Flora: "Oh? Oatmeal and tea?"
 <br>Me: "AHAHAHA what no I said oatmeal and tea not oatmeal aunty" 
 <br>(I accidentally heard Flora say "oatmeal aunty" instead of "oatmeal and tea")
 <br>Flora: "啊啊所以你是麦片阿姨, Oatmeal aunty yes yes ahahahaha"
 <br>Stella: *changes my server name to "Oatmeal Aunty - 麦片阿姨"*
-<br>Me: I-....ok well ig that's gonna be my server name🙂</b>
+<br>Me: I-....ok well ig that's gonna be my server name🙂
 </p>
 
 <p>
