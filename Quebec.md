@@ -10,7 +10,7 @@ body {
  
  <h1 style="font-size:30px;"><p style="color:#1627a7;">Quebec Photo Gallery</p></h1>
 
-<style>
+<body><style>
 a:link {
   color: green;
   background-color: transparent;
@@ -31,11 +31,11 @@ a:active {
   background-color: transparent;
   text-decoration: underline;
 }
-</style>
+</style></body>
 
-<p>
+<body>
 <a href="https://jqiao6835.github.io/Qiaowo.github.io/Quebec.html" target="_blank">HOME</a> 
-</p>
+</body>
 
 [Back To Home](/index.md)
 <br>
