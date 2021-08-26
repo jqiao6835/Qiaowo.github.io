@@ -71,7 +71,6 @@ a:active {
 
 ><p style="color:#1627a7;">This is how Quebecois introverts walk around green screen = no one sees you😌</p>
 ![greenman1](/quebecphotos/greenman1.jpg)
-
 ![greenman2](/quebecphotos/greenman2.jpg)
 
 ><p style="color:#1627a7;">Street performers!🎶🎻</p>
