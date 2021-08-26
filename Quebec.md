@@ -10,7 +10,7 @@ body {
  
  <h1 style="font-size:30px;"><p style="color:#1627a7;">Quebec Photo Gallery</p></h1>
 
-<a href=(/index.md) target="blank"><i class="fab fa-instagram fa-lg"></i>HOMEEEE</a>
+<a href="https://jqiao6835.github.io/Qiaowo.github.io/Quebec.html" target="_blank">HOME</a> 
 
 
 [Back To Home](/index.md)
