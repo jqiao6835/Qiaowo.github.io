@@ -1,3 +1,13 @@
+ <head>
+<style>
+body {
+    height: 400px;
+    background: linear-gradient(to bottom, #b3c8ff 0%, #4d73ff 100%)
+}
+</style>
+</head>
+ 
+ 
  <h1 style="font-size:30px;"><p style="color:#0e00d1;">Quebec Photo Gallery</p></h1>
 
 [Back To Home](/index.md)
