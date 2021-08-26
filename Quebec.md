@@ -12,22 +12,22 @@ body {
 
 <style>
 a:link {
-  color: green;
+  color: #1627a7;
   background-color: transparent;
   text-decoration: none;
 }
 a:visited {
-  color: pink;
+  color: #538cdf;
   background-color: transparent;
   text-decoration: none;
 }
 a:hover {
-  color: green;
+  color: #1627a7;
   background-color: transparent;
   text-decoration: none;
 }
 a:active {
-  color: yellow;
+  color: #538cdf;
   background-color: transparent;
   text-decoration: none;
 }
@@ -69,10 +69,10 @@ a:active {
 ><p style="color:#1627a7;">Different country flags beside the St.Lawrence River :DDD</p>
 ![flagsbesidest.lawrenceriver](/quebecphotos/flagsbesidest.lawrenceriver.jpg)
 
-><p style="color:#1627a7;">This is how Quebecois introverts walk around. Greenscreen = no one sees you😌</p>
-![greenman1](/quebecphotos/greenman1.jpg)
+><p style="color:#1627a7;">This is how Quebecois introverts walk around. #1627a7screen = no one sees you😌</p>
+![#1627a7man1](/quebecphotos/#1627a7man1.jpg)
 
-![greenman2](/quebecphotos/greenman2.jpg)
+![#1627a7man2](/quebecphotos/#1627a7man2.jpg)
 
 ><p style="color:#1627a7;">Street performers!🎶🎻</p>
 ![streetperformers](/quebecphotos/streetperformers.jpg)
