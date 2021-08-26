@@ -12,14 +12,15 @@ body {
 
  [Back To Home](/index.md)
 <br>
+<br>
 
 <p style="color:#1627a7;">Driving to Quebec and suddenly all the road signs turn into baguette signs👀🥖</p>
-![Quebecsigns](/quebecphotos/Quebecsigns.jpg)
+ ![Quebecsigns](/quebecphotos/Quebecsigns.jpg)
 
->Montmorency Waterfall with rainbow!!🌈:D
+<p style="color:#1627a7;">Montmorency Waterfall with rainbow!!🌈:D</p></h1>
 ![M](/quebecphotos/Montmorencywaterfall.jpg)
 
->Landscape in front of the Waterfall (water looks kinda sus cuz I think theyre doing construction right underneath the waterfall)
+<p style="color:#1627a7;">Landscape in front of the Waterfall (water looks kinda sus cuz I think theyre doing construction right underneath the waterfall)</p></h1>
 ![Landscape](/quebecphotos/Landscape1.jpg)
 
 >Montmorency Valley
