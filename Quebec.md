@@ -33,10 +33,7 @@ a:active {
 }
 </style></body>
 
-<body>
-
 [Back To Home](/index.md)
-</body>
 <br>
 
 ><p style="color:#1627a7;">Driving to Quebec and suddenly all the road signs turn into baguette signs👀🥖</p>
