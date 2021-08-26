@@ -62,9 +62,7 @@ body {
 
 ><p style="color:#1627a7;">Came across a wetland under a crossing bridge near Quebec City's Dowtown area. It really looked like something you'd see in LOTR...but the pictures don't do it justice, it looked so much more beautiful irl💖</p>
 ![quebecmarshlands1](/quebecphotos/quebecmarshlands1.jpg)
-
 ![quebecmarshlands2](/quebecphotos/quebecmarshlands2.jpg)
-
 ![quebecmarshlands3](/quebecphotos/quebecmarshlands3.jpg)
 
 ><p style="color:#1627a7;">St.Lawrence river view from the Saint-Louis Forts and Châteaux National wall</p>
@@ -81,11 +79,8 @@ body {
 
 ><p style="color:#1627a7;">Went to the Montreal Biodome!! Haven't been here since I was 8 it was so nostalgic😊 and the animals were amazing and so cuteeeeeeeeaaaaaaaahhh</p>
 ![biodomefront](/quebecphotos/biodomefront.jpg)
-
 ![biodomesideview](/quebecphotos/biodomesideview.jpg)
-
 ![penguins](/quebecphotos/penguins.jpg)
-
 ![penguins](/quebecphotos/penguins.jpg)
 
 [Back To Home](/index.md)
