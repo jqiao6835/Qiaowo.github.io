@@ -10,10 +10,10 @@ body {
  
  <h1 style="font-size:30px;"><p style="color:#1627a7;">Quebec Photo Gallery</p></h1>
 
-<a href="https://jqiao6835.github.io/Qiaowo.github.io/" target="blank"><i class="fab fa-instagram fa-lg"></i>HOMEEEE</a>
+<a href=(/index.md) target="blank"><i class="fab fa-instagram fa-lg"></i>HOMEEEE</a>
 
 
-<p style="color:#1627a7;">[Back To Home</p>](/index.md)
+[Back To Home](/index.md)
 <br>
 
 ><p style="color:#1627a7;">Driving to Quebec and suddenly all the road signs turn into baguette signs👀🥖</p>
