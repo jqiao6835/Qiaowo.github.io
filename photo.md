@@ -85,7 +85,6 @@
 >Mayya looking relatively normal
 ![mayyanormalkinda](/githubimages/mayyanormalkinda.jpg)
 
->Photo of Amanda, Flora and me (Stella is the cameraman)
-![squadphoto](/githubimages/squadphoto.jpg)
+
 
 [Back To Home](/index.md)
