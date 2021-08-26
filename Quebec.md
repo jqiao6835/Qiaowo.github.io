@@ -8,12 +8,12 @@ body {
 </head>
  
  
- <h1 style="font-size:30px;"><p style="color:#0e00d1;">Quebec Photo Gallery</p></h1>
+ <h1 style="font-size:30px;"><p style="color:#1627a7;">Quebec Photo Gallery</p></h1>
 
  [Back To Home](/index.md)
 <br>
 
-><p style="color:#0e00d1;">Driving to Quebec and suddenly all the road signs turn into baguette signs👀🥖</p>
+><p style="color:#1627a7;">Driving to Quebec and suddenly all the road signs turn into baguette signs👀🥖</p>
 ![Quebecsigns](/quebecphotos/Quebecsigns.jpg)
 
 >Montmorency Waterfall with rainbow!!🌈:D
