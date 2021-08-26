@@ -12,15 +12,14 @@ body {
 
  [Back To Home](/index.md)
 <br>
-<br>
 
-<p style="color:#1627a7;">Driving to Quebec and suddenly all the road signs turn into baguette signs👀🥖</p>
- ![Quebecsigns](/quebecphotos/Quebecsigns.jpg)
+><p style="color:#1627a7;">Driving to Quebec and suddenly all the road signs turn into baguette signs👀🥖
+![Quebecsigns](/quebecphotos/Quebecsigns.jpg)
 
-<p style="color:#1627a7;">Montmorency Waterfall with rainbow!!🌈:D</p></h1>
+>Montmorency Waterfall with rainbow!!🌈:D
 ![M](/quebecphotos/Montmorencywaterfall.jpg)
 
-<p style="color:#1627a7;">Landscape in front of the Waterfall (water looks kinda sus cuz I think theyre doing construction right underneath the waterfall)</p></h1>
+>Landscape in front of the Waterfall (water looks kinda sus cuz I think theyre doing construction right underneath the waterfall)
 ![Landscape](/quebecphotos/Landscape1.jpg)
 
 >Montmorency Valley
@@ -91,5 +90,6 @@ body {
 ![penguins](/quebecphotos/penguins.jpg)
 
 ![penguins](/quebecphotos/penguins.jpg)
+</p>
 
 [Back To Home](/index.md)
