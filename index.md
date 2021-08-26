@@ -37,7 +37,7 @@ body {
 <b>School: Sheridan College Institute of Technology and Advanced Learning - Trafalgar Campus
 <br>
 <b>Number of Braincells:</b> -100000000000000000000000
-<br>🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸
+🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸
 </p>
 
 <h1 style="font-size:20px;"><p style="color:#4eb174;">My Addy's🙃</p></h1>
