@@ -173,7 +173,7 @@ body {
 
 [📷Cursed images...You have been warned!📷](/photo.md)
 
-<h1 style="font-size:20px;"><p style="color:#4eb174;">🏰Quebec Photos!🏰</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4eb174;">⚜️Quebec Photos!⚜️</p></h1>
 [📷Photos from my Quebec trip!📷](/Quebec.md)
 
 <h1 style="font-size:20px;"><p style="color:#4eb174;">Member of Quarantined Bagels Discord Server</p></h1>
