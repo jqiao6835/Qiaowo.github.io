@@ -22,21 +22,21 @@ body {
 
 <b>📧Email(s):</b> jqiao6835@gmail.com 
 <br>
-<b>Name:</b> Jasmine Qiao, 喬才真
+<b>✒️Name:</b> Jasmine Qiao, 喬才真
 <br>
-<b>Nicknames:</b> Jas, Jam, Jazzy, Tree, Jamsine, 喬才不假，喬才不真
+<b>🃏Nicknames:</b> Jas, Jam, Jazzy, Tree, Jamsine, 喬才不假，喬才不真
 <br>
-<b>Age:</b> 18
+<b>👵Age:</b> 18
 <br>
-<b>Year of birth:</b> 2003
+<b>🎂Year of birth:</b> 2003
 <br>
-<b>MBTI Type:</b> INFP-T
+<b>🧠MBTI Type:</b> INFP-T
 <br>
-<b>Location:</b> Toronto, Canada
+<b>🌎Location:</b> Toronto, Canada
 <br>
-<b>School:</b> Sheridan College Institute of Technology and Advanced Learning (Trafalgar Campus)
+<b>🏫School:</b> Sheridan College Institute of Technology and Advanced Learning (Trafalgar Campus)
 <br>
-<b>Number of Braincells:</b> -100000000000000000000000
+<b>🏳️Number of Braincells:</b> -100000000000000000000000
 <br>🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸
 </p>
 
