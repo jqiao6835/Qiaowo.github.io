@@ -17,17 +17,17 @@ a:link {
   text-decoration: none;
 }
 a:visited {
-  color: #538cdf;
-  background-color: transparent;
-  text-decoration: none;
-}
-a:hover {
   color: #1627a7;
   background-color: transparent;
   text-decoration: none;
 }
-a:active {
+a:hover {
   color: #538cdf;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:active {
+  color: #1627a7;
   background-color: transparent;
   text-decoration: none;
 }
