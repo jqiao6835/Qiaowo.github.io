@@ -1,6 +1,6 @@
 <head>
 <style>
-div {
+body {
     height: 400px;
     background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%)
 }
