@@ -159,6 +159,7 @@ body {
 
 * Engrish
 * jk i no program i just draw lines and colour stuff :^)))
+* Fake HTML (just copy paste from Flora's template hhhh ;)))))
 
 <h1 style="font-size:20px;"><p style="color:#4eb174;">Professional Experiences</p></h1>
 
