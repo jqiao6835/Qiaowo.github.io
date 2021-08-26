@@ -40,7 +40,7 @@ body {
 <br>🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸
 </p>
 
-<h1 style="font-size:20px;"><p style="color:#4eb174;"><ins>My Addy's🙃</ins></p></h1>
+<h1 style="font-size:20px;"><p style="color:#4eb174;">My Addy's🙃</p></h1>
 
 <table>
     <tr>
