@@ -34,6 +34,8 @@ body {
 <br>
 <b>Location:</b> Toronto, Canada
 <br>
+<b>School: Sheridan College Institute of Technology and Advanced Learning (Trafalgar Campus)</b>
+<br>
 <b>Number of Braincells:</b> -100000000000000000000000
 <br>🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸
 </p>
