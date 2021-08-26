@@ -33,9 +33,9 @@ a:active {
 }
 </style>
 
-<body>
+<p>
 <a href="https://jqiao6835.github.io/Qiaowo.github.io/Quebec.html" target="_blank">HOME</a> 
-</body>
+</p>
 
 [Back To Home](/index.md)
 <br>
