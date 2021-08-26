@@ -10,7 +10,7 @@ body {
  
  <h1 style="font-size:30px;"><p style="color:#0e00d1;">Quebec Photo Gallery</p></h1>
 
-[Back To Home](/index.md)<br>
+ [Back To Home](/index.md)
 <br>
 
 >Driving to Quebec and suddenly all the road signs turn into baguette signs👀🥖
