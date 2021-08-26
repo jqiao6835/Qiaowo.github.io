@@ -242,7 +242,7 @@ These are quotes said by Me some point in time in the Quarantined Bagels Discord
 <br>
 <br>
 
-🌺<b>"cooked water" - Me 2020
+🌺"cooked water" - Me 2020
 <br>
 <br>
 
