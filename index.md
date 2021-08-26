@@ -328,9 +328,10 @@ These are quotes said by Me some point in time in the Quarantined Bagels Discord
 <br>Me: "Oatmeal and tea"
 <br>Flora: "Oh? Oatmeal and tea?"
 <br>Me: "AHAHAHA what no I said oatmeal and tea not oatmeal aunty" 
-<br>(I misheard her say oatmeal aunty)
+<br>(I accidentally heard Flora say "oatmeal aunty" instead of "oatmeal and tea")
 <br>Flora: "啊啊所以你是麦片阿姨, Oatmeal aunty yes yes ahahahaha"
-<br>Stella: *changes my server name to "Oatmeal Aunty - 麦片阿姨"- Me: I-....ok well ig that's gonna be my server name🙂
+<br>Stella: *changes my server name to "Oatmeal Aunty - 麦片阿姨"*
+<br>Me: I-....ok well ig that's gonna be my server name🙂
 </p>
 
 <p>
