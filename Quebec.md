@@ -10,8 +10,32 @@ body {
  
  <h1 style="font-size:30px;"><p style="color:#1627a7;">Quebec Photo Gallery</p></h1>
 
-<a href="https://jqiao6835.github.io/Qiaowo.github.io/Quebec.html" target="_blank">HOME</a> 
+<style>
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: green;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
 
+<body>
+<a href="https://jqiao6835.github.io/Qiaowo.github.io/Quebec.html" target="_blank">HOME</a> 
+</body>
 
 [Back To Home](/index.md)
 <br>
