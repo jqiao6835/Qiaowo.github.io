@@ -13,31 +13,31 @@ body {
  [Back To Home](/index.md)
 <br>
 
-><p style="color:#1627a7;">Driving to Quebec and suddenly all the road signs turn into baguette signs👀🥖
+><p style="color:#1627a7;">Driving to Quebec and suddenly all the road signs turn into baguette signs👀🥖</p>
 ![Quebecsigns](/quebecphotos/Quebecsigns.jpg)
 
->Montmorency Waterfall with rainbow!!🌈:D
+><p style="color:#1627a7;">Montmorency Waterfall with rainbow!!🌈:D</p>
 ![M](/quebecphotos/Montmorencywaterfall.jpg)
 
->Landscape in front of the Waterfall (water looks kinda sus cuz I think theyre doing construction right underneath the waterfall)
+><p style="color:#1627a7;">Landscape in front of the Waterfall (water looks kinda sus cuz I think theyre doing construction right underneath the waterfall)</p>
 ![Landscape](/quebecphotos/Landscape1.jpg)
 
->Montmorency Valley
+><p style="color:#1627a7;">Montmorency Valley</p>
 ![Valley](/quebecphotos/Montmorency_Valley.jpg)
 
->Another angle of view of the Waterfall
+><p style="color:#1627a7;">Another angle of view of the Waterfall</p>
 ![2waterfall](/quebecphotos/Waterfall2.jpg)
 
->A bridge above the waterfall that you can walk across
+><p style="color:#1627a7;">A bridge above the waterfall that you can walk across</p>
 ![Bridge](/quebecphotos/Bridgeee.jpg)
 
->Photo taken from the bridge above the waterfall
+><p style="color:#1627a7;">Photo taken from the bridge above the waterfall</p>
 ![onthebridge](/quebecphotos/onthebridge.jpg)
 
->Entering into Quebec City's downtown area
+><p style="color:#1627a7;">Entering into Quebec City's downtown area</p>
 ![enteringquebecitycenter](/quebecphotos/enteringquebecitycenter.jpg)
 
->Walking through Petit Champlain streets in downtown Quebec City near the St.Lawrence River💕
+><p style="color:#1627a7;">Walking through Petit Champlain streets in downtown Quebec City near the St.Lawrence River💕</p>
 ![petitchamplain1](/quebecphotos/petitchamplain1.jpg)
 
 ![petitchamplain2](/quebecphotos/petitchamplain2.jpg)
@@ -46,43 +46,43 @@ body {
 
 ![petitchamplain4](/quebecphotos/petitchamplain4.jpg)
 
->Different country flags beside the St.Lawrence River :DDD
+><p style="color:#1627a7;">Different country flags beside the St.Lawrence River :DDD</p>
 ![flagsbesidest.lawrenceriver](/quebecphotos/flagsbesidest.lawrenceriver.jpg)
 
->This is how Quebecois introverts walk around. Greenscreen = no one sees you😌
+><p style="color:#1627a7;">This is how Quebecois introverts walk around. Greenscreen = no one sees you😌</p>
 ![greenman1](/quebecphotos/greenman1.jpg)
 
 ![greenman2](/quebecphotos/greenman2.jpg)
 
->Street performers!🎶🎻
+><p style="color:#1627a7;">Street performers!🎶🎻</p>
 ![streetperformers](/quebecphotos/streetperformers.jpg)
 
->Lobster rolls with a side of salad and housemade potato chips which I gave to my dad since he really liked it (also why do I suck at taking photos LOL)
+><p style="color:#1627a7;">Lobster rolls with a side of salad and housemade potato chips which I gave to my dad since he really liked it (also why do I suck at taking photos LOL)</p>
 ![lobsterrollwithsalad](/quebecphotos/lobsterrollwithsalad.jpg)
 
->My first time trying Crème Brûlée :DD it was soooo good and it was Earl Grey flavoured so extra points because it's tea😌👌👌👌
+><p style="color:#1627a7;">My first time trying Crème Brûlée :DD it was soooo good and it was Earl Grey flavoured so extra points because it's tea😌👌👌👌</p>
 ![cremebrulee](/quebecphotos/cremebrulee.jpg)
 
->Came across a wetland under a crossing bridge near Quebec City's Dowtown area. It really looked like something you'd see in LOTR...but the pictures don't do it justice, it looked so much more beautiful irl💖
+><p style="color:#1627a7;">Came across a wetland under a crossing bridge near Quebec City's Dowtown area. It really looked like something you'd see in LOTR...but the pictures don't do it justice, it looked so much more beautiful irl💖</p>
 ![quebecmarshlands1](/quebecphotos/quebecmarshlands1.jpg)
 
 ![quebecmarshlands2](/quebecphotos/quebecmarshlands2.jpg)
 
 ![quebecmarshlands3](/quebecphotos/quebecmarshlands3.jpg)
 
->St.Lawrence river view from the Saint-Louis Forts and Châteaux National wall
+><p style="color:#1627a7;">St.Lawrence river view from the Saint-Louis Forts and Châteaux National wall</p>
 ![Quebec city port](/quebecphotos/quebeccityport.jpg)
 
->Saint-Louis Forts and Châteaux National Historic Site
+><p style="color:#1627a7;">Saint-Louis Forts and Châteaux National Historic Site</p>
 ![Saint-LouisForts](/quebecphotos/Saint-LouisForts.jpg)
 
->View of Saint-Louis Forts and Châteaux wall
+><p style="color:#1627a7;">View of Saint-Louis Forts and Châteaux wall</p>
 ![Saint-LouisFortsviewfromwall](/quebecphotos/Saint-LouisFortsviewfromwall.jpg)
 
->On my second day in Montreal, I went to a small Italian cafe called Cafe Milano and got a latte which I found was really cute :33 it also tasted really really good👌👌👌
+><p style="color:#1627a7;">On my second day in Montreal, I went to a small Italian cafe called Cafe Milano and got a latte which I found was really cute :33 it also tasted really really good👌👌👌</p>
 ![latte](/quebecphotos/latte.jpg)
 
->Went to the Montreal Biodome!! Haven't been here since I was 8 it was so nostalgic😊 and the animals were amazing and so cuteeeeeeeeaaaaaaaahhh
+><p style="color:#1627a7;">Went to the Montreal Biodome!! Haven't been here since I was 8 it was so nostalgic😊 and the animals were amazing and so cuteeeeeeeeaaaaaaaahhh</p>
 ![biodomefront](/quebecphotos/biodomefront.jpg)
 
 ![biodomesideview](/quebecphotos/biodomesideview.jpg)
@@ -90,6 +90,5 @@ body {
 ![penguins](/quebecphotos/penguins.jpg)
 
 ![penguins](/quebecphotos/penguins.jpg)
-</p>
 
 [Back To Home](/index.md)
