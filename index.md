@@ -406,7 +406,7 @@ Special thanks to my collaborators on helping me with this GitHub project! It wo
         </td>
      </tr>
 </table>
-</p>
+
 
 
 <h1 style="font-size:20px;"><p style="color:#4eb174;">💌How you can support Me!💌</p></h1>
