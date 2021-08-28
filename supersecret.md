@@ -8,7 +8,7 @@ body {
 </head>
  
  
- <h1 style="font-size:30px;"><p style="color:#2a2e6f;">super_top_secret_fbi_files</p></h1>
+ <h1 style="font-size:30px;"><p style="color:#2a2e6f;">super top secret easter egg</p></h1>
 
 <style>
 a:link {
