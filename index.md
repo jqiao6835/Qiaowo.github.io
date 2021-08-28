@@ -176,6 +176,9 @@ body {
 
 <h1 style="font-size:20px;"><p style="color:#4eb174;">Gallery of Very Sus Photos</p></h1>
 
+<h1 style="font-size:20px;"><p style="color:#4eb174;">SKY PHOTOS</p></h1>
+[📷SKY PHOTOS📷](/sKY.md)
+
 [📷Cursed images...You have been warned!📷](/photo.md)
 
 <h1 style="font-size:20px;"><p style="color:#4eb174;">⚜️Quebec Photos!⚜️</p></h1>
