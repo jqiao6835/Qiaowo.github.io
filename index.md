@@ -36,8 +36,7 @@ body {
 <br>
 <b>🏫School:</b> Sheridan College Institute of Technology and Advanced Learning (Trafalgar Campus)
 <br>
-<b>🏳️Number of Braincells:</b> -100000000000000000000000</p>
-[🥚](/supersecret.md)
+<b>🏳️Number of Braincells:</b> -100000000000000000000000</p>[🥚](/supersecret.md)
 <br>🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸
 
 
