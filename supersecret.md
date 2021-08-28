@@ -35,7 +35,7 @@ a:active {
 
 [➰Back To Reality➰](/index.md)
 <br>
-<p style="color:#2a2e6f;"
+<p style="color:#2a2e6f;">
 Woah there! 
 <br>How did you get here?? :00 
 <br>This place is top secret!! how did you even get in here?? It's practically impossible to see this!! 
