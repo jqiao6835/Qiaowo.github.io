@@ -199,7 +199,7 @@ body {
 These are quotes said by Me some point in time in the Quarantined Bagels Discord Server. I really don't know what to say about these.....they were either said when my brain was running on 2 braincells or it's just Me being wacc...they have no context..I'm just sus lol. 
 
 
-<p style="color:#ec5f70;">
+<p style="color:#ea485b;">
 
 🌺"I wanna sun burn" - Me 2020
 <br>
