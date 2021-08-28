@@ -35,6 +35,7 @@ a:active {
 
 [➰Back To Home➰](/index.md)
 <br>
-
-I go brush my teeeth brb :))))))
+Hi hi :) there is nothing here for you to view...🙂 but while you're here can you watch over the website for me? :D
+I have to go brush my teeeth I'll be back asap 😁
+Thank you!!
 [➰Back To Home➰](/index.md)
