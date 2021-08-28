@@ -17,10 +17,10 @@ body {
 
 <h1 style="font-size:18px;"><p style="color:#4eb174;">🍀Qiaowo™️🍀</p></h1>
 
-<p style="color:#008055;"
+<p style="color:#008055;">
 🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸
 
-<b>📧Email(s):</b> jqiao6835@gmail.com
+<b>📧Email(s):</b> jqiao6835@gmail.com 
 <br>
 <b>✒️Name:</b> Jasmine Qiao, 喬才真
 <br>
