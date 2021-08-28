@@ -99,9 +99,13 @@ body {
 
 >🍃 Listening to podcasts
 
+>🍃 Watch Anime (rarely watch as of recently)
+
 >🍃 Playing Guzheng
 
 >🍃 Playing Badminton
+
+>🍃 Being cheesy as hecc
 
 >🍃 Playing Cards
 
@@ -111,8 +115,9 @@ body {
 
 >🍃 ha
 
->🍃 Watch Anime (rarely watch as of recently)
+>🍃 Spoiling u uwu
 
+<h1 style="font-size:20px;"><p style="color:#4eb174;">🌸⬇️Full Anime Watched List⬇️🌸</p></h1>
 <i class="fas fa-file fa-lg"></i> A list of all the animes I've watched fully [[here]](List of Animes 08.24.2021.pdf)
 
 
