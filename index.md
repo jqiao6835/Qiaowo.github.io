@@ -39,7 +39,6 @@ body {
 [🥚](/supersecret.md)<p style="color:#008055;"><b>Number of Braincells:</b> -100000000000000000000000
 
 <br>🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸
-</p>
 
 <h1 style="font-size:20px;"><p style="color:#4eb174;">My Addy's🙃</p></h1>
 
