@@ -186,10 +186,6 @@ body {
 <h1 style="font-size:20px;"><p style="color:#4eb174;">My Past Photography Photos!</p></h1>
 [📷Past Photography Photos!📷](/pastphotography.md)
 
-
-<h1 style="font-size:20px;"><p style="color:#4eb174;">top secret fbi files</p></h1>
-[topsecret](/pastphotography.md)
-
 <h1 style="font-size:20px;"><p style="color:#4eb174;">Member of Quarantined Bagels Discord Server</p></h1>
 
 ✨🥯<a href="https://discord.gg/PZaPX5Mt" target="blank">Quarantined Bagels</a>🥯✨
