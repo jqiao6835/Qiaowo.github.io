@@ -43,6 +43,6 @@ Woah there!
 <br>Anyways... since ur here.. I just wanted to tell you that you're really amazing and my FAVOURITE person in the world ;3
 <br>Never forget that I love and care about you❤️
 <br>I am truly truly so blessed and thankful to have you in my life🥰
-<p>
+</p>
 
 [➰Back To Reality➰](/index.md)
