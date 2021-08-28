@@ -424,4 +424,4 @@ Just smile and be happy :3 you look amazing when you do and that makes Me happy.
 <br> 
 
 <h1 style="font-size:20px;"><p style="color:#4eb174;">top secret fbi files</p></h1>
-[topsecret](/supersecret.md)
+[topsecret](/pastphotography.md)
