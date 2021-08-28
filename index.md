@@ -8,7 +8,7 @@ body {
 </head>
 
 
-<p style="border:4px solid #4eb174;"></p>
+<p style="border:6px solid #4eb174;"></p>
 <h1 style="font-size:40px;"><p style="color:#4eb174;">Home</p></h1>
 
 <script src="https://kit.fontawesome.com/6d173168d3.js" crossorigin="anonymous"></script>
@@ -421,5 +421,5 @@ Just smile and be happy :3 you look amazing when you do and that makes Me happy.
 
 
 
-<br> <h1 style="font-size:10px;"><p style="color:#4eb174;"></p></h1>
+<br> <h1 style="font-size:10px;"><p style="color:#4eb174;">xxx</p></h1>
 [top secret fbi files dont look in here](/super_top_secret_fbi_files.md)
