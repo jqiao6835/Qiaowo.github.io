@@ -37,6 +37,7 @@ body {
 <b>🏫School:</b> Sheridan College Institute of Technology and Advanced Learning (Trafalgar Campus)
 <br>
 <b>🏳️Number of Braincells:</b> -100000000000000000000000
+<br>[🥚](/supersecret.md)
 <br>🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸
 </p>
 
@@ -190,8 +191,6 @@ body {
 
 ✨🥯<a href="https://discord.gg/PZaPX5Mt" target="blank">Quarantined Bagels</a>🥯✨
 
-
-[🥚](/supersecret.md)
 
 
 <h1 style="font-size:20px;"><p style="color:#4eb174;">Questionable Quotes by Moi🙂</p></h1>
