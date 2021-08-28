@@ -194,6 +194,9 @@ body {
 
 ✨🥯<a href="https://discord.gg/PZaPX5Mt" target="blank">Quarantined Bagels</a>🥯✨
 
+<h1 style="font-size:2px;"><p style="color:#4eb174;">🥚</p></h1>
+[topsecret](/supersecret.md)
+
 <h1 style="font-size:20px;"><p style="color:#4eb174;">Questionable Quotes by Moi🙂</p></h1>
 
 These are quotes said by Me some point in time in the Quarantined Bagels Discord Server. I really don't know what to say about these.....they were either said when my brain was running on 2 braincells or it's just Me being wacc...they have no context..I'm just sus lol. 
@@ -411,6 +414,3 @@ Special thanks to my collaborators on helping me with this GitHub project! It wo
 <h1 style="font-size:20px;"><p style="color:#4eb174;">💌How you can support Me!💌</p></h1>
 
 Just smile and be happy :3 you look amazing when you do and that makes Me happy.😊
-
-<h1 style="font-size:20px;"><p style="color:#4eb174;">top secret fbi files</p></h1>
-[topsecret](/pastphotography.md)
