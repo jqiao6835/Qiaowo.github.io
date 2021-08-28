@@ -194,7 +194,7 @@ body {
 
 ✨🥯<a href="https://discord.gg/PZaPX5Mt" target="blank">Quarantined Bagels</a>🥯✨
 
-<h1 style="font-size:6px;">.</h1>
+<h1 style="font-size:6px;">
 [🥚](/supersecret.md)
 </h1>
 
