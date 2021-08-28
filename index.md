@@ -17,26 +17,25 @@ body {
 
 <h1 style="font-size:18px;"><p style="color:#4eb174;">🍀Qiaowo™️🍀</p></h1>
 
-
+<p>
 🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸
-
-<p style="color:#008055;"><b>📧Email(s):</b> jqiao6835@gmail.com</p>
+<b>📧Email(s):</b> jqiao6835@gmail.com
 <br>
-<p style="color:#008055;"><b>✒️Name:</b> Jasmine Qiao, 喬才真</p>
+<b>✒️Name:</b> Jasmine Qiao, 喬才真
 <br>
-<p style="color:#008055;"><b>🃏Nicknames:</b> Jas, Jam, Jazzy, Tree, Jamsine, 喬才不假，喬才不真</p>
+<b>🃏Nicknames:</b> Jas, Jam, Jazzy, Tree, Jamsine, 喬才不假，喬才不真
 <br>
-<p style="color:#008055;"><b>👵Age:</b> 18</p>
+<b>👵Age:</b> 18
 <br>
-<p style="color:#008055;"><b>🎂Year of birth:</b> 2003</p>
+<b>🎂Year of birth:</b> 2003
 <br>
-<p style="color:#008055;"><b>🧠MBTI Type:</b> INFP-T</p>
+<b>🧠MBTI Type:</b> INFP-T
 <br>
-<p style="color:#008055;"><b>🌎Location:</b> Toronto, Canada</p>
+<b>🌎Location:</b> Toronto, Canada
 <br>
-<p style="color:#008055;"><b>🏫School:</b> Sheridan College Institute of Technology and Advanced Learning (Trafalgar Campus)</p>
+<b>🏫School:</b> Sheridan College Institute of Technology and Advanced Learning (Trafalgar Campus)
 <br>
-<p style="color:#008055;"><b>🏳️Number of Braincells:</b> -100000000000000000000000
+<b>🏳️Number of Braincells:</b> -100000000000000000000000
 <br>🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸
 </p>
 
