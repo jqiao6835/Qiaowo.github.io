@@ -2,13 +2,13 @@
 <style>
 body {
     height: 1000px;
-    background: linear-gradient(to bottom, #bbddf7 0%, #538cdf 50%, #2f58b6 100%)
+    background: linear-gradient(to bottom, #cccbe7 0%,#6763b6 50%, #343168 100%)
 }
 </style>
 </head>
  
  
- <h1 style="font-size:30px;"><p style="color:#121f87;">super_top_secret_fbi_files</p></h1>
+ <h1 style="font-size:30px;"><p style="color:#000000;">super_top_secret_fbi_files</p></h1>
 
 <style>
 a:link {
