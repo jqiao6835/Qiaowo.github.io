@@ -369,6 +369,11 @@ These are quotes said by Me some point in time in the Quarantined Bagels Discord
 <p style="border: 2px solid #008055;">~~~ It's not okay to not be green💚 - Me ~~~
 </p>
 <br>
+
+<h1 style="font-size:20px;"><p style="color:#4eb174;">top secret fbi files</p></h1>
+[topsecret](/pastphotography.md)
+
+
 <p><h1 style="font-size:20px;"><p style="color:#f09800;">🙌✭Special Thanks✭🙌</p></h1>
 
 Special thanks to my collaborators on helping me with this GitHub project! It wouldn't have been possible for me to become addicted to coding this without you guys. Thanks for making this possible! :))
