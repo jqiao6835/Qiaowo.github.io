@@ -29,7 +29,7 @@ body {
 <p style="color:#008055;"><b>🌎Location:</b> Toronto, Canada</p>
 <p style="color:#008055;"><b>🏫School:</b> Sheridan College Institute of Technology and Advanced Learning (Trafalgar Campus)</p>
 [🥚](/supersecret.md)
-<p style="color:#008055;"><b>Number of Braincells:</b> -100000000000000000000000
+<p style="color:#008055;"><b>Number of Braincells:</b> -100000000000000000000000</p>
 
 <br>🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸
 
