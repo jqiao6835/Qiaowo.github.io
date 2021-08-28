@@ -21,16 +21,24 @@ body {
 🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸
 
 <p style="color:#008055;"><b>📧Email(s):</b> jqiao6835@gmail.com</p>
+<br>
 <p style="color:#008055;"><b>✒️Name:</b> Jasmine Qiao, 喬才真</p>
+<br>
 <p style="color:#008055;"><b>🃏Nicknames:</b> Jas, Jam, Jazzy, Tree, Jamsine, 喬才不假，喬才不真</p>
+<br>
 <p style="color:#008055;"><b>👵Age:</b> 18</p>
+<br>
 <p style="color:#008055;"><b>🎂Year of birth:</b> 2003</p>
+<br>
 <p style="color:#008055;"><b>🧠MBTI Type:</b> INFP-T</p>
+<br>
 <p style="color:#008055;"><b>🌎Location:</b> Toronto, Canada</p>
+<br>
 <p style="color:#008055;"><b>🏫School:</b> Sheridan College Institute of Technology and Advanced Learning (Trafalgar Campus)</p>
-[🥚](/supersecret.md)><p style="color:#008055;"><b>Number of Braincells:</b> -100000000000000000000000</p>
-
+<br>
+<p style="color:#008055;"><b>🏳️Number of Braincells:</b> -100000000000000000000000
 <br>🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸🍀🌸
+</p>
 
 <h1 style="font-size:20px;"><p style="color:#4eb174;">My Addy's🙃</p></h1>
 
@@ -116,7 +124,7 @@ body {
 <h1 style="font-size:20px;"><p style="color:#4eb174;">✨🎶My Current Song Playlist🎶✨</p></h1>
 <iframe width="200" height="113" src="https://www.youtube.com/embed/videoseries?list=PLvVd50Dgei_fXbNVyLba3V1oFb-DyHTTq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-<h1 style="font-size:20px;"><p style="color:#4eb174;">📚🏫Education🏫📚</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4eb174;">📚🏫Education🏫📚</p></h1>[🥚](/supersecret.md)
 
 * Some kindergarden....I hope...
 * St.Henry Catholic School 2008-2015
