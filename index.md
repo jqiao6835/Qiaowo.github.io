@@ -2,7 +2,7 @@
 <style>
 body {
     height: 400px;
-    background: linear-gradient(to bottom, #98daf0 0%, #deccff 25%, #fac2c2 50%, #b4e4be 75%, #69c9be 100%)
+    background: linear-gradient(to bottom, #98daf0 0%, #deccff 25%, #fac2c2 50%, #b4e4be 75%, #7dcfc5 100%)
 }
 </style>
 </head>
