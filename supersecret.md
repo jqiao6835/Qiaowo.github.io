@@ -33,7 +33,6 @@ a:active {
 }
 </style>
 
-[And Now Back to Our Regularly Scheduled Programming](/index.md)
 <br>
 <p style="color:#2a2e6f;">
 Woah there! 
