@@ -19,6 +19,19 @@ body {
 >Idk who was taking the photo but I no like camera so I hide
 ![Me hiding from camera](/githubimages/I_hide.jpg)
 
+>Achilles' AYJ Pops Orchestra :D it was a lot of fun to be apart of it and also a lot of fun having stella as my stand partner HHHHHHHH
+![ayjpopsorchestra](/githubimages/ayjpopsorchestra.jpg)
+
+>I used to go to school super early like around 7 am to just study and review or sleep before classes started. usually no one is at school yet except janitors. But one day I come in and the whole school is dark and I got confused cuz I thought maybe there wasn't school that day but I was sure that there was and so I just sat in the caf where I normally sit and turns out, there was a power outage, whihc sometimes happens int he winter time if it get's too snowy/icy. But yeah I took the pic cuz it felt so surreal cuz no one was there and it was just me in this pitch black school foyer place. (It was also really cool tho which is why I also decided to take a pic LOL)
+![schoolbackout1](/githubimages/schoolbackout1.jpg)
+
+>2 hrs later and they still haven't gottent he problem fixed and basically almost all 1000 students in all grades were in the caf just chilling cuz the power was dead....fUn🙂 but later it came back on and we went to class lol
+![schoolbackout2](/githubimages/schoolbackout2.jpg)
+
+>Mayya and I were out walking and saw a TDSB van witha  sus driver in it...hmmmmmmmm🤔
+![susdriver](/githubimages/susdriver.jpg)
+
+
 >Flora ascends into the 10th Dimension
 ![Flora ascends](/githubimages/Flora_ascends.jpg)
 
@@ -137,6 +150,9 @@ body {
 >Flora has an existential crisis
 ![floradepressed](/githubimages/floradepressed.jpg)
 
+>Flora is in danger as Stella approaches
+![floraisindanger](/githubimages/floraisindanger.jpg)
+
 >Amanda takes a pic while I take a pic of everyone
 ![amandatakesapic](/githubimages/amandatakesapic.jpg)
 
@@ -164,6 +180,11 @@ body {
 >Me, Mayya, Flora, and Stella bake me a chocolate cake for my bday and here's Flora and Stella icing the cake :)))
 ![floraandstelladecoratingmybdaycake](/githubimages/floraandstelladecoratingmybdaycake.jpg)
 
+>My two seperate tier B-day cake that has uhm... very beautiful, comprehensible designs on it.... and also very readable> :)))
+![bdaycake1](/githubimages/bdaycake1.jpg)
+>On this tier we decided to put random sauces and sus stuff (hot sauce, french fries, soy sauce, some other kinda sauce) in the cake batter in each slice/section before baking it, then we played russian roulette on who got the worst flavoured part cuz we like to torture ourselves hhhhhh
+![bdaycake2](/githubimages/bdaycake2.jpg)
+
 >Chilling at the park while Mayya is being dead FOR ONCE she isn't being chaotic ahahaha
 ![chillingatthepark](/githubimages/chillingatthepark.jpg)
 
@@ -174,11 +195,14 @@ body {
 ![catscradle](/githubimages/catscradle.jpg)
 ![catscradle2](/githubimages/catscradle2.jpg)
 
+>Going to 大统华 to buy 大白兔 icecream
+![dabaituicecream](/githubimages/dabaituicecream.jpg)
+
 >Going to the beach with friends and Mayya brought a guitar and ukelele for us to play :)))
-![ukelelewithfriendsonthebeach](/githubimages/ukelelewithfriendsonthebeach.jpg)
-![ukelelewithfriendsonthebeach](/githubimages/ukelelewithfriendsonthebeach.jpg)
-![ukelelewithfriendsonthebeach](/githubimages/ukelelewithfriendsonthebeach.jpg)
-![ukelelewithfriendsonthebeach](/githubimages/ukelelewithfriendsonthebeach.jpg)
+![beachpic](/githubimages/beachpic.jpg)
+![beachpic1](/githubimages/beachpic1.jpg)
+![beachpic2](/githubimages/beachpic2.jpg)
+![beachpic3](/githubimages/beachpic3.jpg)
 
 >Bought too many drinks when we went out to the beach and had to bring them all home ahahahahha I should've brought a backpack
 ![hoardingabunchofdrinkshome](/githubimages/hoardingabunchofdrinkshome.jpg)
