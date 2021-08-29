@@ -87,9 +87,6 @@ body {
 >Mayya and Amanda take a proper photo but Mayya is Mayya
 ![mayyaandamanda](/githubimages/mayyaandamanda.jpg)
 
->Mayya catching a frisbee is surprisingly very funny to look at
-![Amandachasesme](/githubimages/Amandachasesme.jpg)
-
 >Mayya tries tackles a tree while it begs for mercy
 ![mayyahangsfromtree](/githubimages/mayyahangsfromtree.jpg)
 
