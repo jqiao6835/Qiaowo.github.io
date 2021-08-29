@@ -53,6 +53,7 @@ body {
 
 >Why does she look so sus.....
 ![susflora](/githubimages/susflora.jpg)
+![florasus2](/githubimages/florasus2.jpg)
 
 >An attempt was made at taking a normal looking photo....
 ![mayyaisatitagain](/githubimages/mayyaisatitagain.jpg)
@@ -115,8 +116,14 @@ body {
 >Stella and Flora in a playground. (Stella's on top, Flora's at the bottom)
 ![stellaandfloraonplayground](/githubimages/stellaandfloraonplayground.jpg)
 
+>Another Stella and Flora playground photo
+![stellaandfloraplayground2](/githubimages/stellaandfloraplayground2.jpg)
+
 >Bubble Tea!!
 ![bubble tea!](/githubimages/bubble tea!.jpg)
+
+>Chatime Bubble Tea :D
+![chattimebbltea](/githubimages/chattimebbltea.jpg)
 
 >Flora lookin lowkey sus👀
 ![Flora looking kinda sus](/githubimages/Flora looking kinda sus.jpg)
@@ -135,6 +142,9 @@ body {
 
 >Me trying to surf on this fake surf board thingy which was really hard to balance on
 ![metryingtosurf](/githubimages/metryingtosurf.jpg)
+
+>Squad photo with no stella cuz she's taking the photo ;-;
+![squadphoto](/githubimages/squadphoto.jpg)
 
 >Flora kindly offers Mayya some sugar in a form of a candy
 ![youwantsugar???](/githubimages/youwantsugar.jpg)
@@ -157,7 +167,22 @@ body {
 >Chilling at the park while Mayya is being dead FOR ONCE she isn't being chaotic ahahaha
 ![chillingatthepark](/githubimages/chillingatthepark.jpg)
 
+>Graduating with 3? awards I think? But ayyyy done with A.Y :))))
+![grad stuff](/githubimages/grad stuff.jpg)
 
+>Playing Cat's Cradle in Flora's car
+![catscradle](/githubimages/catscradle.jpg)
+![catscradle2](/githubimages/catscradle2.jpg)
+
+>Going to the beach with friends and Mayya brought a guitar and ukelele for us to play :)))
+![ukelelewithfriendsonthebeach](/githubimages/ukelelewithfriendsonthebeach.jpg)
+![ukelelewithfriendsonthebeach](/githubimages/ukelelewithfriendsonthebeach.jpg)
+![ukelelewithfriendsonthebeach](/githubimages/ukelelewithfriendsonthebeach.jpg)
+![ukelelewithfriendsonthebeach](/githubimages/ukelelewithfriendsonthebeach.jpg)
+
+>Bought too many drinks when we went out to the beach and had to bring them all home ahahahahha I should've brought a backpack
+![hoardingabunchofdrinkshome](/githubimages/hoardingabunchofdrinkshome.jpg)
+![hoardingabunchofdrinkshome2](/githubimages/hoardingabunchofdrinkshome2.jpg)
 
 
 
