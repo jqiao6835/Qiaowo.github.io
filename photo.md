@@ -112,9 +112,6 @@ body {
 >Mayya watches the highway from the balcony....because why not
 ![mayyaiswatchingthehighway](/githubimages/mayyaiswatchingthehighway.jpg)
 
->Flora lookin lowkey sus👀
-![Flora looking kinda sus](/githubimages/Flora looking kinda sus.jpg)
-
 >Stella and Flora in a playground. (Stella's on top, Flora's at the bottom)
 ![stellaandfloraonplayground](/githubimages/stellaandfloraonplayground.jpg)
 
