@@ -1,6 +1,17 @@
+ <head>
+<style>
+body {
+    height: 400px;
+    background: linear-gradient(to bottom, #f9ebf3 0%, #eec3da 100%)
+}
+</style>
+</head>
+
 <h1 style="font-size:30px;"><p style="color:#6666db;">Sus Photo Gallery</p></h1>
 
 [Back To Home](/index.md)
+
+*Note: This gallery features a lot of Mayya photos because Mayya is a specimen that we all are currently in the process of documenting. We don't know much about what s Mayya is or what it is capable of...but from what we have captured in our investigation....it seems dangerous. Beware of Mayyas in this photo gallery. You have been warned. 
 
 >My GitHub logo :) (not cursed or sus but I'm too lazy to move it anywhere else)
 ![Jam](https://jqiao6835.github.io/Qiaowo.github.io/images/jam%20fluffly%20black%20cape%20(2).png)
@@ -62,7 +73,13 @@
 ![floramayyaarmwrestle](/githubimages/floramayyaarmwrestle.jpg)
 
 >Mayya being Mayya and climbing a fence for no reason but to spite whoever was taking the photo
+![mayyaclimbsfence](/githubimages/mayyaclimbsfence.jpg)
+
+>Mayya climbing a fence pt.2
 ![mayyaclimbingfence](/githubimages/mayyaclimbingfence.jpg)
+
+>Rip Stella the cameraman
+![ripstella](/githubimages/ripstella.jpg)
 
 >Mayya and Amanda take a proper photo but Mayya is Mayya
 ![mayyaandamanda](/githubimages/mayyaandamanda.jpg)
@@ -76,12 +93,49 @@
 >Mayya on a playground chair thingy
 ![mayyaspinnychair](/githubimages/mayyaspinnychair.jpg)
 
+>Mayya does a double dab in an attempt to cover her face from the camera
+![mayyadoubledab](/githubimages/mayyadoubledab.jpg)
+
 >Mayya and Flora are wrestling?? Idk what's happening tbh
 ![mayyaandflorawrestling](/githubimages/mayyaandflorawrestling.jpg)
 
 >Mayya looking relatively normal
 ![mayyanormalkinda](/githubimages/mayyanormalkinda.jpg)
 
+>Stella and Flora in a playground. (Stella's on top, Flora's at the bottom)
+![stellaandfloraonplayground](/githubimages/stellaandfloraonplayground.jpg)
 
+>Bubble Tea!!
+![bubble tea!](/githubimages/bubble tea!.jpg)
+
+>Flora lookin lowkey sus👀
+![Flora looking kinda sus](/githubimages/Flora looking kinda sus.jpg)
+
+>Went to karoake but the place was kinda cold so Flora put on a jacket but Stella was idk being Stella
+![stellagrabsflorasarms](/githubimages/stellagrabsflorasarms.jpg)
+
+>Flora has embodied a crab
+![floracrab](/githubimages/floracrab.jpg)
+
+>Flora has an existential crisis
+![floradepressed](/githubimages/floradepressed.jpg)
+
+>Flora lookin lowkey sus👀
+![Flora looking kinda sus](/githubimages/Flora looking kinda sus.jpg)
+
+>Flora lookin lowkey sus👀
+![Flora looking kinda sus](/githubimages/Flora looking kinda sus.jpg)
+
+>Flora lookin lowkey sus👀
+![Flora looking kinda sus](/githubimages/Flora looking kinda sus.jpg)
+
+>Flora lookin lowkey sus👀
+![Flora looking kinda sus](/githubimages/Flora looking kinda sus.jpg)
+
+>Flora lookin lowkey sus👀
+![Flora looking kinda sus](/githubimages/Flora looking kinda sus.jpg)
+
+>Flora lookin lowkey sus👀
+![Flora looking kinda sus](/githubimages/Flora looking kinda sus.jpg)
 
 [Back To Home](/index.md)
