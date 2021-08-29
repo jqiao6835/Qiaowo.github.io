@@ -2,7 +2,7 @@
 <style>
 body {
     height: 400px;
-    background: linear-gradient(to bottom, #f9ebf3 0%, #eec3da 100%)
+    background: linear-gradient(to bottom, #bbddf7 0%, #eec3da 100%)
 }
 </style>
 </head>
@@ -27,6 +27,9 @@ body {
 
 >This photo is also way too dark isk what we are doing lmao
 ![darkafpic](/githubimages/darkafpic.jpg)
+
+>Stella climbing on things she's not supposed to be on and being illegal
+![Stellaillegal](/githubimages/Stellaillegal.jpg)
 
 >Mayya terrorizes me ;-;
 ![Mayya terrorizes me](/githubimages/mayyaterrorizesme.jpg)
@@ -102,6 +105,19 @@ body {
 >Mayya looking relatively normal
 ![mayyanormalkinda](/githubimages/mayyanormalkinda.jpg)
 
+>Mayya...wait..that's not how you use a swing-
+![mayyaspinning](/githubimages/mayyaspinning.gif)
+
+>Mayya is always watching👁️👄👁️
+![mayyaiswatching](/githubimages/mayyaiswatching.jpg)
+![mayyaiswatching2](/githubimages/mayyaiswatching2.jpg)
+
+>Mayya watches the highway from the balcony....because why not
+![mayyaiswatchingthehighway](/githubimages/mayyaiswatchingthehighway.jpg)
+
+>Flora lookin lowkey sus👀
+![Flora looking kinda sus](/githubimages/Flora looking kinda sus.jpg)
+
 >Stella and Flora in a playground. (Stella's on top, Flora's at the bottom)
 ![stellaandfloraonplayground](/githubimages/stellaandfloraonplayground.jpg)
 
@@ -120,22 +136,5 @@ body {
 >Flora has an existential crisis
 ![floradepressed](/githubimages/floradepressed.jpg)
 
->Flora lookin lowkey sus👀
-![Flora looking kinda sus](/githubimages/Flora looking kinda sus.jpg)
-
->Flora lookin lowkey sus👀
-![Flora looking kinda sus](/githubimages/Flora looking kinda sus.jpg)
-
->Flora lookin lowkey sus👀
-![Flora looking kinda sus](/githubimages/Flora looking kinda sus.jpg)
-
->Flora lookin lowkey sus👀
-![Flora looking kinda sus](/githubimages/Flora looking kinda sus.jpg)
-
->Flora lookin lowkey sus👀
-![Flora looking kinda sus](/githubimages/Flora looking kinda sus.jpg)
-
->Flora lookin lowkey sus👀
-![Flora looking kinda sus](/githubimages/Flora looking kinda sus.jpg)
 
 [Back To Home](/index.md)
