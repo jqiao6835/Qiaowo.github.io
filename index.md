@@ -351,7 +351,7 @@ These are quotes said by Me some point in time in the Quarantined Bagels Discord
 </p>
 
 
-<h1 style="font-size:20px;"><p style="color:#4eb174;">Bagel Motto's</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4eb174;">🥯Bagel's Mottos🥯</p></h1>
 <p style="border: 2px solid #00e600;">~~~ It's not okay to be okay😈 - Mayya ~~~</p>
 <br>
 
