@@ -57,4 +57,4 @@ Woah there!
 <br>So again, truly from the bottom of my heart. I love you so much. Thank you for everything Daniel zhu zhu.❤️
 </p>
 
-[And Now Back to Our Regularly Scheduled Programming](/index.md)
+[Click Here to Go Back to Our Regularly Scheduled Programming](/index.md)
