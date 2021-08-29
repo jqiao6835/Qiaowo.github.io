@@ -14,9 +14,6 @@
 >Mayya dies 2021 colourized
 ![Mayya dies](/githubimages/mayyas_ded.jpg)
 
->This photo is way too dark lol, it is also very sus
-![Sus night photo](/githubimages/nightphotosus.jpg)
-
 >This photo is also way too dark isk what we are doing lmao
 ![darkafpic](/githubimages/darkafpic.jpg)
 
@@ -76,7 +73,7 @@
 >Mayya tries tackles a tree while it begs for mercy
 ![mayyahangsfromtree](/githubimages/mayyahangsfromtree.jpg)
 
->Mayya on a playground spinny chair thingy
+>Mayya on a playground chair thingy
 ![mayyaspinnychair](/githubimages/mayyaspinnychair.jpg)
 
 >Mayya and Flora are wrestling?? Idk what's happening tbh
