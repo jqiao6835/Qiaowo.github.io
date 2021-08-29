@@ -130,5 +130,35 @@ body {
 >Flora has an existential crisis
 ![floradepressed](/githubimages/floradepressed.jpg)
 
+>Amanda takes a pic while I take a pic of everyone
+![amandatakesapic](/githubimages/amandatakesapic.jpg)
+
+>Me trying to surf on this fake surf board thingy which was really hard to balance on
+![metryingtosurf](/githubimages/metryingtosurf.jpg)
+
+>Flora kindly offers Mayya some sugar in a form of a candy
+![youwantsugar???](/githubimages/youwantsugar.jpg)
+
+>Mayya tries to pull Stella off the ground and not be dead
+![mayyatriestogetstellatoplaypattycakes](/githubimages/mayyatriestogetstellatoplaypattycakes.jpg)
+
+>Flora the cameraman is being terrorized by Mayya...Stella tries escaping behind them
+![idkwhatsgoingon](/githubimages/idkwhatsgoingon.jpg)
+
+>Mayya laughing on the kitchen floor hhhhhhhh
+![mayyaonkitchenfloor](/githubimages/mayyaonkitchenfloor.jpg)
+
+>Mayya and Flora playing piano together
+![mayyaandlforapiano](/githubimages/mayyaandlforapiano.jpg)
+
+>Me, Mayya, Flora, and Stella bake me a chocolate cake for my bday and here's Flora and Stella icing the cake :)))
+![floraandstelladecoratingmybdaycake](/githubimages/floraandstelladecoratingmybdaycake.jpg)
+
+>Chilling at the park while Mayya is being dead FOR ONCE she isn't being chaotic ahahaha
+![chillingatthepark](/githubimages/chillingatthepark.jpg)
+
+
+
+
 
 [Back To Home](/index.md)
