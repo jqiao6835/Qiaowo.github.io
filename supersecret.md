@@ -37,8 +37,10 @@ a:active {
 <p style="color:#2a2e6f;">
 Woah there! 
 <br>How did you get here?? :00 
-<br>This place is top secret!! How did you even get in here?? Someone must've told you about this place🤔
-<br>It's practically impossible to see this!! Hmmmm...I wonder who told you about this secret easter egg 👀
+<br>This place is top secret!! How did you even get in here??
+<br>It's practically impossible to see this!!
+<br>Someone must've told you about this place.....🤔
+<br> Hmmmm...I wonder who told you about this secret easter egg 👀
 <br>You're eyes are so sharp!!👀 
 <br>Anyways... since ur here.. I just wanted to tell you that you're really amazing and my FAVOURITE person in the world ;3
 <br>I've made so many countless beautiful memories that I'll never forget❤️
