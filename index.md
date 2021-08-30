@@ -9,12 +9,12 @@ body {
 
 <style>
 a:link {
-  color: #ec88a1;
+  color: #ff99b3;
   background-color: transparent;
   text-decoration: none;
 }
 a:visited {
-  color: #fac2c2;
+  color: #ff99b3;
   background-color: transparent;
   text-decoration: none;
 }
@@ -24,7 +24,7 @@ a:hover {
   text-decoration: none;
 }
 a:active {
-  color: #ec88a1;
+  color: #ff99b3;
   background-color: transparent;
   text-decoration: none;
 }
