@@ -9,12 +9,12 @@ body {
 
 <style>
 a:link {
-  color: #f37783;
+  color: #ea485b;
   background-color: transparent;
   text-decoration: none;
 }
 a:visited {
-  color: #f37783;
+  color: #ea485b;
   background-color: transparent;
   text-decoration: none;
 }
@@ -24,7 +24,7 @@ a:hover {
   text-decoration: none;
 }
 a:active {
-  color: #f37783;
+  color: #ea485b;
   background-color: transparent;
   text-decoration: none;
 }
@@ -143,7 +143,7 @@ a:active {
 >🍃 Spoiling u uwu
 
 <h1 style="font-size:20px;"><p style="color:#4eb174;">🌸⬇️Full Anime Watched List⬇️🌸</p></h1>
-<i class="fas fa-file fa-lg"></i> A list of all the animes I've watched fully [[here]](List of Animes 08.24.2021.pdf)
+<i class="fas fa-file fa-lg"></i> A list of all the animes I've watched fully [here](List of Animes 08.24.2021.pdf)
 
 
 <h1 style="font-size:20px;"><p style="color:#4eb174;">✨🎶My Current Song Playlist🎶✨</p></h1>
