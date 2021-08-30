@@ -9,12 +9,12 @@ body {
 
 <style>
 a:link {
-  color: #ff8091;
+  color: #ff7588;
   background-color: transparent;
   text-decoration: none;
 }
 a:visited {
-  color: #ff8091;
+  color: #ff7588;
   background-color: transparent;
   text-decoration: none;
 }
@@ -24,7 +24,7 @@ a:hover {
   text-decoration: none;
 }
 a:active {
-  color: #ff8091;
+  color: #ff7588;
   background-color: transparent;
   text-decoration: none;
 }
@@ -225,7 +225,7 @@ These are quotes said by Me some point in time in the Quarantined Bagels Discord
 </p>
 
 
-<p style="color:#ff8091;">
+<p style="color:#ff7588;">
 
 🌺"I wanna sun burn" - Me 2020
 <br>
