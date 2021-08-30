@@ -122,7 +122,7 @@ body {
 
 
 <h1 style="font-size:20px;"><p style="color:#4eb174;">✨🎶My Current Song Playlist🎶✨</p></h1>
-<iframe width="200" height="113" src="https://www.youtube.com/embed/videoseries?list=PLvVd50Dgei_fXbNVyLba3V1oFb-DyHTTq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>[.](/supersecret.md)
+<iframe width="200" height="113" src="https://www.youtube.com/embed/videoseries?list=PLvVd50Dgei_fXbNVyLba3V1oFb-DyHTTq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>[🥚](/supersecret.md)
 <br>
 <h1 style="font-size:20px;"><p style="color:#4eb174;">📚🏫Education🏫📚</p></h1>
 
@@ -177,13 +177,13 @@ body {
 <h1 style="font-size:20px;"><p style="color:#4eb174;">Gallery of Very Sus Photos</p></h1>
 [📷Cursed images...You have been warned!📷](/photo.md)
 
-<h1 style="font-size:20px;"><p style="color:#4eb174;">SKY PHOTOS</p></h1>
-[📷SKY PHOTOS📷](/sky.md)
+<h1 style="font-size:20px;"><p style="color:#4eb174;">SKY PHOTOS (work in progress⛔)</p></h1>
+[📷SKY PHOTOS📷](/Sky.md)
 
 <h1 style="font-size:20px;"><p style="color:#4eb174;">⚜️Quebec Photos!⚜️</p></h1>
 [📷Photos from my Quebec trip!📷](/Quebec.md)
 
-<h1 style="font-size:20px;"><p style="color:#4eb174;">My Past Photography Photos!</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4eb174;">My Past Photography Photos!(work in progress⛔)</p></h1>
 [📷Past Photography Photos!📷](/pastphotography.md)
 
 <h1 style="font-size:20px;"><p style="color:#4eb174;">Member of Quarantined Bagels Discord Server</p></h1>

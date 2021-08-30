@@ -8,7 +8,7 @@ body {
 </head>
  
  
- <h1 style="font-size:30px;"><p style="color:#121f87;">Past Photography</p></h1>
+ <h1 style="font-size:30px;"><p style="color:#121f87;">Sky Photos</p></h1>
 
 <style>
 a:link {
