@@ -19,7 +19,7 @@ a:visited {
   text-decoration: none;
 }
 a:hover {
-  color: #bd99ff 25;
+  color: #bd99ff;
   background-color: transparent;
   text-decoration: none;
 }
