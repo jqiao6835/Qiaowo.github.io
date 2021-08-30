@@ -203,7 +203,6 @@ body {
 
 >Going to the beach with friends and Mayya brought a guitar and ukelele for us to play :)))
 ![beachpic](/githubimages/beachpic.jpg)
-![beachpic1](/githubimages/beachpic1.jpg)
 ![beachpic2](/githubimages/beachpic2.jpg)
 ![beachpic3](/githubimages/beachpic3.jpg)
 
