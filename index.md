@@ -7,6 +7,28 @@ body {
 </style>
 </head>
 
+<style>
+a:link {
+  color: #008055;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: #fac2c2;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: #deccff 25;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:active {
+  color: #008055;
+  background-color: transparent;
+  text-decoration: none;
+}
+</style>
 
 <p style="border:5px solid #4eb174;"></p>
 <h1 style="font-size:40px;"><p style="color:#4eb174;">Home</p></h1>
