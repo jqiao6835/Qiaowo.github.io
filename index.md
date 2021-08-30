@@ -400,6 +400,30 @@ Special thanks to my collaborators on helping me with this GitHub project! It wo
 <br>
 <br>
 🔵🐯<b>Flora Fu</b> (<a href="https://yfsufate.github.io/Bagels/" target="blank">Quarantined Bagels GitHub</a> Owner)
+
+<style>
+a:link {
+  color: #0066ff;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: #0066ff;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: #0066ff;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:active {
+  color: #0066ff;
+  background-color: transparent;
+  text-decoration: none;
+}
+</style>
+
 <table>
     <tr>
         <td>
