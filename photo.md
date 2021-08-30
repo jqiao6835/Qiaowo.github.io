@@ -19,6 +19,9 @@ body {
 >Idk who was taking the photo but I no like camera so I hide
 ![Me hiding from camera](/githubimages/I_hide.jpg)
 
+>Stella did my hair once and it looked really nice :) so thanks u Stella for not yanking my hair out :)))
+![stelladoesmyhair](/githubimages/stelladoesmyhair.jpg)
+
 >Achilles' AYJ Pops Orchestra :D it was a lot of fun to be apart of it and also a lot of fun having stella as my stand partner HHHHHHHH
 ![ayjpopsorchestra](/githubimages/ayjpopsorchestra.jpg)
 
