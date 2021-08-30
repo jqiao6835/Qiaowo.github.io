@@ -159,11 +159,11 @@ a:active {
 *The internet (The most important education obviously) :))))
 * <i class="fas fa-file fa-lg"></i> You can also download my resume [here](RESUME - 06.30.2021.pdf)
 
-<h1 style="font-size:20px;"><p style="color:#4eb174;">Technical Skills</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4eb174;">🖥️Technical Skills🖥️</p></h1>
 * better tahn any indian tech support guy you can call
 * I can also photoshop pretty cursed images of my friends :)))
 
-<h1 style="font-size:20px;"><p style="color:#4eb174;">List of Programs I'm familiar with</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4eb174;">💽List of Programs I'm familiar with💽</p></h1>
 
 >💽 Adobe Photoshop
 
@@ -187,28 +187,30 @@ a:active {
 
 >💽 Ocenaudio
 
-<h1 style="font-size:20px;"><p style="color:#4eb174;">Programming Languages</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4eb174;">📝Programming Languages📝</p></h1>
 
 * Engrish
 * jk i no program i just draw lines and colour stuff :^)))
 * Fake HTML (just copy paste from Flora's template hhhh ;)))))
 
-<h1 style="font-size:20px;"><p style="color:#4eb174;">Professional Experiences</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4eb174;">🌟Professional Experiences🌟</p></h1>
 
 * you ;)       ....ahahaha idk what that means LOL pretend u didnt read that
 * I like to press buttons on soundboards :))
 * I sometimes make sussy crappy logos for people :DDD
 
-<h1 style="font-size:20px;"><p style="color:#4eb174;">Gallery of Very Sus Photos</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4eb174;">🤔Gallery of Very Sus Photos🤔</p></h1>
 [📷Cursed images...You have been warned!📷](/photo.md)
 
-<h1 style="font-size:20px;"><p style="color:#4eb174;">SKY PHOTOS (work in progress⛔)</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4eb174;">SKY PHOTOS 
+<br>(🈲work in progress🈲)</p></h1>
 [📷SKY PHOTOS📷](/Sky.md)
 
 <h1 style="font-size:20px;"><p style="color:#4eb174;">⚜️Quebec Photos!⚜️</p></h1>
 [📷Photos from my Quebec trip!📷](/Quebec.md)
 
-<h1 style="font-size:20px;"><p style="color:#4eb174;">My Past Photography Photos!(work in progress⛔)</p></h1>
+<h1 style="font-size:20px;"><p style="color:#4eb174;">My Past Photography Photos!
+<br>(🈲work in progress🈲)</p></h1>
 [📷Past Photography Photos!📷](/pastphotography.md)
 
 <h1 style="font-size:20px;"><p style="color:#4eb174;">Member of Quarantined Bagels Discord Server</p></h1>
