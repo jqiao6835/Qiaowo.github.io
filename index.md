@@ -79,7 +79,7 @@ a:active {
             <a href="https://open.spotify.com/user/jqiao6835" target="blank"><i class="fab fa-spotify fa-lg"></i> Spotify</a>
         </td>
         <td>
-            <i class="fab fa-discord fa-lg"></i>Discord: жасминичка💚#5043
+            <a href="https://discordapp.com/users/433057016353652738/" target="blank"><i class="fab fa-discord fa-lg"></i>Discord: жасминичка💚#5043</a>
         </td>
     </tr>
 </table>
