@@ -218,8 +218,9 @@ a:active {
 
 
 <h1 style="font-size:20px;"><p style="color:#4eb174;">Questionable Quotes by Moi🙂</p></h1>
-
+<p style="color:#008055;">
 These are quotes said by Me some point in time in the Quarantined Bagels Discord Server. I really don't know what to say about these.....they were either said when my brain was running on 2 braincells or it's just Me being wacc...they have no context..I'm just sus lol. 
+</p>
 
 
 <p style="color:#ea485b;">
@@ -392,8 +393,9 @@ These are quotes said by Me some point in time in the Quarantined Bagels Discord
 <p style="border: 2px solid #008055;">~~~ It's not okay to not be green💚 - Me ~~~</p>
 <br>
 <h1 style="font-size:20px;"><p style="color:#f07400;">🙌✭Special Thanks✭🙌</p></h1>
-
+<p style="color:#008055;">
 Special thanks to my collaborators on helping me with this GitHub project! It wouldn't have been possible for me to become addicted to coding this without you guys. Thanks for making this possible! :))
+</p>
 <br>
 <br>
 <b>You can find their addy's here:</b>
