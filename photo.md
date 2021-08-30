@@ -210,6 +210,9 @@ body {
 ![hoardingabunchofdrinkshome](/githubimages/hoardingabunchofdrinkshome.jpg)
 ![hoardingabunchofdrinkshome2](/githubimages/hoardingabunchofdrinkshome2.jpg)
 
-
+>Stella, Mayya, and me making a custom t-shirt for Flora's bday
+![florashirt](/githubimages/florashirt.jpg)
+![florashirt2](/githubimages/florashirt2.jpg)
+![florashirt3](/githubimages/florashirt3.jpg)
 
 [Back To Home](/index.md)
