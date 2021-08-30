@@ -235,7 +235,7 @@ These are quotes said by Me some point in time in the Quarantined Bagels Discord
 <br>
 <br>
 
-🌺"Look at the top of my head" - Me 2020
+🌺"Can someone kidnap me" - Me 2020
 <br>
 <br>
 
@@ -244,6 +244,67 @@ These are quotes said by Me some point in time in the Quarantined Bagels Discord
 <br>
 
 🌺"Surrealism is just bs of art" - Me 2020
+<br>
+<br>
+
+🌺"No u pour the spoon and bowl into the cereal and milk, 
+you eat the milk and drink the cereal dUh" - Me 2020
+<br>
+<br>
+
+🌺"i dont eat milk" - Me 2020
+<br>
+<br>
+
+🌺"..but like what if you land on chernobyl" - Me 2020
+<br>
+<br>
+
+🌺"WE WILL BALANCE YOUR MIND. WE WILL EQUILIBRIUM IT TO THE POINT THAT IT IS SO BALANCED THAT UR PH OF UR BIOLOGY IS EVEN NEUTRALIZED" - Me 2020
+<br>
+<br>
+
+🌺"i drink tea more than water...yeah i just inhale the tea packet" - Me 2020
+<br>
+<br>
+
+🌺*I had to present smth in class and was nervous*
+<br>Me: "I'm scared.."
+<br>Stella: "then <s>have some alcohol first</s>" - Me 2020
+<br>Me: ".....oh like hand sanitizer"
+<br>Stella:"hM"
+<br>
+
+🌺"Thanos dollarama version" - Me 2020
+<br>
+<br>
+
+🌺"so apparently my math teacher just posted that we didnt have to do one of the questions.........
+and its one of the questions that i spent a lot of time on....🙂" - Me 2020
+<br>
+<br>
+
+🌺"EAT THE WATER" - Me 2020
+<br>
+<br>
+
+🌺"i wanntnttn samlmonn" - Me 2020
+<br>
+<br>
+
+🌺"arresting is not social distancing so cops legally can't arrest people now👀" - Me 2020
+<br>
+<br>
+
+🌺"amanda im selling you my stomach" - Me 2020
+<br>
+<br>
+
+🌺"i gotta go top" - Me 2020
+<br>
+<br>
+
+🌺"stella bald, bald, bald" - Me 2020
 <br>
 <br>
 
