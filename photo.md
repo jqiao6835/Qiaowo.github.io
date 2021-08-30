@@ -191,7 +191,7 @@ body {
 >Chilling at the park while Mayya is being dead FOR ONCE she isn't being chaotic ahahaha
 ![chillingatthepark](/githubimages/chillingatthepark.jpg)
 
->Graduating with 3? awards I think? But ayyyy done with A.Y :))))
+>Graduating with 3? awards I think? But ayyyy graduated with Ont. scholars and done with A.Y :)))) Imma miss highschool and all the fun times<3
 ![grad stuff](/githubimages/grad stuff.jpg)
 
 >Playing Cat's Cradle in Flora's car
